@@ -7,5 +7,15 @@
     "image": "https://danesandy.github.io/la-senal-podcast/cover.jpg",
     "author": "La Señal"
   },
-  "episodes": []
+  "episodes": [
+    {
+      "id": "000",
+      "title": "Episodio 0 — Prueba de nivel",
+      "description": "A 12-minute listening diagnostic. Five passages, each faster and denser than the last, each followed by three spoken questions. Score yourself with the sheet in the show notes; your result sets Day 1. Instructions in English; everything else in Spanish.",
+      "pubDate": "2026-07-05T08:42:56",
+      "duration_s": 478.201224,
+      "bytes": 3826371,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-000/ep000.mp3"
+    }
+  ]
 }
