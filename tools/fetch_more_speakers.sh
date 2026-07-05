@@ -1,7 +1,7 @@
 #!/bin/bash
 # Supplemental fetch: speakers ranked 4-6 from the Colombian corpora.
 set -euo pipefail
-PROJ="/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast"
+PROJ="/Users/danesandy/la-senal-podcast"
 RAW="$PROJ/voices/raw"
 TMP="${TMPDIR:-/tmp}/slr_dl"
 mkdir -p "$TMP"

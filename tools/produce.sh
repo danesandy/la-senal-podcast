@@ -5,7 +5,7 @@
 set -uo pipefail
 
 export PROJ="$(cd "$(dirname "$0")/.." && pwd)"
-PY="/Users/danesandy/Documents/Software_Projects/_pipeline/chatterbox/.venv/bin/python"
+PY="$PROJ/.venv/bin/python"
 LOG="$PROJ/audio-work/produce.log"
 mkdir -p "$PROJ/audio-work"
 
@@ -23,7 +23,7 @@ with open('$PROJ/episodes.json') as f:
     print(' '.join(e['id'] for e in json.load(f)['episodes']))
 ")
 
-for script in $(ls "$PROJ/scripts"/ep*.json | sort); do
+for script in "$PROJ/scripts"/ep*.json; do
   ep=$(basename "$script" .json | sed 's/^ep//')
   if [[ " $published_ids " == *" $ep "* ]]; then
     continue
