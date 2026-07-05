@@ -127,10 +127,33 @@ def speech_quality(wav_tensor, sr):
     return peak / (rms + 1e-9)
 
 
+CHUNK_QC_SIM = 0.62      # per-chunk whisper match to accept a take
+
+
+def take_score(wav, sr, text, lang, tmp_path):
+    """Ground-truth quality of one generated take: Whisper-transcribe it and
+    compare to the intended text. Catches every Chatterbox failure mode
+    (tonal drone, static burst, wrong/looped words, silence) that audio-only
+    metrics miss. Dead-silent or fully-static takes are rejected cheaply first.
+    Returns a 0..1 score. Very short texts fall back to a liveness check since
+    word-similarity is unreliable on 1–2 words."""
+    import torchaudio
+    crest = speech_quality(wav, sr)
+    if crest < 2.5:                       # obvious dead/static take — skip whisper
+        return 0.0
+    torchaudio.save(tmp_path, wav, sr)
+    got = transcribe(tmp_path, lang)
+    n_words = len(norm_text(text).split())
+    if n_words <= 2:
+        # can't trust similarity on 1–2 words; require non-empty + live audio
+        return 1.0 if (got.strip() and crest >= 3.2) else 0.2
+    return similarity(text, got)
+
+
 def synth_chunk(model, text, lang, voice_cfg, out_path):
     """Generate one chunk, self-healing against Chatterbox's stochastic
     failures: catches generation crashes (alignment-analyzer IndexError etc.)
-    and rejects static takes, retrying and keeping the best attempt."""
+    and rejects bad takes by Whisper round-trip, retrying and keeping the best."""
     import torch
     import torchaudio
     kwargs = {
@@ -142,6 +165,7 @@ def synth_chunk(model, text, lang, voice_cfg, out_path):
     if "cfg_weight" in voice_cfg:
         kwargs["cfg_weight"] = voice_cfg["cfg_weight"]
 
+    tmp_path = out_path + ".take.wav"
     best_wav, best_score = None, -1.0
     for attempt in range(GEN_TRIES):
         try:
@@ -153,13 +177,16 @@ def synth_chunk(model, text, lang, voice_cfg, out_path):
         # MPS output can exceed full scale / contain non-finite samples, which
         # crashes LAME's psymodel downstream. Sanitize at the source.
         wav = torch.nan_to_num(wav).clamp(-1.0, 1.0)
-        score = speech_quality(wav, model.sr)
+        score = take_score(wav, model.sr, text, lang, tmp_path)
         if score > best_score:
             best_wav, best_score = wav, score
-        if score >= SPEECH_MIN_CREST:            # clean speech — keep it
+        if score >= CHUNK_QC_SIM:
             break
-        print(f"[render]   gen attempt {attempt} looks like static "
-              f"(crest={score:.1f}); retrying", flush=True)
+        print(f"[render]   gen attempt {attempt} failed QC "
+              f"(match={score:.2f}); retrying", flush=True)
+
+    if os.path.exists(tmp_path):
+        os.remove(tmp_path)
 
     if best_wav is None:
         # Every attempt crashed. Emit a short silence so the queue survives;
@@ -167,9 +194,9 @@ def synth_chunk(model, text, lang, voice_cfg, out_path):
         print(f"[render]   ALL {GEN_TRIES} attempts crashed for: {text[:60]!r} "
               f"— inserting silence", flush=True)
         best_wav = torch.zeros(1, int(model.sr * 0.4))
-    elif best_score < SPEECH_MIN_CREST:
-        print(f"[render]   kept best-of-{GEN_TRIES} take (crest={best_score:.1f})",
-              flush=True)
+    elif best_score < CHUNK_QC_SIM:
+        print(f"[render]   kept best-of-{GEN_TRIES} take (match={best_score:.2f}) "
+              f"for: {text[:50]!r}", flush=True)
 
     torchaudio.save(out_path, best_wav, model.sr)
     return best_wav.shape[-1] / model.sr
@@ -236,13 +263,13 @@ def render_episode(script_path, voicebank, _depth=0):
             for ci, chunk in enumerate(chunks):
                 key = chunk_key(voice, tlang, chunk)
                 cpath = os.path.join(chunks_dir, key + ".wav")
-                # Reuse a cached chunk only if it is actually speech — a static
-                # take saved by an earlier (pre-fix) run must not be trusted.
+                # Reuse a cached chunk only if it actually matches its text —
+                # a static/drone take saved by an earlier run must not survive.
                 if os.path.exists(cpath):
                     cw, _ = torchaudio.load(cpath)
-                    if speech_quality(cw, sr) < SPEECH_MIN_CREST:
+                    if take_score(cw, sr, chunk, tlang, cpath + ".chk.wav") < CHUNK_QC_SIM:
                         print(f"[render] ep{ep_id}/{seg_name} [{voice}]: cached chunk "
-                              f"is static — regenerating", flush=True)
+                              f"failed QC — regenerating", flush=True)
                         os.remove(cpath)
                 if not os.path.exists(cpath):
                     t0 = time.time()
