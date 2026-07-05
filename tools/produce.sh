@@ -30,6 +30,11 @@ for script in "$PROJ/scripts"/ep*.json; do
   fi
   echo "[produce $(date '+%F %T')] rendering ep$ep" | tee -a "$LOG"
   if caffeinate -i "$PY" "$PROJ/tools/render_episode.py" "$script" >> "$LOG" 2>&1; then
+    # Publish gate: never ship an episode that still contains static.
+    if ! "$PY" "$PROJ/tools/scan_static.py" "$PROJ/audio-work/out/ep${ep}.mp3" >> "$LOG" 2>&1; then
+      echo "[produce] STATIC DETECTED in ep$ep — NOT publishing; left in audio-work/out for review" | tee -a "$LOG"
+      exit 1
+    fi
     echo "[produce $(date '+%F %T')] publishing ep$ep" | tee -a "$LOG"
     "$PROJ/tools/publish.sh" "$ep" >> "$LOG" 2>&1 || {
       echo "[produce] PUBLISH FAILED ep$ep" | tee -a "$LOG"; exit 1; }
