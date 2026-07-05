@@ -1,0 +1,157 @@
+{
+  "episode": "027",
+  "day": 27,
+  "arc": 1,
+  "title": "La víspera",
+  "description": "The night before the predicted signal. Everything that can be checked is checked twice, clouds gather over the llanos, and each member of the team faces the longest wait of their lives in their own quiet way.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Camila tuvo una idea: muchas orejas pequeñas. Andrés diseñó una antena barata, para cualquier techo. Construyeron el prototipo en el techo de doña Marta. El alquiler: dos ajiacos por semana. La red multiplicó las antenas por todo el país. Y Julio volvió al equipo. La vergüenza pesa más que el miedo, dijo. Trajo equipo prestado para comprobar el prototipo. Lo va a devolver el lunes. Todo funciona. Todo está listo. La señal llega mañana, de madrugada, a las tres y cincuenta y dos." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Hoy es la víspera. ¿La víspera? La víspera es el día antes del gran día. La noche antes de la noche importante. La víspera de Navidad, la víspera de un examen. Esta es la víspera de la señal. Y en la víspera, nadie está tranquilo." },
+        { "voice": "narrator", "text": "En el observatorio, todos comprueban todo. ¿Comprobar? Ya conocen esta palabra. Comprobar es revisar con cuidado. Es mirar dos veces, para estar seguro. Julio comprueba los cables. Andrés comprueba el generador. ¿Por qué el generador? Por la tormenta del día seis. Nadie olvida esa tormenta. Un rayo, y todo se apaga." },
+        { "voice": "camila", "text": "Andrés, ¿ya comprobaste la antena de don Ramiro?" },
+        { "voice": "andres", "text": "Dos veces, doctora. Y don Ramiro la comprobó otras dos. Su perro también la comprobó. A su manera." },
+        { "voice": "camila", "text": "¿Y las antenas de la red? ¿Las orejas pequeñas?" },
+        { "voice": "andres", "text": "Dieciséis techos, dieciséis antenas, todas funcionan. Lo comprobamos esta tarde, una por una." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Pero hay algo que nadie puede comprobar. Algo que nadie puede controlar. El cielo. Por la tarde, don Ramiro llama por radio. Su voz suena seria." },
+        { "voice": "aux_m", "text": "Muchachos, aquí hay nubes. Nubes grandes y negras, sobre los llanos. Y se están acercando." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Nubes. Una nube es blanca o gris, y vive en el cielo. Las nubes traen lluvia. Las nubes negras traen tormenta. Y estas nubes se acercan. Acercarse: venir más cerca, y más cerca, y más cerca. Las nubes se acercan a la antena de don Ramiro. Claro que sí. Justo esta noche. Claro." },
+        { "voice": "julio", "text": "¿Y si hay tormenta? ¿Perdemos la señal?" },
+        { "voice": "andres", "text": "La lluvia no es problema. La señal de radio pasa por las nubes. Pero un rayo… un rayo mata la electricidad. Y sin electricidad, no grabamos nada." },
+        { "voice": "narrator", "text": "Todos miran el mapa del clima. Las nubes se acercan despacio. Quizás llegan antes de las tres y cincuenta y dos. Quizás no. Nadie puede hacer nada. Solo esperar." }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "La noche llega. Faltan horas. Y cada persona espera a su manera. Vamos a visitarlos, uno por uno. En silencio. Como amigos." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Camila está en su apartamento de Chapinero. No mira la pantalla. No mira los datos. Mira un libro viejo y grande. Es un atlas. ¿Un atlas? Un atlas es un libro de mapas. Este atlas es especial: es un atlas del cielo. Mapas de estrellas, página por página. El atlas era de su padre." },
+        { "voice": "camila", "text": "Papá, tú me enseñaste los nombres. Esta estrella, y esta, y esta. Tú decías: el cielo es un país, y el atlas es su mapa." },
+        { "voice": "narrator", "text": "El padre de Camila murió hace años. Pero el atlas está aquí. Camila pasa las páginas despacio. Busca la posición de mañana. La posición exacta de la señal. Pone un dedo en el mapa. En ese punto del atlas no hay nada. Ninguna estrella con nombre. Solo un espacio negro y viejo." },
+        { "voice": "camila", "text": "¿Quién eres? Mañana te escucho. Otra vez." },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "En Medellín no, perdón: en Bogotá, en su cuarto pequeño, Andrés graba una nota de voz. Es para Tía Chela, en Maracaibo. Habla bajito, con el termo en la mano." },
+        { "voice": "andres", "text": "Tía. ¿Cómo está la cosa por allá? Por aquí todo bien. Mañana tenemos… un trabajo grande. Un trabajo importante. No te puedo contar mucho. Pero quiero decirte algo, tía. Papá tenía razón. Con la antena del techo, ¿recuerdas? Papá siempre tenía razón. Bueno. Eso. Cuídate, pues. Te quiero." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "La nota no dice nada importante. Y dice todo. Andrés la manda y mira el teléfono. Maracaibo duerme. Esta noche, Chela no contesta. Andrés se queda con el termo, mirando la ventana. En Caracas, hace años, había una antena en un techo. Esta noche hay dieciséis. Valió la pena. Todo valió la pena." }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Abajo, en la calle, hay un taxi con la luz apagada. Es El Flaco. El Flaco no duerme. El Flaco pule su taxi. ¿Pulir? Pulir es limpiar y limpiar y limpiar. Limpiar hasta brillar. El Flaco pule el espejo. Pule la puerta. Pule la placa. El taxi ya brilla como un sol. Y él sigue puliendo." },
+        { "voice": "camila", "text": "Flaco, son las once de la noche. ¿Por qué pules el taxi a esta hora?" },
+        { "voice": "elflaco", "text": "Por si acaso, doctora." },
+        { "voice": "camila", "text": "¿Por si acaso qué?" },
+        { "voice": "elflaco", "text": "Por si toca salir rápido. Mañana puede pasar cualquier cosa. Y un taxi limpio corre más. Eso es ciencia, doctora. Ciencia de taxista." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Por si acaso. Qué expresión tan útil. Por si acaso: porque quizás pasa algo. Llevas un paraguas por si acaso. Guardas dinero por si acaso. El Flaco pule su taxi por si acaso. Nadie discute con la ciencia de taxista." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Y en su casa, en la cocina, está Julio. Julio no pule nada. Julio no mira mapas. Julio reza. ¿Rezar? Rezar es hablar con Dios. En voz baja, con las manos juntas. Las palabras de rezar se llaman una oración. Julio no va a la iglesia desde hace años. Julio cree a medias. Pero esta noche, la mitad que cree… reza." },
+        { "voice": "julio", "text": "Señor… yo no sé si esto viene de ti. No sé de dónde viene. Solo te pido una cosa: cuida a mis amigos. Y si puedes… manda la tormenta para otro lado." },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "Una oración corta. Una oración honesta. Quizás la mejor clase de oración." },
+        { "voice": "narrator", "text": "El atlas de Camila. La nota de Andrés. El taxi de El Flaco. La oración de Julio. Cada persona tiene su ritual. ¿Un ritual? Un ritual es algo que repetimos, siempre igual, en momentos importantes. Un ritual calma los nervios. Un ritual da compañía. Esta noche, cuatro rituales miran el mismo cielo." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Y sobre los llanos, lejos, las nubes negras siguen acercándose. Un rayo baja, en silencio, muy lejos. Don Ramiro lo mira desde su puerta. Su perro no ladra. Todavía." }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real. Hoy: la víspera. ¿Por qué esperar es tan difícil? Los seres humanos podemos correr, trabajar, pelear. Pero esperar… esperar nos vuelve locos. En la víspera no hay nada que hacer. Y ese nada pesa mucho." },
+        { "voice": "narrator", "text": "Piensen en un futbolista, la víspera de una final. Ya entrenó todo el año. Esta noche no puede hacer nada más. Entonces usa rituales. Muchos futbolistas usan siempre las mismas medias. O entran a la cancha con el pie derecho primero. O comen el mismo desayuno exacto. ¿Funciona? La ciencia dice: las medias no hacen goles. Pero el ritual sí ayuda. El ritual calma. El ritual da control. Un poco de control, en una noche sin control." },
+        { "voice": "narrator", "text": "Piensen en un estudiante, la víspera de un examen grande. Los profesores dicen: no estudies esta noche. Duerme. Y el estudiante no duerme, claro. Mira el techo. Repasa todo en la cabeza. La víspera de un examen es más difícil que el examen." },
+        { "voice": "narrator", "text": "¿Y qué ayuda de verdad? La paciencia. ¿Qué es la paciencia? La paciencia es saber esperar sin volverse loco. Es aceptar el tiempo. La paciencia no es no hacer nada. Es hacer las cosas pequeñas: pulir un taxi, mirar un atlas, rezar una oración. La paciencia es un músculo. Y esta noche, nuestros amigos entrenan ese músculo. Toda la noche." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repaso. Un repaso tranquilo, para una noche nerviosa." },
+        { "voice": "narrator", "text": "Hoy fue la víspera: el día antes del gran día. En la víspera, todos comprobaron todo. Comprobar: revisar dos veces, para estar seguro. Comprobaron los cables, el generador, las dieciséis antenas de la red. Los resultados: todo funciona." },
+        { "voice": "narrator", "text": "Pero las nubes se acercan a los llanos. Acercarse: venir más cerca. Nubes negras, de tormenta. Como la tormenta del día seis. Esa tormenta dañó la antena grande. Nadie quiere recordar eso. Todos lo recuerdan." },
+        { "voice": "narrator", "text": "Cada persona tuvo su ritual. Camila miró el atlas de su padre: un libro de mapas del cielo. Andrés mandó una nota de voz a Chela. Habló del techo de Caracas, del equipo, de su padre. El Flaco pulió su taxi: lo limpió hasta brillar. ¿Por qué? Por si acaso. Por si toca salir rápido. Y Julio rezó una oración corta y honesta." },
+        { "voice": "narrator", "text": "Un ritual: algo que repetimos en momentos importantes. Los rituales calman. Y la paciencia, ese músculo, es saber esperar sin volverse loco." },
+        { "voice": "narrator", "text": "Mañana no hay víspera. Mañana es el día. A las tres y cincuenta y dos de la madrugada, el país entero escucha. Dieciséis techos. Una antena grande. Un perro. Y nosotros. Hasta mañana. No falten." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "la víspera", "gloss": "the eve, the day before" },
+    { "term": "comprobar", "gloss": "to check, verify (refresh from day 4, fully circled)" },
+    { "term": "el atlas", "gloss": "atlas, book of maps" },
+    { "term": "la oración / rezar", "gloss": "prayer / to pray" },
+    { "term": "pulir", "gloss": "to polish" },
+    { "term": "por si acaso", "gloss": "just in case" },
+    { "term": "la nube", "gloss": "cloud" },
+    { "term": "acercarse", "gloss": "to approach, come closer" },
+    { "term": "el ritual", "gloss": "ritual" },
+    { "term": "la paciencia", "gloss": "patience" }
+  ],
+  "vocab_recycled": [
+    { "term": "el diseño", "from_day": 26 },
+    { "term": "barato/barata", "from_day": 26 },
+    { "term": "construir", "from_day": 26 },
+    { "term": "el prototipo", "from_day": 26 },
+    { "term": "la oreja / el oído", "from_day": 26 },
+    { "term": "multiplicar", "from_day": 26 },
+    { "term": "el alquiler", "from_day": 26 },
+    { "term": "la vergüenza", "from_day": 26 },
+    { "term": "devolver", "from_day": 26 },
+    { "term": "el equipo (dos sentidos)", "from_day": 24 },
+    { "term": "el padre", "from_day": 24 },
+    { "term": "el recuerdo / recordar", "from_day": 24 },
+    { "term": "valer la pena", "from_day": 24 },
+    { "term": "el techo", "from_day": 20 },
+    { "term": "el perro", "from_day": 20 },
+    { "term": "ladrar", "from_day": 20 },
+    { "term": "el resultado", "from_day": 20 },
+    { "term": "la tensión", "from_day": 20 },
+    { "term": "la tormenta", "from_day": 6 },
+    { "term": "el rayo", "from_day": 6 },
+    { "term": "el generador", "from_day": 6 },
+    { "term": "la electricidad", "from_day": 6 },
+    { "term": "dañar", "from_day": 6 },
+    { "term": "la ventana", "from_day": 6 },
+    { "term": "funcionar", "from_day": 6 }
+  ]
+}

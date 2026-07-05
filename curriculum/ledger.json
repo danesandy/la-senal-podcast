@@ -1,0 +1,3745 @@
+{
+  "items": [
+    {
+      "term": "la antena",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "la señal",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "el ruido",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "la estrella",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "escuchar",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "grabar",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "los datos",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "de repente",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "raro/rara",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "el observatorio",
+      "day": 1,
+      "recycle_due": [
+        2,
+        4,
+        8,
+        22,
+        61
+      ]
+    },
+    {
+      "term": "el turno",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "dormir",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "la pantalla",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "la grabación",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "la forma",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "la interferencia",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "el/la colega",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "revisar",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "casi",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "todavía",
+      "day": 2,
+      "recycle_due": [
+        3,
+        5,
+        9,
+        23,
+        62
+      ]
+    },
+    {
+      "term": "el/la taxista",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "manejar",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "el programa",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "esconder",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "el gobierno",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "la luz / las luces",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "creer",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "quizás",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "últimamente",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "el cerro",
+      "day": 3,
+      "recycle_due": [
+        4,
+        6,
+        10,
+        24,
+        63
+      ]
+    },
+    {
+      "term": "ocurrir",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "la casualidad",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "el patrón",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "exacto/exacta",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "despertar",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "asustado/asustada",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "comprobar",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "dos veces",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "la hora",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "mismo/misma",
+      "day": 4,
+      "recycle_due": [
+        5,
+        7,
+        11,
+        25,
+        64
+      ]
+    },
+    {
+      "term": "el jefe / la jefa",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "el dinero / los fondos",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "pedir",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "el fantasma",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "enojado/enojada",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "el origen",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "desconocido/desconocida",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "la reunión",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "prometer",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "el presupuesto",
+      "day": 5,
+      "recycle_due": [
+        6,
+        8,
+        12,
+        26,
+        65
+      ]
+    },
+    {
+      "term": "la tormenta",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "el rayo",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "la electricidad",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "el generador",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "dañar / dañado",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "la ventana",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "perder",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "funcionar",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "la lluvia",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "el técnico",
+      "day": 6,
+      "recycle_due": [
+        7,
+        9,
+        13,
+        27,
+        66
+      ]
+    },
+    {
+      "term": "el ingeniero / la ingeniera",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "arreglar",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "la herramienta",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "la empresa",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "instalar",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "el principio",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "el termo",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "la arepa",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "tener razón",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "chévere",
+      "day": 7,
+      "recycle_due": [
+        8,
+        10,
+        14,
+        28,
+        67
+      ]
+    },
+    {
+      "term": "la obra",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "subir",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "bajar",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "el cable",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "conectar",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "la caja",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "el apagón",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "mudarse",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "la entrega",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "explicar",
+      "day": 8,
+      "recycle_due": [
+        9,
+        11,
+        15,
+        29,
+        68
+      ]
+    },
+    {
+      "term": "el ritmo",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "fuerte",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "débil",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "el nervio / nervioso",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "esperar",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "el silencio",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "tarde",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "el comentarista",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "pálido/pálida",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "latir / el latido",
+      "day": 9,
+      "recycle_due": [
+        10,
+        12,
+        16,
+        30,
+        69
+      ]
+    },
+    {
+      "term": "la apuesta",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "apostar",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "el intervalo",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "moverse",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "la órbita",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "roto/rota",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "quejarse",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "el contrato",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "quedarse",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "el desayuno",
+      "day": 10,
+      "recycle_due": [
+        11,
+        13,
+        17,
+        31,
+        70
+      ]
+    },
+    {
+      "term": "el puesto",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "el chisme",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "chismoso/chismosa",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "la camioneta",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "gris",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "preguntar por",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "el barrio",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "fiarse / fiado",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "atender",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "la clienta / el cliente",
+      "day": 11,
+      "recycle_due": [
+        12,
+        14,
+        18,
+        32,
+        71
+      ]
+    },
+    {
+      "term": "el favor",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "la nota de voz",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "el/la vecino",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "el satélite",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "pasar por",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "la prueba",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "la semana",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "mandar",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "el saludo",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "chamo/chama",
+      "day": 12,
+      "recycle_due": [
+        13,
+        15,
+        19,
+        33,
+        72
+      ]
+    },
+    {
+      "term": "la explicación",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "la lista",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "el avión",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "el radar",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "el sensor",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "el microondas",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "descartar",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "la razón",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "o sea",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "entonces",
+      "day": 13,
+      "recycle_due": [
+        14,
+        16,
+        20,
+        34,
+        73
+      ]
+    },
+    {
+      "term": "la cocina",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "el horno",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "durante",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "el misterio",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "misterioso/misteriosa",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "resolver",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "reírse",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "el informe",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "la rutina / rutinario",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "adelantar",
+      "day": 14,
+      "recycle_due": [
+        15,
+        17,
+        21,
+        35,
+        74
+      ]
+    },
+    {
+      "term": "identificar",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "la verdad",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "mentir / la mentira",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "firmar",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "enviar",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "la oficina",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "el ministerio",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "subrayar",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "leal",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "el sello",
+      "day": 15,
+      "recycle_due": [
+        16,
+        18,
+        22,
+        36,
+        75
+      ]
+    },
+    {
+      "term": "la visita",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "el funcionario / la funcionaria",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "la inspección",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "la foto / fotografiar",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "extranjero/extranjera",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "hacerse el tonto",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "la placa",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "vigilar",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "abajo / arriba",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "fingir",
+      "day": 16,
+      "recycle_due": [
+        17,
+        19,
+        23,
+        37,
+        76
+      ]
+    },
+    {
+      "term": "oculto/oculta",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "el episodio",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "conectar",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "la teoría",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "absurdo/absurda",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "jurar",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "el secreto",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "la entrevista",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "negociar",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "el trato",
+      "day": 17,
+      "recycle_due": [
+        18,
+        20,
+        24,
+        38,
+        77
+      ]
+    },
+    {
+      "term": "el eco",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "reflejar / el reflejo",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "la copia",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "débil",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "rebotar",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "contestar",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "localizar",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "segundo/segunda",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "nuestro/nuestra",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "la idea",
+      "day": 18,
+      "recycle_due": [
+        19,
+        21,
+        25,
+        39,
+        78
+      ]
+    },
+    {
+      "term": "el/la radioaficionado",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "la red",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "el/la voluntario",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "el/la jubilado",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "la monja",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "el llano / los llanos",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "desconfiar",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "grabar",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "la emisora",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "la madrugada",
+      "day": 19,
+      "recycle_due": [
+        20,
+        22,
+        26,
+        40,
+        79
+      ]
+    },
+    {
+      "term": "la torre",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "el techo",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "la matemática / el cálculo",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "la servilleta",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "cerca / lejos",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "demasiado",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "el perro",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "ladrar",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "la tensión",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "el resultado",
+      "day": 20,
+      "recycle_due": [
+        21,
+        23,
+        27,
+        41,
+        80
+      ]
+    },
+    {
+      "term": "la luna",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "el sistema solar",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "el proyecto",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "secreto/secreta",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "verificar",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "callar / callado",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "elegir",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "el hermano",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "confiar",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "la escala",
+      "day": 21,
+      "recycle_due": [
+        22,
+        24,
+        28,
+        42,
+        81
+      ]
+    },
+    {
+      "term": "el/la analista",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "por casualidad",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "amable",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "la espada",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "confesar",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "la copia",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "adentro / afuera",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "sospechar",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "el/la espía",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "la cortesía",
+      "day": 22,
+      "recycle_due": [
+        23,
+        25,
+        29,
+        43,
+        82
+      ]
+    },
+    {
+      "term": "el permiso",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "el trámite",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "la confianza / de confianza",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "deportar",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "el peligro",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "peligroso/peligrosa",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "el/la abogado",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "el papel / los papeles",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "la firma",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "tranquilo/tranquila",
+      "day": 23,
+      "recycle_due": [
+        24,
+        26,
+        30,
+        44,
+        83
+      ]
+    },
+    {
+      "term": "la decisión",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "decidir",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "el laboratorio",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "el equipo",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "empezar de nuevo",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "el boleto / el tiquete",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "sentirse",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "la memoria / el recuerdo",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "el padre",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "valer la pena",
+      "day": 24,
+      "recycle_due": [
+        25,
+        27,
+        31,
+        45,
+        84
+      ]
+    },
+    {
+      "term": "el plan",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "predecir",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "el modelo",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "apuntar",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "la posición",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "la dirección",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "simultáneo / al mismo tiempo",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "el/la primo",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "el camión",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "la logística",
+      "day": 25,
+      "recycle_due": [
+        26,
+        28,
+        32,
+        46,
+        85
+      ]
+    },
+    {
+      "term": "el diseño / diseñar",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "barato/barata",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "caro/cara",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "construir",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "el prototipo",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "la oreja / el oído",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "multiplicar",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "el alquiler",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "la vergüenza",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "devolver",
+      "day": 26,
+      "recycle_due": [
+        27,
+        29,
+        33,
+        47,
+        86
+      ]
+    },
+    {
+      "term": "la víspera",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "comprobar",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "el atlas",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "la oración / rezar",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "pulir",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "por si acaso",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "la nube",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "acercarse",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "el ritual",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "la paciencia",
+      "day": 27,
+      "recycle_due": [
+        28,
+        30,
+        34,
+        48,
+        87
+      ]
+    },
+    {
+      "term": "responder / la respuesta",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "el segundo",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "el susurro / susurrar",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "la piel de gallina",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "enterrado/enterrada",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "debajo de",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "el pecho",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "latir",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "en vivo",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "el escalofrío",
+      "day": 28,
+      "recycle_due": [
+        29,
+        31,
+        35,
+        49,
+        88
+      ]
+    },
+    {
+      "term": "la opción",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "votar",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "interrumpir",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "bajarse",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "ya",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "el mundo",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "contarle a",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "la periodista / el periodista",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "el riesgo",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "arriesgar",
+      "day": 29,
+      "recycle_due": [
+        30,
+        32,
+        36,
+        50,
+        89
+      ]
+    },
+    {
+      "term": "el despacho",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "el enemigo / la enemiga",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "proteger",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "el archivo",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "clasificar / clasificado",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "el/la senador",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "el interés / interesarse",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "desviar",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "la carpeta",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "mañana",
+      "day": 31,
+      "recycle_due": [
+        32,
+        34,
+        38,
+        52,
+        91
+      ]
+    },
+    {
+      "term": "anunciar / sin anunciar",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "el encanto",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "la alianza",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "la ciencia",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "el piso",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "desconfiar",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "el favor",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "la poesía",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "financiar",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "a cambio de",
+      "day": 32,
+      "recycle_due": [
+        33,
+        35,
+        39,
+        53,
+        92
+      ]
+    },
+    {
+      "term": "la matrícula / la placa",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "el lavadero",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "el parqueadero",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "el registro",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "la comadre / el compadre",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "privado/privada",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "la seguridad",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "el/la cliente",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "averiguar",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "la economía",
+      "day": 33,
+      "recycle_due": [
+        34,
+        36,
+        40,
+        54,
+        93
+      ]
+    },
+    {
+      "term": "el número primo",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "contar",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "el intervalo",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "la naranja",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "dividir",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "la fecha límite",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "faltar",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "el amanecer",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "trasnochar",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "la pizarra",
+      "day": 34,
+      "recycle_due": [
+        35,
+        37,
+        41,
+        55,
+        94
+      ]
+    },
+    {
+      "term": "la filtración / filtrar",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "el/la fuente",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "fuera de micrófono",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "presionar",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "la lista",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "la familia",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "romperse",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "rastrear",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "la llamada",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    },
+    {
+      "term": "el/la periodista",
+      "day": 35,
+      "recycle_due": [
+        36,
+        38,
+        42,
+        56,
+        95
+      ]
+    }
+  ],
+  "count": 340
+}

@@ -1,0 +1,126 @@
+{
+  "episode": "001",
+  "day": 1,
+  "arc": 1,
+  "title": "Día 1 — «El ruido»",
+  "description": "Astronomer Camila Rey works alone at night in a small observatory above Bogotá — until, at 3:47 in the morning, her computers record a noise that should not exist. Plus: what a radio telescope actually does (hint: it hears nothing).",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "apertura",
+      "lang": "en",
+      "atempo": 1.0,
+      "inter_sentence_pause_s": 0.4,
+      "inter_turn_pause_s": 0.8,
+      "turns": [
+        { "voice": "narrator", "text": "Welcome to La Señal, day one. From here on, everything is in Spanish. Slow, clear Spanish. Do not translate in your head. Just follow the story. You will understand more than you expect. Ready? Here we go." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Bogotá, Colombia. Es de noche. En las montañas, cerca de la ciudad, hay un edificio blanco. No es una casa. No es un hotel. Es un observatorio. ¿Un observatorio? Sí. Un observatorio es un lugar especial. Es un lugar para estudiar el cielo. Para estudiar las estrellas." },
+        { "voice": "narrator", "text": "¿Y qué es una estrella? Mira el cielo de noche. ¿Ves los puntos blancos que brillan? Esos puntos son estrellas. Nuestro sol también es una estrella. Una estrella cerca de nosotros. Las otras estrellas están lejos. Muy, muy lejos. Pero brillan para nosotros cada noche." },
+        { "voice": "narrator", "text": "En este observatorio trabaja una mujer. Se llama Camila Rey. La doctora Camila Rey. Camila tiene treinta y ocho años. Es de Bogotá. Camila es astrónoma. ¿Qué hace una astrónoma? Una astrónoma estudia las estrellas. Estudia el cielo y sus objetos. Ese es su trabajo. Y Camila ama su trabajo." },
+        { "voice": "narrator", "text": "El observatorio tiene una antena. ¿Qué es una antena? Tu radio tiene una antena pequeña. Tu televisión también tiene una antena. La antena recibe información del aire. La antena del observatorio es enorme. Es un plato blanco de metal. Un plato de veinte metros. La antena mira el cielo. Con esa antena, Camila estudia las estrellas." },
+        { "voice": "camila", "text": "Buenas noches, vieja amiga. ¿Qué me vas a dar hoy?" },
+        { "voice": "narrator", "text": "Camila habla con la antena. Sí, habla con una antena. Camila trabaja sola de noche. Y hablar con las máquinas es normal. Bueno... es normal para Camila." },
+        { "voice": "narrator", "text": "La rutina de Camila es simple. Llega al observatorio a las diez de la noche. Prepara un café negro, sin azúcar. Se sienta delante de las computadoras. Y escucha el cielo. ¿Escuchar el cielo? Sí, más o menos. La antena recibe información de las estrellas. Las computadoras guardan esa información. Esa información se llama: los datos. Los datos son números. Miles y miles de números. Camila lee los datos toda la noche." },
+        { "voice": "narrator", "text": "En el observatorio todo está tranquilo. No hay ruido. ¿Qué es el ruido? El ruido es un sonido feo. Un sonido que no queremos escuchar. Los carros hacen ruido. Una fiesta grande hace ruido. El tráfico de Bogotá hace mucho ruido. Pero aquí, en la montaña, no. Aquí no hay ruido. Solo Camila, su café y las estrellas." },
+        { "voice": "narrator", "text": "Desde la montaña, Camila ve la ciudad. Bogotá brilla abajo, a lo lejos. Ocho millones de personas descansan allá abajo. Y Camila trabaja aquí arriba, sola. A ella le gusta así." },
+        { "voice": "camila", "text": "La ciudad descansa. Yo miro el universo. Yo gano." },
+        { "voice": "narrator", "text": "¿Por qué trabaja de noche una astrónoma? Buena pregunta. Mañana hablamos más de eso. Por ahora, solo esto: para Camila, la noche es normal. La noche es su día. Las estrellas son sus colores. Y los datos son su música." },
+        { "voice": "narrator", "text": "Esta noche parece una noche normal. Café. Computadoras. Datos. Estrellas. Pero no. Esta noche no es normal. Esta noche, a las tres y cuarenta y siete, todo cambia." },
+        { "pause": 2.5 }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Son las tres de la mañana. Camila toma su tercer café. Mira los datos en la computadora. Todo normal. Números tranquilos. Una noche más." },
+        { "voice": "narrator", "text": "Las tres y media: nada. Las tres y cuarenta: nada. Camila está un poco cansada. Cierra los ojos un momento. Solo un momento." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Las tres y cuarenta y siete de la mañana." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Y de repente... un ruido." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "¿De repente? De repente significa: muy rápido, en un momento. Primero no hay nada. Un momento después, ¡algo pasa! Eso es de repente. Y este ruido llega así. De repente." },
+        { "voice": "narrator", "text": "La computadora hace un sonido de alarma. Bip, bip, bip. En los datos hay algo nuevo. Algo grande. Un ruido que viene del cielo." },
+        { "voice": "camila", "text": "¿Qué...? ¿Qué es esto?" },
+        { "voice": "narrator", "text": "Camila abre los ojos. Mira los datos. Sí: hay un ruido en los datos. Un ruido del espacio. Pero este ruido no es normal. Es un ruido raro. ¿Raro? Raro significa: extraño, diferente, no normal. Un gato que canta es raro. Nieve en Cartagena es rara. Y este ruido es muy, muy raro." },
+        { "voice": "camila", "text": "Esto no viene de la ciudad. Esto viene de arriba." },
+        { "voice": "narrator", "text": "¿Por qué es raro? Camila conoce los ruidos normales. Los teléfonos hacen ruido en sus datos. Los carros hacen ruido. Los radios de la ciudad hacen ruido. Son ruidos de personas. Camila los ve cada noche. Pero este ruido es diferente. Este ruido no parece humano." },
+        { "voice": "narrator", "text": "Camila mira la computadora. ¿La máquina graba? Sí. La computadora graba el ruido. ¿Qué significa grabar? Grabar es guardar un sonido. Guardar un sonido para escucharlo después. Tu teléfono graba videos. Un músico graba canciones. Y esta noche, la computadora de Camila graba un ruido del cielo. Graba cada segundo. Graba todos los datos." },
+        { "voice": "narrator", "text": "El ruido dura veinte segundos. Después, se va. Camila espera. Un minuto. Cinco minutos. Diez minutos. Nada. El ruido no vuelve." },
+        { "voice": "camila", "text": "A ver, amigo. ¿Qué eres tú? Vamos a escucharte otra vez." },
+        { "voice": "narrator", "text": "Camila escucha el ruido grabado. Otra vez. Y otra vez. Es como una voz de metal. Va y viene, va y viene. No es música. No es una persona. No es un carro. ¿Qué es?" },
+        { "voice": "narrator", "text": "Camila piensa. ¿Es solo un ruido? ¿O es una señal? ¿Cuál es la diferencia? Un ruido no dice nada. Una señal sí dice algo. Una señal es información. El humo es una señal: hay fuego. Un mensaje en tu teléfono es una señal: alguien piensa en ti. ¿Y esto? ¿Es ruido... o es señal?" },
+        { "voice": "camila", "text": "Probablemente no es nada. Probablemente es un teléfono. O un carro. O..." },
+        { "voice": "narrator", "text": "Pero Camila no está segura. Su cabeza dice: no es nada. Su estómago dice: es algo. A las cuatro y media, Camila decide. Guarda los datos con mucho cuidado. Escribe una nota en un papel: ruido raro, tres y cuarenta y siete. Mañana lo estudia con calma." },
+        { "voice": "narrator", "text": "Afuera, el cielo está tranquilo. Las estrellas brillan, como siempre. Pero algo es diferente esta noche. Camila lo siente. El cielo habló. ¿Y va a hablar otra vez?" },
+        { "pause": 2.5 }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Y ahora, una pausa en nuestra historia. Este es el momento del mundo real. Aquí hablamos de cosas reales e interesantes. Hoy: ¿qué es un radiotelescopio?" },
+        { "voice": "narrator", "text": "La antena de Camila es un radiotelescopio. Radio, más telescopio. Tú conoces los telescopios normales. Con un telescopio normal, miras con los ojos. Ves las estrellas más grandes. Ves los planetas. Un radiotelescopio es diferente. Es una antena gigante. Y tiene algo muy curioso." },
+        { "voice": "narrator", "text": "Mucha gente piensa: un radiotelescopio escucha el espacio. Escucha voces y sonidos del cielo. Pero no. Un radiotelescopio no escucha nada. ¿Por qué? Porque en el espacio no hay sonido. El sonido necesita aire. En el espacio no hay aire. Por eso, en el espacio, nadie puede escuchar nada." },
+        { "voice": "narrator", "text": "¿Qué hace la antena? La antena no escucha: la antena ve. Ve una luz especial. Una luz invisible. ¿Invisible? Invisible significa: los ojos no pueden verla. Piensa en la luz normal. La luz del sol. La luz de una lámpara. Con esa luz, los ojos ven el mundo. Pero hay otras luces. Luces que los ojos no ven. Luces invisibles." },
+        { "voice": "narrator", "text": "Esa luz invisible tiene un nombre: ondas de radio. Sí, como la radio del carro. La música viaja por el aire, invisible. Tú no la ves. Pero la radio la recibe con su antena. Y la convierte en música." },
+        { "voice": "narrator", "text": "Las estrellas hacen algo similar. Las estrellas producen luz normal, la luz blanca. Y también producen luz invisible: ondas de radio. Día y noche, sin parar. Esa luz invisible viaja por el espacio. Viaja años y años. Y llega a la Tierra. Llega a las antenas. Llega al observatorio de Camila." },
+        { "voice": "narrator", "text": "La antena de Camila recibe esa luz invisible. La computadora convierte la luz en números. Esos números son los datos. Y a veces, los astrónomos hacen algo más. Convierten los datos en sonido. ¿Por qué? Porque escuchar es fácil para nosotros. Un ruido raro es fácil de notar. Por eso Camila «escucha» el cielo. La antena ve. La computadora convierte. Y Camila escucha." },
+        { "voice": "narrator", "text": "Los radiotelescopios ven cosas increíbles. Ven estrellas viejas y estrellas nuevas. Ven gas frío entre las estrellas. Ven el centro de nuestra galaxia. ¿La galaxia? La galaxia es la ciudad de las estrellas. Nuestra galaxia tiene millones y millones de estrellas. Todo eso, con luz invisible." },
+        { "voice": "narrator", "text": "Una cosa más. Hay radiotelescopios enormes en el mundo. En China hay una antena de quinientos metros. ¡Quinientos metros! Imagina cinco canchas de fútbol, una detrás de otra. La antena de Camila es pequeña: veinte metros. Pequeña y vieja. Pero esta noche, es la antena más importante del mundo." },
+        { "voice": "narrator", "text": "Entonces, recuerda: el ruido de Camila no es un sonido del espacio. Es luz. Una luz invisible que llegó del cielo. La computadora la convirtió en sonido. ¿Y de dónde vino esa luz? Ah. Esa es la gran pregunta de esta historia." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Y ahora, el repaso. Vamos a recordar las palabras de hoy. Yo hago preguntas. Tú piensas. Después, yo digo más. ¿Listo? Vamos." },
+        { "voice": "narrator", "text": "Primera pregunta. ¿Dónde trabaja Camila? Piensa un momento... Camila trabaja en un observatorio. Un lugar para estudiar el cielo. El observatorio está en una montaña, cerca de Bogotá. Es pequeño y viejo. Pero esta noche, el observatorio es el lugar más interesante del país." },
+        { "voice": "narrator", "text": "¿Qué hay en el observatorio? Una antena. Una antena gigante, blanca, de metal. La antena recibe luz invisible del cielo. Sin la antena, no hay datos. Sin datos, no hay trabajo. La antena es la amiga de Camila. Su vieja amiga." },
+        { "voice": "narrator", "text": "¿Qué estudia Camila? Las estrellas. Los puntos que brillan de noche. Las estrellas producen luz normal y luz invisible. Camila estudia esa luz invisible. Cada noche, con café y computadoras. Las estrellas son su trabajo y su amor." },
+        { "voice": "narrator", "text": "¿Qué guardan las computadoras? Los datos. Los datos son números. Información del cielo, en números. Camila lee los datos cada noche. Normalmente, los datos son tranquilos. Normalmente..." },
+        { "voice": "narrator", "text": "Pero esta noche, no. A las tres y cuarenta y siete... de repente. ¿Recuerdas «de repente»? Primero nada. Un momento después, ¡algo! Muy rápido. De repente, llegó un ruido. Un ruido del cielo." },
+        { "voice": "narrator", "text": "¿Y cómo es el ruido? Es un ruido raro. Raro: extraño, diferente, no normal. No es un teléfono. No es un carro. No parece humano. Nadie sabe qué es. Por eso es raro." },
+        { "voice": "narrator", "text": "¿Qué hace la computadora con el ruido? Lo graba. Grabar: guardar un sonido para después. La computadora graba todo. Gracias a eso, Camila puede escuchar el ruido otra vez. Y otra vez. Y otra vez. El ruido grabado espera en la computadora." },
+        { "voice": "narrator", "text": "Y la gran pregunta: ¿es un ruido o es una señal? Un ruido no dice nada. Una señal dice algo. Una señal es información, con intención. ¿El ruido de Camila tiene intención? Camila no lo sabe. Tú no lo sabes. Yo... bueno, yo sí lo sé. Pero no digo nada." },
+        { "voice": "narrator", "text": "Mañana: Camila escucha el ruido grabado otra vez. Y descubre algo nuevo. El ruido tiene algo... algo especial. Además, una persona del observatorio le dice: eso no es nada, Camila. ¿Quién es esa persona? ¿Y por qué dice eso? Mañana lo sabes. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "el observatorio", "gloss": "observatory" },
+    { "term": "la antena", "gloss": "antenna, dish" },
+    { "term": "la estrella", "gloss": "star" },
+    { "term": "escuchar", "gloss": "to listen" },
+    { "term": "los datos", "gloss": "data" },
+    { "term": "el ruido", "gloss": "noise" },
+    { "term": "grabar", "gloss": "to record" },
+    { "term": "la señal", "gloss": "signal" },
+    { "term": "de repente", "gloss": "suddenly" },
+    { "term": "raro/rara", "gloss": "strange, odd" }
+  ],
+  "vocab_recycled": [],
+  "show_notes_extra": "First episode of Arc 1, «La antena». The word «la luz» (light) is pre-glossed in context during the Mundo Real segment because the day's documentary topic requires it; it is formally introduced and circled on Day 3."
+}

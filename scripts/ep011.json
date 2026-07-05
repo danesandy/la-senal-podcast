@@ -1,0 +1,170 @@
+{
+  "episode": "011",
+  "day": 11,
+  "arc": 1,
+  "title": "Doña Marta",
+  "description": "Doña Marta's food stall feeds the observatory — and hears everything on the hill. Today her gossip is funny, until she mentions two strangers in a grey SUV who were asking about Camila.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal." },
+        { "voice": "narrator", "text": "Camila Rey es astrónoma. Trabaja de noche, en un observatorio. El observatorio está en un cerro, cerca de Bogotá. Hace unos días, los computadores grabaron un ruido raro. Un ruido que no debe existir. Después, la señal llegó otra vez. Y otra vez. Casi siempre a la misma hora." },
+        { "voice": "narrator", "text": "Andrés Materán es un ingeniero venezolano. Él arregló la antena grande después de la tormenta. Andrés escuchó la señal y dijo: eso tiene ritmo. Eso no es interferencia." },
+        { "voice": "narrator", "text": "Ayer, Camila y Andrés hicieron una apuesta. ¿La señal se mueve, como en una órbita? ¿O es solo una máquina rota? Arepa contra ajiaco. Pero Julio trajo una noticia mala. Sarmiento, el jefe, sabe de las horas extra. El contrato de Andrés ya terminó. Y Andrés no se fue a casa. Se quedó." },
+        { "voice": "narrator", "text": "Hoy no hablamos de la señal. Bueno, un poco sí. Hoy hablamos de una señora. La señora más importante del cerro." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "En el camino al observatorio hay un puesto de comida. ¿Un puesto? Un puesto es una tienda muy pequeña. Está en la calle, al lado del camino. No es un restaurante. Es una mesa grande, café caliente y empanadas. Y una señora detrás de la mesa." },
+        { "voice": "narrator", "text": "El puesto es de doña Marta. Doña Marta tiene sesenta años, más o menos. Nadie sabe el número exacto. Nadie pregunta. Ella abre su puesto a las seis. Lo cierra cuando lo cierra. Así funciona." },
+        { "voice": "narrator", "text": "Doña Marta atiende su puesto todos los días. ¿Atiende? Atender es servir a la gente. Ella da café, da empanadas, da arepas. Escucha a las personas. Eso es atender." },
+        { "voice": "narrator", "text": "Las personas que compran son los clientes. Un cliente compra y paga. Los técnicos del observatorio son sus clientes. Los taxistas son sus clientes. Julio es su cliente. Y Camila es su clienta favorita." },
+        { "voice": "marta", "text": "¡Doctora! ¿Lo de siempre? Café negro y empanada de carne." },
+        { "voice": "camila", "text": "Lo de siempre, doña Marta. Gracias." },
+        { "voice": "marta", "text": "¿Y este muchacho? ¿El ingeniero venezolano? Siéntese, mijo. Hay arepas." },
+        { "voice": "andres", "text": "¿Arepas colombianas, señora? Bueno. Hoy soy valiente." },
+        { "voice": "narrator", "text": "Doña Marta miró a Andrés un momento largo. Después sonrió." },
+        { "voice": "marta", "text": "Me gusta este muchacho. Tiene hambre y tiene humor." },
+        { "voice": "narrator", "text": "En el puesto hay un papel en la pared. El papel dice: hoy no fío, mañana sí. ¿Fiar? Fiar es dar la comida hoy, sin dinero. El cliente paga después. Mañana, el viernes, algún día. Eso es vender fiado." },
+        { "voice": "narrator", "text": "El papel dice una cosa. Doña Marta hace otra. Ella fía a casi todo el mundo. Fía a la gente del barrio. ¿El barrio? El barrio es la zona donde vives. Tus calles, tus tiendas, tu gente. Doña Marta conoce a todo su barrio." },
+        { "voice": "narrator", "text": "Julio llegó al puesto. Pidió un café. Fiado, claro. Doña Marta escribió en un cuaderno viejo. El cuaderno de los fiados. Julio debe siete cafés." },
+        { "voice": "julio", "text": "La próxima semana pago todo, doña Marta. Lo prometo." },
+        { "voice": "marta", "text": "Eso dijo usted la semana pasada, mijo." },
+        { "voice": "narrator", "text": "En ese momento llegó un taxi viejo. Un taxi conocido. Del taxi bajó El Flaco, con su radio pequeña. El Flaco también es cliente del puesto. Un cliente con mucha hambre. Y con muchas palabras." },
+        { "voice": "elflaco", "text": "¡Doña Marta, mi reina! Dos empanadas. Fiadas, por favor. La economía está difícil." },
+        { "voice": "marta", "text": "Para usted no fío, Flaco. Usted debe doce empanadas. Doce." },
+        { "voice": "elflaco", "text": "¿Doce? Imposible. Yo conté diez." },
+        { "voice": "narrator", "text": "Doña Marta abrió su cuaderno de fiados. Buscó la página de El Flaco. La página estaba llena. Llena por los dos lados." },
+        { "voice": "marta", "text": "Doce, mijo. Aquí está todo escrito. Mi cuaderno nunca falla." },
+        { "voice": "elflaco", "text": "Está bien, está bien. Pago el viernes. Palabra de taxista." },
+        { "voice": "narrator", "text": "Doña Marta le dio las dos empanadas. Claro que le dio las empanadas. Ella siempre da la comida. Ese es su negocio. Y también su corazón." }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Doña Marta sabe todo. Todo lo del cerro. Todo lo del barrio. ¿Por qué? Es simple. La gente toma café y habla. Doña Marta atiende, escucha y recuerda. Su cabeza guarda todo, como un computador." },
+        { "voice": "narrator", "text": "A doña Marta le encanta el chisme. ¿El chisme? El chisme es información sobre otras personas. Quién hizo qué. Quién dijo qué. Quién sale con quién. Historias de la gente. Eso es el chisme." },
+        { "voice": "narrator", "text": "Una persona que ama el chisme es chismosa. ¿Doña Marta es chismosa? Ella dice que no." },
+        { "voice": "marta", "text": "Yo no soy chismosa. Yo estoy bien informada." },
+        { "voice": "narrator", "text": "Camila y Andrés desayunaron en el puesto. Y doña Marta habló. Porque doña Marta siempre habla." },
+        { "voice": "marta", "text": "A ver, mijo. Usted llegó hace una semana. Arregló el generador en una hora. El técnico anterior necesitó tres días. Usted sube al observatorio todos los días. Su contrato terminó el martes. Y usted sigue aquí." },
+        { "voice": "andres", "text": "Señora... ¿usted cómo sabe todo eso?" },
+        { "voice": "marta", "text": "Y usted toma café de un termo viejo. Y no comparte." },
+        { "voice": "andres", "text": "¡El termo es de mi papá! El termo no se toca." },
+        { "voice": "narrator", "text": "Doña Marta siguió hablando. Chisme tras chisme. Con calma, como una profesional." },
+        { "voice": "marta", "text": "La doctora no duerme bien. Trabaja toda la noche con sus máquinas. Julio le tiene miedo al jefe. El jefe le tiene miedo al presupuesto. Y el taxista flaco habla de luces en el cielo. En su programa de radio. Dice que el gobierno esconde cosas." },
+        { "voice": "camila", "text": "¿Usted escucha el programa de El Flaco?" },
+        { "voice": "marta", "text": "Todo el barrio lo escucha, doctora. Es muy divertido. Puras historias locas. Pero divertidas." },
+        { "voice": "narrator", "text": "Camila y Andrés escucharon con la boca abierta. Doña Marta sabía casi todo. Un puesto pequeño, una señora, cero computadores. Y toda la información del cerro. Radio Marta: el mejor programa de Bogotá." },
+        { "voice": "camila", "text": "Doña Marta, usted sabe más que mis datos." },
+        { "voice": "marta", "text": "Claro, doctora. Sus máquinas escuchan el cielo. Yo escucho a la gente." },
+        { "voice": "narrator", "text": "El Flaco levantó la mano, con la boca llena. Tenía algo importante que decir. Según él, siempre tiene algo importante que decir." },
+        { "voice": "elflaco", "text": "Doña Marta, usted necesita un programa de radio. Usted y yo, juntos. La información de la tierra y la información del cielo." },
+        { "voice": "marta", "text": "Yo no necesito radio, Flaco. Yo tengo mi puesto. Mi puesto llega más lejos que su radio." },
+        { "voice": "narrator", "text": "Y eso, queridos amigos, es probablemente cierto. El chisme de doña Marta viaja rápido. Sube el cerro, baja al barrio, cruza la ciudad. Sin antena. Sin electricidad. De boca en boca." }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Después del desayuno, doña Marta bajó la voz. Su cara cambió. Ya no era la cara del chisme. Era otra cosa." },
+        { "voice": "marta", "text": "Una cosa más, doctora. Ayer vinieron dos hombres. Preguntaron por usted." },
+        { "voice": "camila", "text": "¿Por mí?" },
+        { "voice": "marta", "text": "Por usted. Preguntaron por la doctora del observatorio." },
+        { "voice": "narrator", "text": "¿Preguntar por alguien? Es pedir información sobre esa persona. ¿Dónde está? ¿Qué hace? ¿Con quién trabaja? Los dos hombres preguntaron por Camila." },
+        { "voice": "marta", "text": "Llegaron en una camioneta gris. Grande, nueva, con vidrios oscuros. Se parquearon ahí, al frente." },
+        { "voice": "narrator", "text": "¿Una camioneta? Una camioneta es un carro grande y alto. Más grande que un taxi. Más seria que un carro normal. ¿Y gris? Gris es el color entre blanco y negro. El cielo de Bogotá casi siempre es gris. La camioneta también era gris." },
+        { "voice": "camila", "text": "¿Qué preguntaron, exactamente?" },
+        { "voice": "marta", "text": "¿La doctora trabaja sola? ¿Trabaja de noche? ¿Quién sube al observatorio? Ese tipo de preguntas. Con una sonrisa falsa." },
+        { "voice": "marta", "text": "Compraron dos cafés. No los tomaron. Mala señal, doctora. Un hombre bueno se toma su café." },
+        { "voice": "andres", "text": "¿Y usted qué les dijo?" },
+        { "voice": "marta", "text": "Nada. Yo dije: no sé, no conozco, no vi. Yo atiendo a mis clientes. Yo no vendo a mis clientes." },
+        { "voice": "narrator", "text": "Andrés miró a Camila. Camila miró el camino. Y pensó en su propia frase. Dos veces no es casualidad." },
+        { "voice": "camila", "text": "Doña Marta... ¿usted cree que van a volver?" },
+        { "voice": "marta", "text": "No sé, doctora. Pero mi puesto tiene ojos. Si vuelven, usted va a saber." },
+        { "voice": "narrator", "text": "Camila y Andrés subieron al observatorio en silencio. Camila pensaba en los dos hombres. ¿Quiénes eran? ¿Por qué preguntaron por ella? Su trabajo no es famoso. Su observatorio es pequeño y pobre. Nadie pregunta por una astrónoma sin fondos. Nadie. Hasta ayer." },
+        { "voice": "andres", "text": "Doctora... ¿usted le contó a alguien? ¿Lo de la señal?" },
+        { "voice": "camila", "text": "A Sarmiento. A Julio. A usted. Nadie más." },
+        { "voice": "andres", "text": "Pues alguien más lo sabe. O quiere saberlo." },
+        { "voice": "narrator", "text": "Esa tarde, el camino estaba vacío. Sin camioneta gris. Sin hombres de vidrios oscuros. Pero Camila miró el camino muchas veces. Toda la tarde. Sin decir nada." },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "La señal seguía allá, en el cielo. Y aquí, en el camino, alguien escuchaba también." }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real. Hoy: la tienda de barrio." },
+        { "voice": "narrator", "text": "En Colombia, cada barrio tiene una tienda. La tienda de la esquina. Es pequeña. Pero es una institución nacional. ¿Una institución? Una cosa importante y permanente de la cultura. La tienda de barrio es eso." },
+        { "voice": "narrator", "text": "En la tienda venden de todo. Pero en cantidades pequeñas. ¿Necesitas un huevo? Compras un huevo. ¿Dos panes? Dos panes. ¿Un poco de café? La tienda lo vende. No necesitas comprar mucho. Compras lo de hoy." },
+        { "voice": "narrator", "text": "En Colombia hay cientos de miles de tiendas. Una en cada esquina, más o menos. Los supermercados son grandes y modernos. Pero la tienda de barrio no muere. ¿Por qué? Hay tres razones... tres motivos." },
+        { "voice": "narrator", "text": "Primero: la tienda está cerca. A una calle de tu casa. Vas en dos minutos, con sandalias. Segundo: la tienda fía. El tendero te conoce. ¿El tendero? La persona que atiende la tienda. El tendero sabe tu nombre. Conoce a tu familia. Escribe tu nombre en un cuaderno. Y pagas el viernes. En el supermercado, nadie te fía. En la tienda, sí." },
+        { "voice": "narrator", "text": "Tercero: la tienda es información. La gente compra y habla. Pregunta por la familia. Cuenta el chisme del día. La tienda del barrio es el corazón del barrio. Ahí vive la comunidad." },
+        { "voice": "narrator", "text": "Hay una imagen muy colombiana. Un niño entra a la tienda. Trae un papel de su mamá. El tendero lee el papel. Y da las cosas: arroz, huevos, pan. Todo fiado. Todo fiado, con total tranquilidad. Así funciona, hace cien años." },
+        { "voice": "narrator", "text": "El tendero trabaja mucho. Muchos tenderos abren a las seis. Y cierran a las nueve de la noche. Quince horas, todos los días. El tendero atiende, escucha, fía, recuerda. Conoce a mil clientes por su nombre. Sabe quién está enfermo. Sabe quién perdió el trabajo. A esa persona, esta semana, no le cobra." },
+        { "voice": "narrator", "text": "Hay tiendas así en toda América Latina. En Venezuela también, claro. Andrés conoce bien esa cultura. Pero los colombianos dicen, con orgullo: nuestra tienda de barrio es especial. Es central de información. Es banco del barrio, por los fiados. Y es sala de la casa. Todo al mismo tiempo." },
+        { "voice": "narrator", "text": "Doña Marta no tiene una tienda exacta. Tiene un puesto de comida. Pero la idea es la misma. Un lugar pequeño. Café, comida, gente y chisme. El corazón del cerro." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repasamos. Hoy conocimos el puesto de doña Marta. ¿Un puesto? Una tienda pequeña, en la calle. Doña Marta atiende su puesto todos los días. Atender es servir a los clientes. ¿Y un cliente? Una persona que compra. Julio es un cliente especial. No paga hoy. Compra fiado. ¿Fiado? Compra hoy y paga después." },
+        { "voice": "narrator", "text": "Doña Marta fía porque conoce a su gente. La gente de su barrio. El barrio: tus calles, tu zona, tu gente. En el puesto vive el chisme. ¿El chisme? Información sobre otras personas. Doña Marta ama el chisme. ¿Pero es chismosa? No, señor. Ella está bien informada." },
+        { "voice": "narrator", "text": "Y hoy aprendimos algo más. Algo menos divertido. Dos hombres preguntaron por Camila. Preguntar por alguien: pedir información sobre esa persona. Llegaron en una camioneta gris. Un carro grande, del color del cielo. Compraron dos cafés. Y no los tomaron." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "¿Quiénes son? ¿Gente del gobierno? ¿Gente de otra parte? No sabemos. Doña Marta tampoco sabe. Y eso es lo raro. Porque doña Marta sabe todo." },
+        { "voice": "narrator", "text": "Una pregunta más. ¿Quién atiende mejor: doña Marta o un supermercado? Doña Marta, claro. Porque atender no es solo vender. Es conocer al cliente. Es preguntar por su mamá. Es fiar cuando el viernes está lejos. En el supermercado eres un número. En el puesto eres una persona. Por eso el barrio ama su tienda. Y por eso el cerro ama a doña Marta." },
+        { "voice": "narrator", "text": "Mañana, Andrés necesita ayuda con la señal. Ayuda muy especial. De una tía. Una tía en Maracaibo, Venezuela. Una tía con muchas, muchas noticias. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "el puesto (de comida)", "gloss": "food stall" },
+    { "term": "el chisme", "gloss": "gossip" },
+    { "term": "chismoso/chismosa", "gloss": "gossipy (person)" },
+    { "term": "la camioneta", "gloss": "SUV / pickup truck" },
+    { "term": "gris", "gloss": "grey" },
+    { "term": "preguntar por", "gloss": "to ask about (someone)" },
+    { "term": "el barrio", "gloss": "neighborhood" },
+    { "term": "fiar / fiado", "gloss": "to sell on credit / on credit" },
+    { "term": "atender", "gloss": "to serve, look after (customers)" },
+    { "term": "el cliente / la clienta", "gloss": "customer" }
+  ],
+  "vocab_recycled": [
+    { "from_day": 10, "items": ["la apuesta", "la órbita", "roto/rota", "el contrato", "quedarse", "el desayuno / desayunar"] },
+    { "from_day": 8, "items": ["subir", "explicar (via 'programa' recaps)", "el termo (d7 carried through d8 scenes)"] },
+    { "from_day": 4, "items": ["exacto/exacta", "la casualidad", "dos veces", "la misma hora", "mismo/misma"] }
+  ],
+  "show_notes_extra": "The 'hoy no fío, mañana sí' sign is a real fixture of Colombian corner stores."
+}

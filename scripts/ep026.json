@@ -1,0 +1,167 @@
+{
+  "episode": "026",
+  "day": 26,
+  "arc": 1,
+  "title": "La antena del techo",
+  "description": "Camila's late-night insight turns one giant dish into many small ears: a cheap rooftop antenna anyone can build. The network multiplies it across the country, dona Marta charges rent in ajiacos, and an old friend climbs back up the hill carrying shame — and something borrowed.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Camila y Andrés tienen un plan. El modelo de Andrés predice la próxima señal. La señal va a llegar en pocos días. Va a llegar de madrugada, a las tres y cincuenta y dos. La red de radioaficionados va a grabar al mismo tiempo. Y don Ramiro va a apuntar su antena grande. Va a apuntar a la posición exacta. Esta vez buscan la dirección del eco." },
+        { "voice": "narrator", "text": "El Flaco es el jefe de la logística. Tiene primos en todas partes. Y los primos tienen camiones. Pero hay problemas. El ministerio tiene una copia de los datos. Alguien la mandó desde adentro. ¿Quién? Nadie sabe. Una camioneta gris vigila el barrio. El permiso de trabajo de Andrés está en peligro. Y Julio no viene al observatorio. Tiene miedo. El tiempo es corto. Muy corto." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Es de mañana en el observatorio. Camila no durmió. Toda la noche pensó en Andrés. Bueno, en la historia de Andrés. En la antena del padre de Andrés. Una antena pequeña, en un techo de Caracas. Una antena hecha en casa, con las manos. Y de repente, Camila entiende algo importante." },
+        { "pause": 1.5 },
+        { "voice": "camila", "text": "¡Andrés! ¡Andrés, despierta! No necesitamos una antena gigante." },
+        { "voice": "andres", "text": "Doctora, son las siete de la mañana. Y no estoy dormido. Estoy pensando con los ojos cerrados." },
+        { "voice": "camila", "text": "Escucha. El eco viene de cerca, ¿verdad? Para escuchar algo cercano no necesitas una oreja enorme. Necesitas muchas orejas pequeñas." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Muchas orejas pequeñas. Pensemos en eso un momento. La oreja es la parte de afuera. Está en la cabeza, a los lados. El oído está adentro. Con el oído escuchamos. Una oreja gigante escucha lejos. Pero muchos oídos juntos escuchan mejor. Sobre todo cuando la cosa está cerca. Camila quiere muchas orejas para el cielo." },
+        { "voice": "andres", "text": "Chama… eso es. ¡Eso es! Yo puedo diseñar una antena pequeña. Una antena simple, para cualquier techo." },
+        { "voice": "camila", "text": "¿Puedes? ¿En serio?" },
+        { "voice": "andres", "text": "Doctora, yo arreglaba antenas en Caracas durante los apagones. Sin dinero, sin herramientas nuevas, sin nada. Claro que puedo." },
+        { "voice": "narrator", "text": "Diseñar. Andrés va a diseñar la antena. ¿Qué es diseñar? Es planear una cosa nueva. Primero la piensas. Después la dibujas en un papel. Ese dibujo se llama el diseño. Con un buen diseño, cualquier persona construye la cosa. Andrés dibuja el diseño en una servilleta. Una servilleta de doña Marta, claro. Ya es costumbre del equipo." },
+        { "voice": "andres", "text": "Miren: cables, una caja, un poco de metal. Nada especial. Una antena profesional cuesta millones de pesos. Es muy cara. Esta cuesta menos que una cena. Es muy barata." },
+        { "voice": "camila", "text": "No hay fondos para antenas caras. Pero para antenas baratas… siempre hay." },
+        { "voice": "narrator", "text": "Caro y barato. Una cosa cara cuesta mucho dinero. Una cosa barata cuesta poco dinero. El observatorio es caro. El café del termo de Andrés es barato. Y la antena nueva es barata también. Una familia normal puede construir una. Un taxista puede construir una. Una monja puede construir una. Esa es la idea. Esa es toda la idea." }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Pero un diseño en papel no escucha nada. Necesitan construir la primera antena real. Necesitan un prototipo. ¿Un prototipo? El prototipo es el primer modelo. El número uno. El modelo de prueba. Si el prototipo funciona, construyes muchos más. Si no funciona, cambias el diseño. Así trabaja la ciencia. Así trabaja Andrés." },
+        { "voice": "narrator", "text": "¿Y dónde ponen el prototipo? Necesitan un techo. Un techo cerca del observatorio. Un techo con vista al cielo. Todos miran a doña Marta." },
+        { "voice": "marta", "text": "¿Mi techo? ¿Ustedes quieren poner esa cosa en mi techo?" },
+        { "voice": "camila", "text": "Es pequeña, doña Marta. Nosotros la construimos. Usted no hace nada." },
+        { "voice": "marta", "text": "Ah no, mi amor. En este barrio nada es gratis. Ustedes me van a pagar alquiler." },
+        { "voice": "andres", "text": "¿Alquiler? ¡Doña Marta, somos científicos pobres!" },
+        { "voice": "marta", "text": "Por eso el alquiler es barato: dos ajiacos por semana. Los compran aquí, en mi puesto. Y se los comen enteros. Sin quejarse." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Andrés mira el cielo. Camila se ríe con toda la cara. Trato hecho." },
+        { "voice": "narrator", "text": "El alquiler. Hablemos del alquiler. Pagas por usar una cosa de otra persona. Pagas alquiler por un apartamento. Pagas alquiler por un cuarto. Y ahora, alquiler por un techo. El alquiler de doña Marta: dos ajiacos por semana. Para Camila, un precio excelente. Para Andrés, un precio terrible. La guerra de la arepa continúa." },
+        { "voice": "narrator", "text": "El sábado construyen el prototipo. Andrés dirige la obra. Julio no está, y todos lo sienten. El Flaco trae metal del taller de un primo. Otro primo trae un camión con escalera. Suben los cables. Conectan la caja. Doña Marta atiende y comenta todo, feliz. A las cinco de la tarde, el prototipo funciona. La primera oreja pequeña escucha el cielo." },
+        { "voice": "elflaco", "text": "Doctora, mire eso. Una antena en el techo de una tienda. Mi programa habló de esto hace años. Nadie me creyó, como siempre." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Y entonces pasa algo hermoso. El diseño viaja por la red de radioaficionados. Viaja de emisora en emisora. Don Ramiro construye una antena en los llanos. La monja construye dos en su pueblo. Un jubilado de Bucaramanga construye tres. Una antena. Dos antenas. Cuatro. Ocho. Dieciséis. Las antenas se multiplican." },
+        { "voice": "narrator", "text": "Multiplicar. ¿Qué es multiplicar? Es crecer en número. Más y más y más. Dos por dos: cuatro. Cuatro por dos: ocho. Las orejas del cielo se multiplican por todo el país. En techos baratos. En casas normales. Nadie las ve. Todas escuchan." }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El domingo por la tarde, alguien sube el cerro. Camina despacio. Mira el suelo. Es Julio. Julio no viene desde la noche del cálculo. Desde las palabras: demasiado cerca. Hoy tiene la cara roja. Y no es por el sol." },
+        { "voice": "julio", "text": "Hola, doctora. Hola, Andrés." },
+        { "voice": "camila", "text": "Julio." },
+        { "pause": 2.0 },
+        { "voice": "julio", "text": "Lo siento. Tenía miedo. Todavía tengo miedo. Mi hermano trabaja para el ministerio, ustedes saben. Pero en mi casa me sentía peor. La vergüenza pesa más que el miedo." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "La vergüenza. ¿Qué es la vergüenza? Es un calor en la cara. Es una voz pequeña por dentro. La voz dice: hiciste algo malo. O dice: no hiciste algo bueno. Julio dejó solos a sus colegas. Por eso siente vergüenza. Por eso volvió." },
+        { "voice": "andres", "text": "Chamo, tranquilo. Llegaste. Eso es lo importante." },
+        { "voice": "julio", "text": "Traje algo. Un regalo. Bueno… no exactamente un regalo." },
+        { "voice": "narrator", "text": "Julio abre una caja grande. Adentro hay equipo del observatorio. Equipo especial, para comprobar antenas. Equipo caro. Muy caro." },
+        { "voice": "julio", "text": "Es… prestado. Prestado en silencio. Lo voy a devolver el lunes por la noche. Palabra." },
+        { "voice": "camila", "text": "Julio. ¿Sarmiento sabe?" },
+        { "voice": "julio", "text": "Sarmiento no sabe. Por eso lo voy a devolver rápido. Y por eso ustedes lo van a usar hoy." },
+        { "voice": "narrator", "text": "Devolver. Tomas una cosa que no es tuya. La usas con cuidado. Y después la regresas a su lugar. Eso es devolver. Julio tomó el equipo en silencio. Y lo va a devolver en silencio. Eso espera Camila. Eso esperamos todos." },
+        { "voice": "narrator", "text": "Esa noche comprueban el prototipo con el equipo de Julio. Miden todo, dos veces. El oído nuevo escucha bien. Muy bien. Mejor que el diseño en papel. Andrés sonríe como un niño." },
+        { "voice": "andres", "text": "El equipo comprobó el equipo. ¿Entienden? El equipo de personas… comprobó el equipo de máquinas." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Nadie se ríe. Bueno, El Flaco sí. El Flaco siempre se ríe. Y arriba, en el techo de doña Marta, la primera oreja pequeña escucha la noche. Faltan dos días." }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real. Hoy: la ciencia de la gente. Nuestros amigos construyen antenas baratas en techos. ¿Es esto ciencia de verdad? Sí. Y tiene una historia larga y hermosa. La ciencia no vive solo en laboratorios caros. También vive en techos, patios y cocinas." },
+        { "voice": "narrator", "text": "Primera historia. En Japón, hace muchos años, vivía un joven pobre. Trabajaba en una fábrica de pianos. Quería un telescopio. No tenía dinero: un telescopio era muy caro. Entonces construyó uno. Lo construyó en casa, con las manos, durante meses. Un telescopio barato, hecho a mano. Cada noche miraba el cielo con su telescopio. Y una noche encontró un cometa nuevo. ¿Un cometa? Una luz con cola que viaja por el cielo. Ningún profesional lo vio primero. Lo vio él. El cometa hoy lleva su nombre." },
+        { "voice": "narrator", "text": "Segunda historia. Un telescopio del espacio mandó millones de datos. Demasiados datos para los científicos. Entonces pidieron ayuda por internet. Miles de voluntarios miraron los datos en casa. Estudiantes. Jubilados. Taxistas. Personas normales, con tiempo y ojos buenos. Y esos voluntarios encontraron planetas nuevos. Planetas reales, alrededor de otras estrellas. Sus nombres están en artículos de ciencia. Sin título. Sin laboratorio. Sin dinero." },
+        { "voice": "narrator", "text": "Y una historia más, muy cerca de la nuestra. Hoy, algunos radioaficionados escuchan púlsares desde sus casas. ¿Recuerdan el día nueve? Un púlsar es una estrella muerta. Late como un corazón: tac, tac, tac. Ese latido llega a la Tierra como radio. Y una antena de techo, barata, puede escucharlo. Gente normal hace mapas de esos latidos. Mapas del cielo, hechos en casa." },
+        { "voice": "narrator", "text": "La lección es simple. No necesitas millones. Necesitas un diseño, unas manos y una buena pregunta. La ciencia también se multiplica. Como las orejas de nuestra red." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repaso. Respira. Vamos a recordar el día." },
+        { "voice": "narrator", "text": "Camila tuvo una idea: muchas orejas pequeñas. ¿La oreja? La parte de afuera, en la cabeza. ¿El oído? La parte de adentro. Con el oído escuchamos. Ahora el país tiene muchos oídos nuevos." },
+        { "voice": "narrator", "text": "Andrés hizo el diseño de una antena. Diseñar: pensar y dibujar algo nuevo. Su antena es barata. Cuesta poco. No es cara. No cuesta millones. Cualquier persona la puede construir. Construir: hacer algo con las manos, parte por parte." },
+        { "voice": "narrator", "text": "Construyeron el prototipo en el techo de doña Marta. El prototipo: el primer modelo, el modelo de prueba. El prototipo funciona. ¿Y el alquiler del techo? Dos ajiacos por semana. El alquiler: pagar por usar algo de otra persona. Pobre Andrés." },
+        { "voice": "narrator", "text": "La red multiplicó las antenas. Una, dos, cuatro, ocho, dieciséis. Multiplicar: crecer en número, más y más." },
+        { "voice": "narrator", "text": "Y Julio volvió. Sintió vergüenza. La vergüenza: ese calor en la cara, esa voz por dentro. Trajo equipo prestado del trabajo. Lo va a devolver el lunes. Devolver: regresar una cosa a su lugar. Ojalá en silencio." },
+        { "voice": "narrator", "text": "Mañana es la última noche antes de la señal. La noche más larga. Todo está listo. ¿Todo? Mañana lo comprobamos. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "el diseño / diseñar", "gloss": "design / to design" },
+    { "term": "barato/barata", "gloss": "cheap" },
+    { "term": "caro/cara", "gloss": "expensive (circled pair with barato)" },
+    { "term": "construir", "gloss": "to build" },
+    { "term": "el prototipo", "gloss": "prototype, first test model" },
+    { "term": "la oreja / el oído", "gloss": "outer ear / inner ear-hearing (circled pair)" },
+    { "term": "multiplicar", "gloss": "to multiply, grow in number" },
+    { "term": "el alquiler", "gloss": "rent" },
+    { "term": "la vergüenza", "gloss": "shame, embarrassment" },
+    { "term": "devolver", "gloss": "to give back, return something" }
+  ],
+  "vocab_recycled": [
+    { "term": "el plan", "from_day": 25 },
+    { "term": "el modelo", "from_day": 25 },
+    { "term": "predecir", "from_day": 25 },
+    { "term": "apuntar", "from_day": 25 },
+    { "term": "la posición", "from_day": 25 },
+    { "term": "la dirección", "from_day": 25 },
+    { "term": "al mismo tiempo", "from_day": 25 },
+    { "term": "el primo", "from_day": 25 },
+    { "term": "el camión", "from_day": 25 },
+    { "term": "la logística", "from_day": 25 },
+    { "term": "el permiso de trabajo", "from_day": 23 },
+    { "term": "el peligro", "from_day": 23 },
+    { "term": "tranquilo", "from_day": 23 },
+    { "term": "la red", "from_day": 19 },
+    { "term": "el/la radioaficionado(a)", "from_day": 19 },
+    { "term": "la monja", "from_day": 19 },
+    { "term": "el/la jubilado(a)", "from_day": 19 },
+    { "term": "los llanos", "from_day": 19 },
+    { "term": "la madrugada", "from_day": 19 },
+    { "term": "la emisora", "from_day": 19 },
+    { "term": "el/la voluntario(a)", "from_day": 19 },
+    { "term": "el jefe", "from_day": 5 },
+    { "term": "los fondos", "from_day": 5 },
+    { "term": "pedir", "from_day": 5 }
+  ],
+  "show_notes_extra": "The comet story is real: Kaoru Ikeya, a young piano-factory worker in Japan, built his own telescope and discovered comet Ikeya (1963) and later co-discovered Ikeya–Seki. The planet story refers to citizen-science projects like Planet Hunters, where volunteers browsing space-telescope data found real exoplanets."
+}
