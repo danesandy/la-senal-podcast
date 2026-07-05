@@ -1,0 +1,151 @@
+{
+  "episode": "002",
+  "day": 2,
+  "arc": 1,
+  "title": "Día 2 — «La rutina»",
+  "description": "Camila's upside-down life: sleep by day, empanadas at doña Marta's, night shift at the dish. She replays the recording and sees something new — and her colleague Julio has one word for it. Plus: why astronomers work at night.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal..." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Camila Rey es astrónoma. Estudia las estrellas. Trabaja de noche, en un observatorio pequeño. El observatorio está en una montaña, cerca de Bogotá. Tiene una antena gigante, blanca, de metal. La antena recibe luz invisible del cielo. Las computadoras convierten esa luz en datos." },
+        { "voice": "narrator", "text": "Y anoche, a las tres y cuarenta y siete... de repente, llegó un ruido. Un ruido raro. No era un teléfono. No era un carro. No parecía humano. La computadora lo grabó todo. Y Camila hizo la gran pregunta: ¿es un ruido... o es una señal?" },
+        { "pause": 2.0 }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Son las nueve de la mañana en Bogotá. La ciudad trabaja. Hay tráfico, hay gente, hay ruido. Y Camila Rey... duerme. ¿Duerme? Sí, duerme. Dormir: cerrar los ojos, descansar, soñar. Tú duermes de noche. Camila duerme de día. Su vida va al revés." },
+        { "voice": "narrator", "text": "Dormir de día no es fácil. La ciudad no ayuda. Un carro pasa: ruido. Un vendedor grita: ruido. Un teléfono suena: ¡más ruido! Camila cierra bien las cortinas. Pone el teléfono en modo noche. Pero el ruido de Bogotá siempre encuentra un camino." },
+        { "voice": "narrator", "text": "¿Por qué duerme de día? Por su trabajo. Camila trabaja de noche, en el observatorio. Su turno es de noche. ¿Qué es un turno? El turno es tu tiempo de trabajo. Un doctor del hospital trabaja por turnos. Turno de día, o turno de noche. El turno de Camila empieza a las diez. Y termina a las seis de la mañana." },
+        { "voice": "narrator", "text": "Pero hoy, Camila no duerme bien. Se duerme a las siete. Abre los ojos a las once. Piensa en el ruido. Cierra los ojos. Los abre otra vez. En su cabeza, el ruido raro va y viene. Va y viene." },
+        { "voice": "camila", "text": "Bueno, ya. No puedo dormir más." },
+        { "voice": "narrator", "text": "Camila vive en Chapinero. Chapinero es una parte de Bogotá. Hoy sale de casa temprano. Va a la montaña. Cerca del observatorio hay una tienda pequeña. Es la tienda de doña Marta. Doña Marta vende comida: empanadas, café, jugos. Sus empanadas son famosas en toda la montaña." },
+        { "voice": "marta", "text": "¡Doctora! Buenas tardes. ¿La de siempre?" },
+        { "voice": "camila", "text": "La de siempre, doña Marta. Una empanada y un café." },
+        { "voice": "narrator", "text": "Doña Marta conoce a todos en la montaña. Y conoce a Camila muy bien. La mira con atención." },
+        { "voice": "marta", "text": "Mija, usted está cansada. ¿Otra vez sin dormir?" },
+        { "voice": "narrator", "text": "«Mija». Así habla doña Marta. Mija: mi hija. Es una palabra dulce. Doña Marta no es su madre. Pero un poco... sí." },
+        { "voice": "camila", "text": "Dormí un poco. Estoy bien, gracias." },
+        { "voice": "marta", "text": "Los ojos dicen otra cosa, doctora. Los ojos siempre dicen otra cosa." },
+        { "voice": "marta", "text": "Coma, mija, coma. Y el café, despacio. Oiga: ayer, el señor Julio compró tres empanadas. Tres. Ese muchacho anda muy serio. Algo pasa allá arriba, ¿no?" },
+        { "voice": "camila", "text": "No pasa nada, doña Marta. Trabajo normal." },
+        { "voice": "marta", "text": "Mmm. Por aquí pasan todos, mija. Y yo escucho todo." },
+        { "voice": "narrator", "text": "Doña Marta sabe escuchar. Es su talento. La gente come, habla... y ella escucha. En esta montaña, doña Marta lo sabe todo. Recuerda esto. Va a ser importante." },
+        { "voice": "narrator", "text": "Camila sonríe y no dice nada. ¿Qué va a decir? ¿«Escuché un ruido raro del cielo»? No. Come su empanada. Paga. Y camina al observatorio. Llega temprano. Muy temprano. Su turno empieza a las diez. Pero ella quiere revisar una cosa." },
+        { "pause": 2.0 }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El observatorio está tranquilo por la tarde. Camila se sienta delante de la computadora. Y abre la grabación de anoche. ¿La grabación? Sí. Anoche, la computadora grabó el ruido. Ese sonido guardado se llama: la grabación. Grabar es la acción. La grabación es la cosa guardada. Un mensaje de voz es una grabación. Una canción en tu teléfono es una grabación. Y el ruido de anoche, ahora, es una grabación." },
+        { "voice": "narrator", "text": "Camila escucha la grabación. Una vez. Otra vez. Diez veces. El ruido va y viene, con orden. Después, Camila mira la pantalla. ¿La pantalla? La pantalla es la cara de la computadora. Tu teléfono tiene una pantalla. La televisión es una pantalla grande. En la pantalla, Camila no escucha el ruido. Lo ve. Ve el ruido como un dibujo. Un dibujo de líneas." },
+        { "voice": "narrator", "text": "Y en la pantalla, Camila ve algo nuevo. El ruido tiene una forma. ¿Una forma? Sí. La forma es el dibujo de una cosa. Un círculo es una forma. Una montaña tiene forma de triángulo. Y este ruido también tiene una forma. Va arriba y abajo, con orden. Como montañas pequeñas, en fila. La forma se repite. La forma no parece un accidente." },
+        { "voice": "camila", "text": "Los ruidos normales no tienen esta forma. Esto es otra cosa." },
+        { "voice": "narrator", "text": "En ese momento entra Julio. Julio trabaja con Camila. Es su colega. ¿Un colega? Un colega es un compañero de trabajo. Julio y Camila trabajan juntos en el observatorio. Julio es simpático y tranquilo. Siempre tiene una sonrisa. Pero no le gustan los problemas." },
+        { "voice": "julio", "text": "¿Tan temprano, doctora? ¿La cama está mala, o el café de doña Marta está muy bueno?" },
+        { "voice": "camila", "text": "Julio, ven. Escucha esto. Y mira la pantalla." },
+        { "voice": "narrator", "text": "Julio escucha la grabación. Mira la forma en la pantalla. Piensa un momento. Y dice la palabra. La palabra favorita de los astrónomos cansados." },
+        { "voice": "julio", "text": "Interferencia." },
+        { "voice": "narrator", "text": "¿Interferencia? La interferencia es ruido de las máquinas humanas. Los teléfonos hacen interferencia. Los carros hacen interferencia. Un radio viejo hace interferencia. Esa interferencia llega a la antena. Y parece una cosa del cielo. Pero no es del cielo. Es de nosotros. Es basura en los datos." },
+        { "voice": "julio", "text": "Doctora, siempre es interferencia. Un teléfono, un carro, un radio de la ciudad. Siempre." },
+        { "voice": "camila", "text": "¿Y la forma, Julio? Mira la forma. La interferencia no tiene esa forma." },
+        { "voice": "julio", "text": "La interferencia tiene mil formas. Por eso es interferencia." },
+        { "voice": "julio", "text": "Doctora, una historia. Hace cinco años, un estudiante vino aquí. Encontró una señal rara en los datos. Bailó de felicidad. Llamó a su mamá. ¿Y sabe qué era? Su propio teléfono, doctora. El teléfono en su bolsillo." },
+        { "voice": "camila", "text": "Mi teléfono estaba apagado, Julio." },
+        { "voice": "julio", "text": "El del estudiante también. O eso dijo él." },
+        { "voice": "narrator", "text": "Julio tiene buenas historias. Y sus historias son ciertas. La interferencia hace bromas así, muchas veces. Los astrónomos conocen mil casos como ese. Por eso Julio dice: interferencia, siempre interferencia. Es más fácil. Y da menos miedo." },
+        { "voice": "narrator", "text": "Camila no acepta. Ella quiere revisar todo. ¿Revisar? Revisar es mirar otra vez, con cuidado. Buscar problemas. Buscar errores. Tú revisas tu tarea: la miras otra vez, buscas errores. Camila revisa los datos de anoche. Revisa la antena. Revisa las computadoras. Todo está bien. No hay errores. No hay teléfonos a las tres de la mañana. No hay carros en la montaña." },
+        { "voice": "camila", "text": "Revisé todo, Julio. Todo. No encuentro el error." },
+        { "voice": "julio", "text": "Todavía. Todavía no encuentras el error. Es diferente." },
+        { "voice": "narrator", "text": "¿Todavía? Todavía significa: hasta ahora, hasta este momento. Ejemplo: son las cinco, y todavía hay sol. Julio piensa: el error existe. Camila todavía no lo encuentra. Pero un día lo va a encontrar. Eso dice Julio." },
+        { "voice": "narrator", "text": "Camila escucha a Julio. Julio conoce bien las máquinas. Casi siempre sabe qué pasa. ¿Casi? Casi significa: no completo, pero muy cerca. Casi las diez: las nueve y cincuenta. Casi terminado: un poco más, y ya. Julio casi siempre sabe qué pasa. Casi." },
+        { "voice": "narrator", "text": "Las palabras de Julio son lógicas. Camila casi las acepta. Casi. Pero en su estómago, una duda vive todavía." },
+        { "voice": "camila", "text": "Esta noche voy a escuchar otra vez. A las tres y cuarenta y siete." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Esa noche, Camila espera. Las tres y media: nada. Las tres y cuarenta y siete: nada. Las cuatro: nada. El cielo no dice nada. Julio sonríe: ¿ves, doctora? Interferencia. Pero Camila mira la antena, y piensa: todavía no. El cielo va a hablar otra vez. Y ella lo va a escuchar." },
+        { "pause": 2.5 }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El momento del mundo real. Hoy: ¿por qué los astrónomos trabajan de noche? Y una pregunta más interesante. Camila no necesita la noche. Pero la ama. ¿Por qué?" },
+        { "voice": "narrator", "text": "Piensa en el cielo de día. ¿Ves estrellas? No. ¿Por qué no? Las estrellas están allí, siempre. De día y de noche. Pero el sol brilla mucho. Su luz llena todo el cielo. La luz de una estrella es muy pequeña. Con el sol en el cielo, no la vemos." },
+        { "voice": "narrator", "text": "De noche, el sol se va. El cielo está oscuro. Y las estrellas aparecen. Por eso los astrónomos aman la noche. Trabajan cuando tú duermes. Y duermen cuando tú trabajas. Como Camila. Es la vida del turno de noche." },
+        { "voice": "narrator", "text": "Pero espera. La antena de Camila no usa los ojos. Ve luz invisible: ondas de radio. Y esa luz invisible llega de día también. El sol no es un gran problema para ella. Un radiotelescopio puede trabajar a las dos de la tarde. ¿Entonces por qué Camila trabaja de noche? Por dos cosas." },
+        { "voice": "narrator", "text": "Cosa número uno: la interferencia. ¿Recuerdas? El ruido de las máquinas humanas. De día, la ciudad está activa. Millones de teléfonos. Miles de carros. Radios, televisiones, computadoras. Todo eso hace interferencia. De noche, la ciudad descansa. Hay menos máquinas activas. Menos interferencia. Los datos de la noche son más limpios." },
+        { "voice": "narrator", "text": "Cosa número dos: los colegas. La antena es una sola. Los astrónomos son muchos. Cada colega quiere usar la antena. Por eso hay turnos. Un colega la usa por la mañana. Otro colega la usa por la tarde. ¿Y el turno de noche? Nadie quiere el turno de noche. Nadie... menos Camila. Ella tomó ese turno con una sonrisa. Para ella no es un problema. Es un regalo." },
+        { "voice": "narrator", "text": "El turno de noche no es solo de astrónomos. Piensa en tu ciudad, a las tres de la mañana. El policía mira la calle. El panadero prepara el pan de la mañana. La doctora del hospital cuida a su gente. Y una astrónoma, en una montaña, escucha el cielo. La noche tiene sus trabajadores. Un pequeño mundo al revés." },
+        { "voice": "narrator", "text": "Y hay algo más. Muchas cosas importantes pasan de noche. ¿Por qué? Porque de noche hay menos ruido humano. El cielo habla bajito. Para escucharlo, necesitas calma. La noche da esa calma. Anoche, casi nadie trabajaba. Solo Camila. Por eso Camila lo escuchó. El turno que nadie quiere... a veces da regalos." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El repaso de hoy. Yo pregunto, tú piensas. Vamos." },
+        { "voice": "narrator", "text": "¿Cuándo duerme Camila? Camila duerme de día. Porque su turno es de noche. El turno: tu tiempo de trabajo. Su turno empieza a las diez de la noche. Hoy Camila durmió mal. Casi no durmió. El ruido no la deja dormir." },
+        { "voice": "narrator", "text": "¿Qué escuchó Camila en el observatorio? La grabación. El ruido de anoche, guardado en la computadora. Una grabación se puede escuchar mil veces. Camila la escuchó diez veces. O veinte. O más." },
+        { "voice": "narrator", "text": "¿Y qué vio en la pantalla? La pantalla: la cara de la computadora. Allí, el ruido se ve como un dibujo. Y ese dibujo tiene una forma. Una forma clara, con orden. Como montañas pequeñas, en fila. Los ruidos normales no tienen esa forma." },
+        { "voice": "narrator", "text": "¿Quién es Julio? El colega de Camila. Colega: compañero de trabajo. Julio es simpático. Pero no le gustan los problemas. Julio escuchó la grabación y dijo una palabra: interferencia. ¿Interferencia? Ruido de máquinas humanas. Teléfonos, carros, radios. Basura en los datos." },
+        { "voice": "narrator", "text": "¿Camila revisó los datos? Sí. Revisar: mirar otra vez, con cuidado, buscando errores. Camila revisó la antena. Revisó las computadoras. Revisó todo. Y no encontró errores. Todavía no. ¿Recuerdas «todavía»? Hasta ahora. Hasta este momento." },
+        { "voice": "narrator", "text": "¿Camila aceptó las palabras de Julio? Casi. ¿Casi? No completo, pero muy cerca. Julio es lógico. Sus palabras son buenas. Pero la duda de Camila todavía vive. Y anoche, a las tres y cuarenta y siete... nada. El cielo no dijo nada. ¿El ruido va a volver? Julio dice que no. Camila dice que sí." },
+        { "voice": "narrator", "text": "Una pregunta más. ¿Doña Marta sabe algo? Doña Marta sabe todo. Su tienda es pequeña, pero ella escucha todo. Julio compró tres empanadas: ella lo sabe. Camila está cansada: ella lo ve. En la montaña, las noticias pasan por su tienda. Doña Marta va a ser importante en esta historia. Yo solo digo eso." },
+        { "voice": "narrator", "text": "Y recuerda la historia del estudiante. Encontró una señal rara. Bailó, llamó a su mamá... y era su propio teléfono. Por eso Camila revisa y revisa. Nadie quiere bailar por un teléfono. Pero anoche no había teléfonos. No había carros. No había errores. Entonces... ¿qué había?" },
+        { "voice": "narrator", "text": "Mañana: Camila toma un taxi para ir a la montaña. El hombre del taxi habla mucho. Mucho, mucho, mucho. Habla de cosas raras y divertidas. Pero una cosa que dice... no es divertida. Mañana lo escuchas. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "el turno", "gloss": "shift (work)" },
+    { "term": "dormir(se)", "gloss": "to sleep / to fall asleep" },
+    { "term": "la pantalla", "gloss": "screen" },
+    { "term": "la grabación", "gloss": "recording" },
+    { "term": "la forma", "gloss": "shape" },
+    { "term": "la interferencia", "gloss": "interference" },
+    { "term": "el/la colega", "gloss": "colleague" },
+    { "term": "revisar", "gloss": "to check, to go over" },
+    { "term": "casi", "gloss": "almost" },
+    { "term": "todavía", "gloss": "still, yet" }
+  ],
+  "vocab_recycled": [
+    { "term": "el ruido", "from_day": 1 },
+    { "term": "la grabación (from grabar)", "from_day": 1 },
+    { "term": "grabar", "from_day": 1 },
+    { "term": "los datos", "from_day": 1 },
+    { "term": "la antena", "from_day": 1 },
+    { "term": "el observatorio", "from_day": 1 },
+    { "term": "raro/rara", "from_day": 1 },
+    { "term": "escuchar", "from_day": 1 },
+    { "term": "la estrella", "from_day": 1 },
+    { "term": "de repente", "from_day": 1 },
+    { "term": "la señal", "from_day": 1 }
+  ],
+  "show_notes_extra": "Doña Marta and Julio join the cast. «Mija» is glossed in-world as Colombian warmth."
+}

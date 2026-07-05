@@ -1,0 +1,173 @@
+{
+  "episode": "024",
+  "day": 24,
+  "arc": 1,
+  "title": "La decisión de Andrés",
+  "description": "At dawn on the observatory roof, Andrés finally tells Camila about Caracas: the lab he lost, the team that scattered, and the antenna his father built on their roof. Then he gives her his answer.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Tía Chela mandó una nota de voz de ocho minutos. Un gato en un techo. Una boda. Y una bomba. Unos señores de Bogotá llamaron a la empresa de Andrés. Preguntaron si él era de confianza." },
+        { "voice": "narrator", "text": "Andrés entendió el peligro. Su vida en Colombia depende de un permiso. Un papel con una firma. Lo pueden deportar. Y el proyecto secreto de Camila es, para él, mucho más peligroso que para nadie." },
+        { "voice": "narrator", "text": "Anoche, Andrés dijo: mañana te digo qué voy a hacer. Si sigo en el proyecto, o si me voy." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Hoy: día veinticuatro. La decisión de Andrés." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.2,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Son las cinco y media de la mañana. El cielo sobre el cerro cambia de negro a azul. Camila busca a Andrés y no lo encuentra. No está en las computadoras. No está en la cocina. Está afuera, sentado, mirando la última estrella. Con su termo, claro. Siempre con su termo." },
+        { "voice": "narrator", "text": "Hoy va a ser un episodio tranquilo. Sin funcionarios, sin camionetas grises, sin sospechas. Solo dos personas, un termo de café, y el pasado de Andrés. A veces la historia más importante es la más callada." },
+        { "voice": "camila", "text": "¿Dormiste algo?" },
+        { "voice": "andres", "text": "No. Estuve pensando. Y recordando." },
+        { "voice": "narrator", "text": "Recordando. Un recuerdo es una imagen del pasado. Una imagen que guardas en la memoria. La memoria es la casa de los recuerdos. Esta noche, Andrés abrió esa casa. Y caminó por todos los cuartos." },
+        { "voice": "andres", "text": "¿Yo te conté de la antena de mi papá?" },
+        { "voice": "camila", "text": "No. Cuéntame." },
+        { "pause": 1.5 },
+        { "voice": "andres", "text": "Yo crecí en Caracas. En un edificio alto, con un techo plano. Mi papá trabajaba en los teléfonos, como yo después. Y un día llegó a la casa con cables y tubos. Me dijo: chamo, vamos a hacer una antena. Nuestra propia antena." },
+        { "voice": "narrator", "text": "Andrés tenía nueve años. Su padre y él subían al techo los domingos. Cortaban cables. Doblaban metal. La antena creció durante meses. Era fea, dice Andrés. Fea y perfecta." },
+        { "voice": "andres", "text": "Con esa antena escuchábamos el fútbol de Brasil. Radio de Colombia, de México. Una vez escuchamos una emisora de barcos. Mi papá decía: el cielo está lleno de voces, hijo. Solo hay que saber escuchar." },
+        { "voice": "narrator", "text": "Los vecinos del edificio se reían un poco. Ahí van los locos de la antena, decían. Pero cuando llegaba la lluvia y se iba la televisión… todos subían al techo de los Materán. A escuchar el partido. A escuchar las noticias. La antena fea era, de repente, la reina del edificio." },
+        { "voice": "andres", "text": "Mi papá no vendía nada. No cobraba nada. Solo decía: siéntense, hay señal para todos." },
+        { "voice": "narrator", "text": "Hay señal para todos. Guarda también esa frase. En esta historia, las frases de los padres siempre vuelven." },
+        { "voice": "narrator", "text": "El cielo está lleno de voces. Solo hay que saber escuchar. El padre de Andrés dijo eso hace treinta años. En un techo de Caracas. Y su hijo lo sigue haciendo. Escuchar el cielo. Toda una vida es, a veces, una sola frase." },
+        { "voice": "camila", "text": "¿Y tu papá vive todavía?" },
+        { "voice": "andres", "text": "Murió hace seis años. Antes de todo. A veces pienso: mejor. No vio el laboratorio vacío." },
+        { "pause": 2.5 }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.2,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El laboratorio. Vamos a esa parte de la memoria. Un laboratorio es un lugar de trabajo científico. Mesas, máquinas, pruebas, café. Andrés trabajaba en CANTV, la empresa de teléfonos de Venezuela. Era joven y era bueno. Tenía su propio laboratorio. Y tenía un equipo." },
+        { "voice": "andres", "text": "Mi equipo era el mejor del edificio. Éramos siete. Marielys, Jesús, el gordo Freddy… Siete ingenieros y una cafetera vieja." },
+        { "voice": "narrator", "text": "Cuidado con esta palabra: equipo. Equipo significa dos cosas. Uno: un grupo de personas que trabaja junto. El equipo de Andrés, sus siete ingenieros. Dos: las máquinas y herramientas del trabajo. Los equipos del laboratorio: computadoras, cables, aparatos. Andrés tenía las dos cosas. Un equipo humano, y equipos técnicos. Y perdió las dos." },
+        { "voice": "andres", "text": "Primero se dañaron los equipos. No había dinero para arreglarlos. Yo arreglaba lo que podía, con lo que había. Después empezaron los apagones. Un laboratorio sin electricidad es un cuarto oscuro. Y después… se fue la gente." },
+        { "voice": "narrator", "text": "Se fue la gente. Marielys se fue a Chile. Jesús, a Perú. El gordo Freddy, a Miami. Cada mes, una despedida. Un adiós más. Cada mes, el laboratorio más callado. Al final, Andrés apagaba las luces solo." },
+        { "voice": "andres", "text": "Una noche apagué todo y pensé: mi papá hizo una antena con basura. Y yo no puedo mantener un laboratorio con historia. Esa noche decidí. Compré el tiquete." },
+        { "voice": "narrator", "text": "El tiquete. El boleto. El papel para viajar. En Colombia dicen tiquete. En otros países dicen boleto. Es el mismo papel pequeño. Andrés no compró un tiquete de avión. Compró un tiquete de bus. Caracas, la frontera, Cúcuta, Medellín. ¿La frontera? La línea entre los dos países. Cuatro días de camino. Una maleta. Un termo." },
+        { "voice": "camila", "text": "¿Y cómo te sentiste?" },
+        { "pause": 2.0 },
+        { "voice": "andres", "text": "¿La verdad? Me sentí pequeño. Un ingeniero con quince años de experiencia, y me sentía invisible." },
+        { "voice": "narrator", "text": "Sentirse. ¿Qué es sentirse? Es lo que tienes adentro. Te sientes feliz, te sientes triste, te sientes pequeño. Andrés se sentía invisible. En Medellín manejaba una moto de entregas. Llevaba comida por la ciudad. Dos años. Los papeles, los trámites, empezar de nuevo." },
+        { "voice": "narrator", "text": "Empezar de nuevo. Escucha esa frase. Empezar de nuevo es comenzar desde cero. Otra ciudad, otra vida, otra vez. Nadie sabe tu historia. Nadie sabe que tenías un laboratorio. Para el mundo nuevo, eres solamente el señor de las entregas. Empezar de nuevo es un trabajo completo. El más duro que existe." },
+        { "voice": "andres", "text": "Y entonces, hace un mes, una empresa me mandó a un observatorio. A arreglar un generador y una antena vieja. Y una doctora loca me habló de un ruido a las tres y cuarenta y siete." },
+        { "voice": "camila", "text": "Loca no. Difícil. Mis colegas dicen que soy difícil." },
+        { "voice": "andres", "text": "Terca, sí. Bueno. Esa noche, en ese cuarto, con esos datos… yo me sentí ingeniero otra vez. Por primera vez en cinco años, me sentí yo." }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.2,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El sol sube. La ciudad despierta, allá abajo. Camila no dice nada. Sabe esperar. Por fin, Andrés se levanta y mira la antena grande." },
+        { "voice": "andres", "text": "Anoche pensé en irme. Es lo lógico. Protejo mi permiso, mis papeles, mi vida tranquila. Nadie deporta al señor de las entregas." },
+        { "voice": "camila", "text": "Y es verdad. Nadie puede decirte nada por eso." },
+        { "voice": "andres", "text": "Pero esta señal, Camila… esta señal es mi tiquete. No el de bus. El otro. El tiquete de vuelta a mi propia vida. Si me voy ahora, llego seguro a ninguna parte." },
+        { "pause": 2.0 },
+        { "voice": "andres", "text": "Me quedo. Esa es mi decisión. Me quedo hasta el final." },
+        { "voice": "narrator", "text": "La decisión. Decidir es elegir después de pensar. Piensas toda la noche, miras tus caminos, y eliges uno. Eso es decidir. Y la decisión es el resultado. La cosa elegida. La decisión de Andrés tiene tres palabras. Me quedo. Final." },
+        { "voice": "camila", "text": "¿Estás seguro? ¿Vale la pena el peligro?" },
+        { "voice": "andres", "text": "Mi papá subió a un techo mil domingos, por unas voces en el aire. Para él, valía la pena. Esto es más grande. Claro que vale la pena." },
+        { "voice": "narrator", "text": "Valer la pena. Algo vale la pena cuando das mucho… y recibes más. Cuesta trabajo, cuesta miedo, cuesta sueño. Y aun así, lo vuelves a elegir. Eso es valer la pena." },
+        { "voice": "andres", "text": "Ah, y otra cosa. La antena de mi papá costó casi nada. Basura, cables, tubos. Y escuchaba barcos, Camila. Barcos. Piensa en eso." },
+        { "voice": "narrator", "text": "Camila abre su cuaderno. Escribe: antena barata, techo, papá de Andrés. Todavía no sabe por qué lo escribe. Pero algo, en su cabeza, empieza a moverse. Guarden ese cuaderno en la memoria. Lo vamos a necesitar." },
+        { "voice": "camila", "text": "Una condición, Andrés. Si el peligro crece, hablamos con la abogada. Con Patricia, la sobrina de doña Marta. El mismo día. ¿Trato?" },
+        { "voice": "andres", "text": "Trato. Y una condición mía. Al final de todo esto, tú pruebas una arepa de verdad. Una reina pepiada, hecha por Tía Chela." },
+        { "voice": "camila", "text": "Eso casi da miedo, Andrés. Pero bueno. Trato." },
+        { "voice": "narrator", "text": "Se dan la mano. Un trato es un trato. Y así, con el sol de la mañana, el proyecto recupera a su ingeniero. Completo. Con memoria, con decisión, y con termo." },
+        { "pause": 2.0 }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Hoy conocimos el pasado de Andrés. Entonces la pregunta del día es esta. ¿Qué hace, exactamente, un ingeniero eléctrico?" },
+        { "voice": "narrator", "text": "Piensa en la electricidad como un río. Un río invisible que corre por cables. Ese río mueve el mundo moderno. Las luces de tu casa. Tu teléfono. Los trenes. Los hospitales. El ingeniero eléctrico trabaja con ese río. Lo controla, lo cuida, lo arregla." },
+        { "voice": "narrator", "text": "El trabajo tiene tres partes. Primero: dibujar. El ingeniero dibuja el sistema en papel, antes de hacerlo. Segundo: probar. ¿Funciona? ¿Es seguro? ¿Qué pasa si llueve, si hay un rayo, si algo se daña? Tercero: arreglar. Porque todo, tarde o temprano, se daña." },
+        { "voice": "narrator", "text": "Andrés trabajaba con una parte especial del río: las señales. Cuando hablas por teléfono, tu voz se hace electricidad. Un patrón eléctrico, pequeño y rápido. Ese patrón viaja por cables, sube a una antena, cruza el aire. Y otra antena lo recibe, lejos. En CANTV, el equipo de Andrés cuidaba ese viaje. Millones de voces por día, cruzando un país." },
+        { "voice": "narrator", "text": "¿Y dónde aprendió Andrés? Primero en un techo, con su padre. Después en la universidad. Y después en el laboratorio, muchos años. Un ingeniero se hace despacio. Problema por problema. Apagón por apagón. Los apagones de Caracas fueron una escuela terrible. Pero fueron una escuela." },
+        { "voice": "narrator", "text": "Por eso Andrés entiende la señal de Camila mejor que muchos astrónomos. Camila conoce las estrellas. Andrés conoce los mensajes. Ella sabe de dónde vienen las señales. Él sabe cómo se hacen. Un buen equipo, ¿no? Un equipo de dos." },
+        { "voice": "narrator", "text": "Y una cosa más. En Venezuela había ingenieros excelentes. Petróleo, electricidad, teléfonos: país de ingenieros. Hoy muchos de ellos manejan taxis en Lima. Venden café en Quito. Llevan entregas en Medellín. Si un día escuchas un acento venezolano, recuerda esto. No sabes qué laboratorio dejó esa persona. No sabes qué sabe hacer. El señor de las entregas puede ser el mejor ingeniero del barrio." },
+        { "pause": 2.5 }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repaso. Vamos a recordar el día de hoy. Hoy fue un día de recuerdos y una decisión." },
+        { "voice": "narrator", "text": "Andrés abrió la casa de su memoria. ¿Qué encontramos ahí? Un techo en Caracas. Un padre que hacía antenas los domingos. Una frase: el cielo está lleno de voces. Solo hay que saber escuchar." },
+        { "voice": "narrator", "text": "Encontramos también un laboratorio. ¿Qué es un laboratorio? Un lugar de trabajo científico. El laboratorio de Andrés murió despacio. Primero los equipos, las máquinas. Después el equipo, las personas. ¿Recuerdas los dos sentidos de equipo? Las máquinas… y la gente. Andrés perdió los dos." },
+        { "voice": "narrator", "text": "Y encontramos un tiquete de bus. Un boleto. Caracas, la frontera, Medellín. Empezar de nuevo: otra ciudad, desde cero. Dos años de entregas. Un ingeniero que se sentía invisible. ¿Sentirse? Lo que tienes adentro. Triste, feliz, pequeño, fuerte." },
+        { "voice": "narrator", "text": "Y esta mañana, la decisión. ¿Decidir? Pensar, mirar los caminos, y elegir uno. Andrés eligió el camino con peligro. Me quedo, dijo. La señal es su tiquete de vuelta a su propia vida. ¿Vale la pena? Él dice que sí. Como los domingos de su papá, en el techo. Claro que vale la pena." },
+        { "voice": "narrator", "text": "Y no olvides el cuaderno de Camila. Antena barata. Techo. Algo se mueve en la cabeza de la doctora. Todavía no tiene forma. Pronto va a tenerla." },
+        { "voice": "narrator", "text": "Última pregunta del día. ¿Por qué la señal es el tiquete de Andrés? Porque con ella, Andrés no es el señor de las entregas. Es ingeniero. Es él mismo, de nuevo. Hay tiquetes de papel, y hay tiquetes de vida. Este es del segundo tipo." },
+        { "voice": "narrator", "text": "Mañana volvemos a la acción. Hay que grabar la próxima señal, y el tiempo corre. Hay una nueva persona importante en el proyecto. Tiene taxi, tiene teorías, y tiene primos. Muchos primos. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "la decisión", "gloss": "decision" },
+    { "term": "decidir", "gloss": "to decide (refresh + circled)" },
+    { "term": "el laboratorio", "gloss": "laboratory" },
+    { "term": "el equipo", "gloss": "team / equipment (both senses circled)" },
+    { "term": "empezar de nuevo", "gloss": "to start over" },
+    { "term": "el boleto / el tiquete", "gloss": "ticket (both regional forms)" },
+    { "term": "sentirse", "gloss": "to feel (emotion)" },
+    { "term": "la memoria / el recuerdo", "gloss": "memory (faculty) / a memory" },
+    { "term": "el padre", "gloss": "father (refresh, circled)" },
+    { "term": "valer la pena", "gloss": "to be worth it" }
+  ],
+  "vocab_recycled": [
+    { "term": "el permiso", "from_day": 23 },
+    { "term": "los papeles", "from_day": 23 },
+    { "term": "el peligro / peligroso", "from_day": 23 },
+    { "term": "deportar", "from_day": 23 },
+    { "term": "tranquilo/tranquila", "from_day": 23 },
+    { "term": "los trámites", "from_day": 23 },
+    { "term": "la confianza (de confianza)", "from_day": 23 },
+    { "term": "elegir", "from_day": 21 },
+    { "term": "el proyecto", "from_day": 21 },
+    { "term": "secreto/secreta", "from_day": 21 },
+    { "term": "confiar (implicit via confianza)", "from_day": 21 },
+    { "term": "la teoría (tease of El Flaco)", "from_day": 17 },
+    { "term": "el secreto", "from_day": 17 },
+    { "term": "el taxi / el taxista (tease)", "from_day": 3 },
+    { "term": "manejar", "from_day": 3 },
+    { "term": "las luces", "from_day": 3 },
+    { "term": "el cerro", "from_day": 3 },
+    { "term": "el trato", "from_day": 17 }
+  ],
+  "show_notes_extra": "Today's episode leans on the imperfect tense for Andrés's Caracas memories — exactly the grammar the S1 stage wants you to hear until it feels automatic."
+}

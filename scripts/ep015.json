@@ -1,0 +1,150 @@
+{
+  "episode": "015",
+  "day": 15,
+  "arc": 1,
+  "title": "El informe",
+  "description": "Sarmiento wants one safe line in the report: 'unidentified interference'. Camila writes the truth instead — and in a Bogotá office with a view, someone reads it, underlines it, and reaches for a stamp. Mundo Real: a gentle comic essay on Latin American paperwork.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal." },
+        { "voice": "narrator", "text": "Andrés contó la historia de los perytones. Diecisiete años de señales misteriosas en Australia. Y la explicación estaba en la cocina. Era el horno microondas, abierto antes del ping. Todos se rieron. Después, nadie se rio. Porque nuestra señal ya pasó todas las pruebas. No es un horno. No es un satélite. No es un avión. La lista está casi vacía." },
+        { "voice": "narrator", "text": "Y al final del desayuno, sonó el teléfono. Sarmiento, el director. Bogotá quiere el informe semanal antes. Lo adelantaron para el jueves. Y la rutina, ya lo sabemos, nunca se adelanta." },
+        { "voice": "narrator", "text": "Ah, y no olvidemos lo demás. Una camioneta gris con vidrios oscuros. Dos hombres que preguntaron por Camila. Dos cafés comprados y no tomados. Alguien mira al observatorio desde hace días. Y todavía no sabemos quién." },
+        { "voice": "narrator", "text": "Hoy es jueves. Hoy toca escribir el informe. Parece poco. Es todo. Porque hay informes que cambian una vida." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Por la mañana, Sarmiento buscó a Camila. La llevó a su oficina. ¿Una oficina? Una oficina es un cuarto de trabajo. Una mesa, una silla, papeles, un computador. La oficina de Sarmiento es pequeña y vieja. Como el presupuesto del observatorio." },
+        { "voice": "sarmiento", "text": "Camila, hablemos del informe. Tú sabes adónde va ese documento." },
+        { "voice": "camila", "text": "Va al ministerio. Como todas las semanas." },
+        { "voice": "narrator", "text": "¿El ministerio? El ministerio es una parte del gobierno. Una organización grande, con edificios grandes, en Bogotá. Allá deciden los fondos. Deciden qué observatorio vive. Y qué observatorio muere. El informe de Camila va al ministerio." },
+        { "voice": "sarmiento", "text": "Exacto. Y por eso te pido una cosa. Sobre el ruido ese de las noches... escribe una línea. Una sola. Interferencia no identificada. Y ya." },
+        { "voice": "narrator", "text": "Interferencia no identificada. Vamos a mirar esa palabra. ¿Identificar? Identificar es saber qué es una cosa. Le pones nombre. La policía identifica a una persona. Tú identificas una canción en dos segundos. No identificada significa: no sabemos qué es. Interferencia no identificada: un ruido sin nombre. Un ruido sin importancia." },
+        { "voice": "camila", "text": "Director... eso no es exacto. No es interferencia. Ya lo comprobamos. Descartamos satélites, aviones, sensores." },
+        { "voice": "sarmiento", "text": "Camila. Te quiero mucho. Eres mi mejor astrónoma. Por eso te digo esto. El ministerio va a revisar nuestro presupuesto. Este mes. Un informe aburrido es un amigo. Un informe interesante es un problema. No hagas ruido." },
+        { "voice": "narrator", "text": "Camila salió de la oficina sin decir nada. Conocía esa frase. Necesitamos fondos, no fantasmas. La escuchó hace dos semanas. En la misma oficina. Del mismo hombre cansado." },
+        { "voice": "narrator", "text": "Afuera, Andrés trabajaba en la antena. Bueno, técnicamente ya no trabaja ahí. Pero las antenas no conocen los contratos. Camila le contó todo. La oficina, la línea, el consejo del director." },
+        { "voice": "andres", "text": "¿Y usted qué va a escribir, doctora?" },
+        { "voice": "camila", "text": "No sé. Por eso le pregunto a usted. ¿Usted qué hace en estos casos?" },
+        { "voice": "andres", "text": "Yo soy ingeniero, doctora. Cuando un cable está dañado, yo escribo: cable dañado. No escribo: cable con opinión diferente. Los documentos técnicos dicen lo que es." },
+        { "voice": "camila", "text": "Los documentos técnicos no van al ministerio, Andrés." },
+        { "voice": "andres", "text": "Cierto. Por eso usted gana más que yo. Bueno... ganaba. Ahora yo gano cero." },
+        { "voice": "narrator", "text": "Camila se rio, por primera vez en el día. Después miró la antena grande. Y pensó en el informe toda la tarde." }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.2,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Esa noche, Camila se sentó ante la pantalla. El informe estaba casi listo. Datos del clima, horas de trabajo, mantenimiento de la antena. Rutina pura. Faltaba una sola línea. La línea." },
+        { "voice": "narrator", "text": "Camila escribió: interferencia no identificada. La miró. La borró. La escribió otra vez. La borró otra vez. Julio la miraba desde su silla, nervioso." },
+        { "voice": "julio", "text": "Escríbela, Camila. Interferencia no identificada. Cinco palabras y a dormir." },
+        { "voice": "camila", "text": "Es que no es interferencia, Julio. Eso es mentir." },
+        { "voice": "narrator", "text": "¿Mentir? Mentir es decir algo falso. Algo que no pasó. Dices: estaba enfermo. Pero estabas en la playa. Eso es mentir. Una mentira es la cosa falsa que dices. Y lo contrario de la mentira... es la verdad. La verdad es lo que pasó de verdad." },
+        { "voice": "julio", "text": "No es una mentira completa, Camila. Es una... versión tranquila. Todos escriben así los informes. Es la costumbre." },
+        { "voice": "camila", "text": "¿Versión tranquila? Julio. Nosotros somos científicos. Un científico identifica cosas. Ese es el trabajo entero. Y cuando no puede identificar algo, lo dice. No lo esconde debajo de una palabra cómoda." },
+        { "voice": "julio", "text": "Está bien, está bien. ¿Y un tercer camino? No escribas nada. Ni interferencia, ni señal. Silencio total." },
+        { "voice": "camila", "text": "Peor. La señal está en nuestros datos oficiales. Un informe sin la señal también es mentir. Mentir con silencio. Es la mentira más elegante. Pero es mentira igual." },
+        { "voice": "camila", "text": "¿Y si el ministerio revisa nuestros datos algún día? La señal está grabada, Julio. Con fecha y hora. Escribir interferencia es firmar una mentira." },
+        { "voice": "narrator", "text": "Julio se quedó en silencio. Julio es leal. ¿Leal? Un amigo leal está contigo siempre. No te abandona en los problemas. Julio tiene miedo, sí. Miedo del jefe, miedo del ministerio. Pero es leal a Camila. Por eso dijo la frase siguiente en voz muy baja." },
+        { "voice": "julio", "text": "Si escribes la verdad... yo no te dejo sola. Pero escribe con cuidado, por favor." },
+        { "voice": "narrator", "text": "Camila pensó en la camioneta gris. Alguien ya sabe algo. Alguien ya pregunta por ella. Una mentira en el informe no la ayuda. Solo la deja sola con la mentira. Y pensó en los perytones. Los australianos dijeron su verdad ridícula. Era nuestro microondas, qué pena. Y la astronomía siguió adelante." },
+        { "voice": "narrator", "text": "Camila respiró profundo. Y escribió la verdad. Con palabras técnicas, frías, exactas. Señal repetitiva de origen desconocido. Seis palabras. Ni una mentira, ni un drama. Solo la verdad." },
+        { "voice": "narrator", "text": "Después, Camila firmó el informe. ¿Firmar? Firmar es escribir tu nombre en un documento. Tu nombre, con tu mano, con tu estilo. Firmar significa: yo digo esto, y respondo por esto. Camila Rey firmó su verdad." },
+        { "voice": "narrator", "text": "Y ahora, la parte final. Enviar. ¿Enviar? Enviar es mandar. La misma idea, otra palabra. Mandas una nota de voz. Envías un documento. Camila miró el botón azul. Enviar al ministerio." },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "Lo leyó todo una vez más. Tres veces, en realidad. Miró a Julio. Julio no dijo nada. Miró la ventana. Afuera, la noche de siempre. Y la antena grande, negra contra el cielo." },
+        { "voice": "camila", "text": "Bueno. Un científico escribe lo que ve." },
+        { "voice": "narrator", "text": "Y Camila envió el informe." },
+        { "pause": 3.0 }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Bogotá. El día siguiente. Un edificio alto, en el centro. Arriba, una oficina enorme. Una oficina con vista a toda la ciudad. No es una oficina vieja y pequeña. Es la otra clase de oficina. La clase que decide cosas." },
+        { "voice": "narrator", "text": "Un hombre lee documentos. Lee rápido, medio aburrido. Informe tras informe. Rutina de ministerio. De repente... para. Vuelve una página atrás. Lee despacio." },
+        { "voice": "aux_f", "text": "¿Algo interesante, ministro Pardo?" },
+        { "voice": "pardo", "text": "Quizás. Un observatorio pequeño, en los cerros. Señal repetitiva... de origen desconocido." },
+        { "voice": "narrator", "text": "El ministro tomó un marcador amarillo. Y subrayó la línea. ¿Subrayar? Subrayar es marcar las palabras importantes. Una línea de color, debajo de las letras. Subrayas lo que no quieres olvidar. El ministro subrayó las seis palabras de Camila." },
+        { "voice": "pardo", "text": "Como dice el dicho: camarón que se duerme... llega tarde al trabajo." },
+        { "voice": "narrator", "text": "El dicho real no es así. El dicho real termina diferente. Pero nadie corrige al ministro Pardo. Nunca. La asistente sonrió, profesional, y esperó." },
+        { "voice": "pardo", "text": "Quiero toda la información de ese observatorio. Y de esa doctora... Rey. Camila Rey. Todo." },
+        { "voice": "narrator", "text": "Después, el ministro abrió un cajón. Sacó un sello. ¿Un sello? Un sello es una marca oficial. Lo aprietas contra el papel, y deja una palabra en tinta. Los sellos dan poder a los papeles. El ministro puso el sello sobre el informe de Camila. La tinta decía una sola palabra: prioridad." },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "En el cerro, Camila dormía por fin. No lo sabía. Su verdad ya estaba subrayada." }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real. Hoy: el papeleo. Una palabra hermosa y terrible. El papeleo es el mundo de los papeles oficiales. Documentos, filas, ventanillas y sellos. Todos los países tienen papeleo. Pero en América Latina, el papeleo es un arte. Un deporte. Una escuela de calma y de humor." },
+        { "voice": "narrator", "text": "¿Necesitas un documento oficial? Prepárate. Primero, la fila. Llegas temprano; ya hay veinte personas. Segundo, la ventanilla. Una ventana pequeña, con una persona detrás. Esa persona tiene todo el poder del universo. Tercero, los documentos. ¿Trajiste el documento tres veces? Eran cuatro veces. Vuelva mañana." },
+        { "voice": "narrator", "text": "Vuelva mañana. Tres palabras famosas en todo el continente. No significan que mañana funciona. Significan: hoy no. Mañana, quizás. La esperanza es parte del sistema. Hay gente que pide un día libre en el trabajo. ¿Para descansar? No. Para hacer una vuelta de papeleo. Un día entero. A veces no alcanza." },
+        { "voice": "narrator", "text": "Y arriba de todo está el rey del papeleo: el sello. Sin sello, tu documento no vale nada. Puede tener toda la información correcta. No importa. Le falta el sello. Con sello, en cambio, el papel se pone serio. Suena diferente. Pum. Sellado. Oficial." },
+        { "voice": "narrator", "text": "Firmar también es un pequeño drama. En algunas oficinas firmas cinco veces, seis veces. Firmas tanto que tu nombre cambia de forma. Al principio, tu nombre es bonito y claro. En la quinta página, es una línea cansada." },
+        { "voice": "narrator", "text": "Pero seamos justos con el papeleo. Detrás de cada ventanilla hay una persona. Casi siempre cansada. Casi siempre simpática, si tú eres simpático primero. Un buenos días sincero abre más puertas que un grito. ¿Y un tinto compartido? Un tinto es un café negro, en colombiano. Ese abre todas. El papeleo es lento. La gente, no. La gente es lo mejor del sistema." },
+        { "voice": "narrator", "text": "¿Y por qué contamos esto hoy? Porque el informe de Camila entró a ese mundo. El mundo de las oficinas y los ministerios. Un mundo lento, casi siempre. Los papeles duermen años en los cajones. Pero a veces, un papel no duerme. A veces alguien lo lee, lo subraya, le pone un sello. Y el papel despierta con hambre." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repasamos. Sarmiento llamó a Camila a su oficina. Su cuarto de trabajo, pequeño y viejo. Le pidió una línea tranquila: interferencia no identificada. Identificar: saber qué es una cosa, ponerle nombre. No identificada: sin nombre, sin importancia. Una línea segura para el ministerio. La parte del gobierno que decide los fondos. Sarmiento no es malo. Está cansado. Y los hombres cansados aman las líneas tranquilas." },
+        { "voice": "narrator", "text": "Pero Camila no quiso mentir. Mentir: decir algo falso. Una mentira es esa cosa falsa. Lo contrario es la verdad: lo que pasó de verdad. Camila escribió la verdad, con palabras frías. Señal repetitiva de origen desconocido. Después firmó: escribió su nombre en el documento. Y lo envió. Enviar es mandar. El informe voló al ministerio." },
+        { "voice": "narrator", "text": "Julio tuvo miedo, pero se quedó. Porque Julio es leal. Un amigo leal no te abandona. Recuerda esa palabra. La vamos a necesitar." },
+        { "voice": "narrator", "text": "Una pregunta para ti. ¿Camila hizo bien? Piénsalo. La línea de Sarmiento era segura. Interferencia no identificada: dos palabras y ningún problema. La línea de Camila es honesta. Y menos segura, quizás. ¿Tú qué escribes en tu informe? ¿La versión tranquila... o la verdad? No hay una sola salida fácil. Por eso esta historia apenas empieza." },
+        { "voice": "narrator", "text": "Y en Bogotá, en una oficina con vista, un ministro leyó el informe. Subrayó la línea de Camila. Subrayar: marcar lo importante con una línea. Pidió toda la información del observatorio. Y puso un sello: la marca oficial de los papeles con poder. Prioridad." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Seis palabras honestas viajaron a la capital. Y despertaron algo. ¿Bueno? ¿Malo? Todavía no sabemos. El sello ya está puesto. La máquina del ministerio ya se mueve. Y las máquinas del gobierno se mueven despacio... casi siempre. Mañana, el observatorio recibe gente nueva. Gente del ministerio. Gente muy simpática. Demasiado simpática. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "identificar", "gloss": "to identify" },
+    { "term": "la verdad", "gloss": "the truth" },
+    { "term": "mentir / la mentira", "gloss": "to lie / a lie" },
+    { "term": "firmar", "gloss": "to sign" },
+    { "term": "enviar", "gloss": "to send" },
+    { "term": "la oficina", "gloss": "office" },
+    { "term": "el ministerio", "gloss": "ministry" },
+    { "term": "subrayar", "gloss": "to underline, highlight" },
+    { "term": "leal", "gloss": "loyal" },
+    { "term": "el sello", "gloss": "stamp, seal" }
+  ],
+  "vocab_recycled": [
+    { "from_day": 14, "items": ["el informe", "la rutina / rutinario", "adelantar", "el misterio (via recap)", "el horno / el microondas (via recap)", "reírse (via recap)"] },
+    { "from_day": 12, "items": ["mandar (enviar es mandar)", "la nota de voz", "la prueba", "el satélite (via recap)"] },
+    { "from_day": 8, "items": ["el cable (cable dañado / cable con opinión diferente)"] }
+  ],
+  "show_notes_extra": "Pardo's proverb should end 'se lo lleva la corriente' (the shrimp that falls asleep gets swept away by the current). Nobody corrects him. Nobody ever will."
+}

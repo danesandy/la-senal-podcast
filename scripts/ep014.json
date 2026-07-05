@@ -1,0 +1,156 @@
+{
+  "episode": "014",
+  "day": 14,
+  "arc": 1,
+  "title": "Los perytones",
+  "description": "Over breakfast, Andrés tells the true story of the Parkes 'perytons': seventeen years of mysterious signals that turned out to be the observatory microwave. Everyone laughs — until they remember their own signal already passed every test the perytons failed. Then Sarmiento calls: Bogotá wants the routine report early.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal." },
+        { "voice": "narrator", "text": "Camila hizo una lista de explicaciones. Todas las explicaciones aburridas para la señal. ¿Un satélite? Descartado, gracias a Beto y la tía Chela. ¿Un avión? Descartado, por dos razones. ¿Un sensor roto? Descartado. Andrés revisó todo con sus herramientas. ¿El radar? Casi descartado. La lista se hizo corta en un solo día." },
+        { "voice": "narrator", "text": "Pero Andrés escribió una explicación más. La número cinco. Un horno microondas. Camila protestó. Andrés sonrió y prometió una historia. Una historia real, de Australia. La historia más rara de la radioastronomía." },
+        { "voice": "andres", "text": "Es una historia para el desayuno. Las mejores historias son para el desayuno." },
+        { "voice": "narrator", "text": "Pues bueno. Ya es de mañana. El desayuno está servido. Y la historia también. Vamos al puesto de doña Marta." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El puesto de doña Marta, siete de la mañana. Café caliente, empanadas, arepas. Y un público especial. Camila, Julio, doña Marta. Y El Flaco, que llevó a Julio en su taxi. Bueno, esa fue su excusa. El Flaco huele las buenas historias desde lejos." },
+        { "voice": "elflaco", "text": "A ver, ingeniero. Dicen que usted tiene una historia. Yo soy un profesional de las historias. Lo escucho." },
+        { "voice": "andres", "text": "Primero necesito silencio total. Y otra arepa. Las historias grandes necesitan energía." },
+        { "voice": "marta", "text": "Tome, mijo. Arepa colombiana. Con queso. Hable." },
+        { "voice": "andres", "text": "Gracias, doña Marta. Un día le preparo una arepa venezolana. Y usted va a cambiar de país." },
+        { "voice": "marta", "text": "Cuidado, mijo. En este puesto, esas palabras son problema serio. Coma y cuente." },
+        { "voice": "narrator", "text": "El Flaco sacó su teléfono. Quería grabar la historia, para su programa. Camila le dijo que no con la cabeza. El Flaco guardó el teléfono, triste. Pero se quedó. Un buen misterio vale más que una grabación." },
+        { "voice": "narrator", "text": "Andrés comió un poco, con drama profesional. Miró a su público. Y empezó. Como los buenos: despacio." },
+        { "voice": "andres", "text": "Esta historia es cien por ciento real. Pasó en Australia. En un lugar que se llama Parkes. Y es un misterio de diecisiete años." },
+        { "voice": "narrator", "text": "¿Un misterio? Un misterio es algo sin explicación. Algo que nadie entiende. ¿Quién lo hizo? ¿De dónde viene? ¿Por qué pasa? Nadie sabe. Eso es un misterio. Y algo con mucho misterio es... misterioso." },
+        { "voice": "elflaco", "text": "Diecisiete años. Qué belleza. Los misterios largos son los mejores. Continúe, maestro." }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.2,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real, edición especial. Hoy, la historia la cuenta Andrés. Todo lo que van a escuchar es real. Todo. Pueden buscarlo después." },
+        { "voice": "andres", "text": "En Australia hay un observatorio muy famoso. Se llama Parkes. Su antena es un plato gigante. Sesenta y cuatro metros. Mucho más grande que la nuestra. Con esa antena, el mundo vio los primeros pasos del Apolo once. Es una antena histórica. Una leyenda." },
+        { "voice": "narrator", "text": "Sesenta y cuatro metros. Piensen en eso. Media cuadra de antena, mirando al cielo. Uno de los observatorios más serios del planeta. En Australia la aman tanto que le dicen, simplemente, El Plato. Hasta hay una película sobre ella. Recuerden esa palabra: serios." },
+        { "voice": "andres", "text": "Bueno. Desde el año noventa y ocho, esa antena grabó señales rarísimas. Señales muy cortas y muy fuertes. Llegaban de vez en cuando, sin patrón claro. Los científicos las estudiaron. Y no encontraron la explicación. Les pusieron un nombre: perytones." },
+        { "voice": "narrator", "text": "¿Perytón? Es el nombre de un animal de fantasía. Un animal con alas que no existe. Un nombre perfecto para una señal fantasma. Nadie sabía qué eran los perytones. Un misterio con nombre propio." },
+        { "voice": "andres", "text": "Y así pasaron los años. Durante diecisiete años, los perytones llegaron y llegaron. Durante diecisiete años, los científicos hicieron pruebas. Y durante diecisiete años... nada. El misterio siguió abierto." },
+        { "voice": "narrator", "text": "¿Durante? Durante marca el tiempo de algo. Durante la noche, duermo. Durante el día, trabajo. Durante diecisiete años, Parkes escuchó señales misteriosas. Diecisiete años. Los estudiantes empezaron carreras y las terminaron. Y los perytones seguían ahí." },
+        { "voice": "andres", "text": "Pero en el año dos mil quince, llegó un detector nuevo. Un aparato moderno, para estudiar interferencias. Los científicos miraron los nuevos datos. Y encontraron algo increíble. La señal misteriosa venía... del mismo observatorio." },
+        { "voice": "camila", "text": "No. No me diga que..." },
+        { "voice": "andres", "text": "Sí, doctora. Venía de la cocina." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "¿La cocina? Sí, la cocina. El cuarto de la comida. Donde está el café, la nevera... y el horno microondas. El horno de calentar el almuerzo. Ese horno." },
+        { "voice": "andres", "text": "Los científicos calentaban su comida en el microondas. Pero a veces tenían hambre. Mucha hambre. Y abrían la puerta del horno antes del final. Antes del ping. Y en ese momento exacto, el horno mandaba una señal de radio. Corta y fuerte. Directo a la antena gigante." },
+        { "voice": "narrator", "text": "Diecisiete años de misterio. Cientos de horas de trabajo. Los mejores científicos de Australia. Y la explicación estaba en la cocina. A cincuenta metros. Era el almuerzo." },
+        { "voice": "marta", "text": "¡Diecisiete años! Yo resuelvo mis misterios en una tarde. Máximo dos." },
+        { "voice": "narrator", "text": "Todos se rieron. ¿Reírse? Ja, ja, ja. Eso es reírse. Julio se rio hasta las lágrimas. El Flaco se rio y aplaudió. Hasta Camila se rio. Y el que más se rio fue Andrés. Es su historia favorita del mundo." },
+        { "voice": "elflaco", "text": "Un momento, un momento. O sea que el gobierno australiano escondió un microondas durante diecisiete años. Esto va directo a mi programa." },
+        { "voice": "andres", "text": "Nadie escondió nada, Flaco. Ese es el punto. Los científicos publicaron todo. Dijeron: era nuestro microondas, qué pena. Y así se resolvió el misterio." },
+        { "voice": "narrator", "text": "¿Resolver? Resolver es encontrar la explicación. Cerrar el misterio. El detective resuelve el caso. Los australianos resolvieron el misterio de los perytones. Diecisiete años de pregunta. Y una explicación de dos minutos en el microondas." },
+        { "voice": "andres", "text": "Y ahora, la parte más importante. En Parkes también grababan otras señales raras. Señales parecidas, pero de otro tipo. Cuando el horno explicó los perytones, todos hicieron la misma pregunta. ¿Y las otras señales? ¿También eran el almuerzo?" },
+        { "voice": "narrator", "text": "Los científicos revisaron todo otra vez. Con miedo, imagino. Y no. Las otras señales eran diferentes. No venían de la cocina. Venían de muy, muy lejos. Del espacio profundo. Eran reales. Hoy son uno de los temas más calientes de la astronomía." },
+        { "voice": "andres", "text": "¿Ven la lección? El horno era real. Y las señales del espacio también. Las dos cosas pueden ser ciertas al mismo tiempo. Por eso se hacen las pruebas." }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Las risas terminaron poco a poco. Y llegó un silencio raro. Porque todos pensaron lo mismo. Al mismo tiempo. ¿Y nuestra señal?" },
+        { "voice": "camila", "text": "Por eso usted escribió microondas en mi lista. Muy gracioso, Andrés. Pero ahora hablemos en serio. ¿Nuestra señal puede ser un horno?" },
+        { "voice": "andres", "text": "No. Y eso es exactamente lo importante. Mire la diferencia, doctora." },
+        { "voice": "narrator", "text": "Andrés levantó un dedo. Primera diferencia. Los perytones llegaban de día. En horas de trabajo. A la hora del almuerzo, cuando la gente calienta comida. Nuestra señal llega de noche. A las tres y cincuenta y dos. Nadie calienta el almuerzo a esa hora." },
+        { "voice": "narrator", "text": "Segundo dedo. En el observatorio de Camila no hay microondas. Cero hornos. Camila come empanadas frías, como una salvaje. Ya lo sabemos." },
+        { "voice": "narrator", "text": "Tercer dedo. Los perytones no tenían patrón. Llegaban cuando llegaba el hambre. Nuestra señal tiene ritmo. Tiene horario. Se repite con un patrón exacto. El hambre no funciona así." },
+        { "voice": "andres", "text": "Los perytones no pasaron ninguna prueba seria. Por eso eran un horno. Nuestra señal ya pasó todas las pruebas. Por eso no es un horno. Ni un satélite, ni un avión, ni un sensor." },
+        { "voice": "camila", "text": "Entonces la historia del microondas no me tranquiliza. Me asusta más." },
+        { "voice": "narrator", "text": "Camila tenía razón. Un misterio con explicación tonta da risa. Un misterio sin explicación tonta da otra cosa. Da frío en la espalda. La lista está casi vacía. Y la señal sigue llegando, puntual, cada noche." },
+        { "pause": 2.5 },
+        { "voice": "elflaco", "text": "Yo solo digo una cosa. Si un día resuelven este misterio... yo lo cuento primero. En mi programa." }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Y en ese momento, sonó el teléfono de Camila. Era Sarmiento. El jefe. El director del observatorio. Sarmiento nunca llama tan temprano." },
+        { "voice": "sarmiento", "text": "Camila, buenos días. Necesito el informe semanal. El informe rutinario. Lo necesito para el jueves." },
+        { "voice": "camila", "text": "¿Para el jueves? El informe es para la próxima semana, director. Siempre es para la próxima semana." },
+        { "voice": "sarmiento", "text": "Ya lo sé. Bogotá lo quiere antes. No preguntes por qué, Camila. Yo tampoco sé. El jueves, por favor." },
+        { "voice": "narrator", "text": "Y colgó. Así, sin más. Camila se quedó mirando el teléfono." },
+        { "voice": "narrator", "text": "Vamos por partes. ¿Un informe? Un informe es un documento de trabajo. Dice: esto pasó, esto hicimos, estos son los datos. Los observatorios escriben informes cada semana. Es normal. Es rutina." },
+        { "voice": "narrator", "text": "¿La rutina? La rutina es lo normal de todos los días. Café por la mañana: rutina. El informe semanal: rutina. Una cosa rutinaria es una cosa normal, sin sorpresas. Aburrida, incluso. Los informes rutinarios no le importan a nadie. Casi nunca." },
+        { "voice": "narrator", "text": "Pero esta vez, Bogotá adelantó el informe. ¿Adelantar? Adelantar es pedir algo antes de la fecha normal. El examen era el viernes. El profesor lo adelantó al miércoles. La fecha se mueve hacia adelante... se adelanta. El informe era para la próxima semana. Ahora es para el jueves." },
+        { "voice": "julio", "text": "¿Y eso qué? Un informe es un informe. Papeles de rutina." },
+        { "voice": "andres", "text": "Julio. Nadie adelanta la rutina. La rutina no corre. Si alguien adelanta un informe rutinario... es porque ya no es rutinario." },
+        { "voice": "narrator", "text": "Camila pensó en la camioneta gris. En los dos hombres que preguntaron por ella. En los cafés comprados y no tomados. Y ahora, un informe adelantado, sin razón. Dos veces no es casualidad. ¿Y tres veces?" },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "Tres veces es un patrón." },
+        { "voice": "camila", "text": "Andrés. En ese informe... ¿yo qué escribo? ¿Escribo sobre la señal, o no?" },
+        { "voice": "andres", "text": "Esa pregunta no es técnica, doctora. Y yo solo arreglo cosas técnicas." },
+        { "voice": "narrator", "text": "Doña Marta les sirvió más café. Sin preguntar. Hay momentos que necesitan café. Ella los reconoce desde lejos. Nadie habló durante un minuto entero. El informe podía esperar hasta mañana. Pero solo hasta mañana." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repasamos, con calma. Hoy conocimos los perytones. Señales misteriosas en Australia. Un misterio: algo sin explicación. Duró diecisiete años. Durante esos años, nadie encontró nada. Y al final, la explicación estaba en la cocina. El cuarto de la comida. Era el horno microondas, abierto antes del ping. Así se resolvió el misterio. Resolver: encontrar la explicación. Y todos se rieron. Reírse: ja, ja, ja." },
+        { "voice": "narrator", "text": "Pero nuestra señal es diferente. Llega de noche, con patrón exacto. En un observatorio sin microondas. Ya pasó todas las pruebas. Por eso Camila no se ríe mucho. Un misterio sin explicación tonta... es un misterio serio." },
+        { "voice": "narrator", "text": "Y aprendimos algo más, muy bonito. En Parkes había dos tipos de señales raras. Unas eran el horno de la cocina. Otras venían del espacio profundo. Y eran reales. La lección de Andrés: las pruebas separan lo tonto de lo real. Sin pruebas, todo se ve igual de misterioso." },
+        { "voice": "narrator", "text": "Y al final, Sarmiento llamó por teléfono. Bogotá quiere el informe. El documento de trabajo de cada semana. Un informe rutinario, normal, aburrido. Pero lo quieren antes. Lo adelantaron. Adelantar: pedir algo antes de la fecha normal. Y la rutina, queridos amigos, nunca se adelanta." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Hoy también cumplimos una semana con Andrés. Llegó hace siete días, con su termo y sus herramientas. Un ingeniero venezolano que arregla todo. Instaló, revisó, comprobó. Defendió su arepa con honor. Y tenía razón sobre el ritmo de la señal. Chévere, como dice él. Muy chévere." },
+        { "voice": "narrator", "text": "Una pregunta para ti, antes de terminar. ¿Tú abres el microondas antes del ping? Sé honesto. Todos lo hacemos. Pues cada vez que lo haces, mandas una pequeña señal de radio. Igual que los científicos de Parkes. En algún lugar, quizás, una antena te escucha. Piénsalo durante el almuerzo." },
+        { "voice": "narrator", "text": "Mañana, Camila escribe el informe. Parece fácil. No es fácil. Hay dos formas de escribir un informe. La forma tranquila... y la otra. ¿Cuál de las dos? Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "la cocina", "gloss": "kitchen" },
+    { "term": "el horno", "gloss": "oven" },
+    { "term": "durante", "gloss": "during, for (time)" },
+    { "term": "el misterio", "gloss": "mystery" },
+    { "term": "misterioso/misteriosa", "gloss": "mysterious" },
+    { "term": "resolver", "gloss": "to solve" },
+    { "term": "reírse", "gloss": "to laugh" },
+    { "term": "el informe", "gloss": "report" },
+    { "term": "la rutina / rutinario", "gloss": "routine / routine (adj.)" },
+    { "term": "adelantar", "gloss": "to move up, bring forward (a date)" }
+  ],
+  "vocab_recycled": [
+    { "from_day": 13, "items": ["la explicación", "la lista", "descartar", "el microondas", "la razón", "o sea", "entonces", "el avión", "el sensor", "el radar"] },
+    { "from_day": 11, "items": ["el puesto", "la camioneta", "gris", "preguntar por"] },
+    { "from_day": 7, "items": ["el ingeniero", "arreglar", "la herramienta", "instalar", "el termo", "la arepa", "tener razón", "chévere"] }
+  ],
+  "show_notes_extra": "True story: the Parkes 'perytons' (1998–2015) were traced by Emily Petroff's team to on-site microwave ovens opened before the timer finished. The 64 m Parkes dish also relayed the Apollo 11 moonwalk TV pictures in 1969."
+}

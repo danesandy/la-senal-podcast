@@ -1,0 +1,153 @@
+{
+  "episode": "013",
+  "day": 13,
+  "arc": 1,
+  "title": "Las explicaciones",
+  "description": "Camila and Andrés list every boring explanation for the signal — satellites, planes, radar, a broken sensor — and design a test for each one. Andrés insists on adding a microwave oven to the list, and promises the strangest true story in radio astronomy tomorrow.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal." },
+        { "voice": "narrator", "text": "Andrés le pidió un favor a su tía Chela. Un favor doble: encontrar a Beto y hacerle una pregunta. ¿Pasó un satélite por el cielo de Bogotá? La tía Chela mandó una nota de voz. Cuatro minutos y medio. Calor, vecinos, dominó, una boda. Y al final, la bomba." },
+        { "voice": "chela", "text": "Esta semana no pasó ningún satélite por ahí. Ninguno, chamo." },
+        { "voice": "narrator", "text": "La primera prueba. La señal no es un satélite. Camila cerró esa puerta en su cuaderno. Pero hay muchas puertas más. ¿Un avión? ¿Una máquina rota? ¿Otra cosa? Hoy toca abrir todas las puertas. Y cerrarlas, una por una. Papel y lápiz, queridos amigos. Hoy pensamos como científicos." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El día empezó en el puesto de doña Marta. Como todos los días buenos. Café, empanadas, y el chisme de la mañana. Camila comió rápido. Tenía planes grandes." },
+        { "voice": "camila", "text": "Hoy vamos a trabajar en serio, señores. Necesito papel grande. Y todas sus ideas." },
+        { "voice": "marta", "text": "¿Ideas sobre qué, doctora? ¿Sobre su ruido del cielo?" },
+        { "voice": "narrator", "text": "Camila casi bota el café. ¿Doña Marta sabía de la señal? Claro que sabía. Doña Marta sabe todo. Julio habla mucho cuando toma café. Fiado, además." },
+        { "voice": "marta", "text": "Tranquila, doctora. Yo no digo nada. Pero le doy una idea gratis. En mi barrio, un vecino tenía una radio vieja. Esa radio dañaba la televisión de todos. Todas las noches, a las ocho. ¿Su ruido? Busque la radio vieja de alguien." },
+        { "voice": "narrator", "text": "Andrés miró a doña Marta con respeto profundo. La señora acababa de dar una explicación técnica. Una explicación bastante buena, además." },
+        { "voice": "andres", "text": "Doña Marta, ¿usted quiere trabajo? El observatorio necesita gente como usted." },
+        { "voice": "marta", "text": "No, mijo. Yo ya tengo un observatorio. Y el mío da empanadas." },
+        { "voice": "narrator", "text": "Arriba, en el observatorio, Camila sacó el papel. Mucho papel. Una hoja gigante, blanca. La pegó en la pared. Escribió un título con letras grandes. El título decía: explicaciones." },
+        { "voice": "narrator", "text": "¿Una explicación? Una explicación dice por qué pasa algo. El niño llora. ¿Por qué? Tiene hambre. Esa es la explicación. Explicar... la explicación. La señal existe. ¿Por qué? Necesitan la explicación." },
+        { "voice": "camila", "text": "Muy bien. Hoy trabajamos como científicos serios. Vamos a hacer una lista. Todas las explicaciones posibles. Las aburridas primero." },
+        { "voice": "narrator", "text": "¿Una lista? Una lista es una serie de cosas escritas. Una cosa, después otra, después otra. La lista del mercado: huevos, pan, café. La lista de invitados. Hoy: la lista de explicaciones. Camila ama las listas. Es su forma de pensar." },
+        { "voice": "andres", "text": "Explicación número uno: un satélite. Ya está descartado, gracias a mi tía." },
+        { "voice": "narrator", "text": "¿Descartar? Atención a esta palabra. Es la palabra del día. Descartar es sacar algo de la lista. La explicación no funciona. No es posible. Chao. La sacas. Eso es descartar. El satélite está descartado. Beto lo comprobó." },
+        { "voice": "camila", "text": "Número dos: un avión. Los aviones pasan sobre el cerro todas las noches. Y mandan señales de radio." },
+        { "voice": "narrator", "text": "¿Un avión? La máquina que vuela. Con alas, con motor, con pasajeros. Bogotá tiene un aeropuerto grande. O sea, hay muchos aviones en su cielo." },
+        { "voice": "andres", "text": "Número tres: el radar. El aeropuerto tiene radar. Y también hay radar para el clima." },
+        { "voice": "narrator", "text": "¿Un radar? Un radar es una máquina que busca cosas. Manda una señal de radio. La señal toca un objeto. Y vuelve. Así el radar ve aviones, barcos, tormentas. El radar del aeropuerto trabaja día y noche." },
+        { "voice": "camila", "text": "Número cuatro: un sensor roto. Nuestro propio observatorio. Una máquina vieja que hace ruido." },
+        { "voice": "narrator", "text": "¿Un sensor? Un sensor es una parte pequeña de una máquina. El sensor siente cosas. Siente la luz, el calor, el movimiento. Tu teléfono tiene sensores. El observatorio tiene cientos. Y un sensor roto puede inventar señales falsas." },
+        { "voice": "narrator", "text": "Cuatro explicaciones en la lista. Camila miró la hoja, contenta. Entonces Andrés levantó la mano. Tenía cara de niño travieso." },
+        { "voice": "andres", "text": "Número cinco: un horno microondas." },
+        { "pause": 2.0 },
+        { "voice": "camila", "text": "¿Perdón?" }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "andres", "text": "Un microondas, doctora. Escríbalo. Número cinco: el microondas." },
+        { "voice": "camila", "text": "Andrés. Esto es un observatorio serio. No voy a escribir microondas en mi lista." },
+        { "voice": "narrator", "text": "¿Un microondas? Un microondas es una máquina pequeña para calentar comida. La comida entra fría. Esperas dos minutos. Ping. La comida sale caliente. Hay un microondas en casi cada casa. Pero, ¿qué tiene que ver con la señal?" },
+        { "voice": "andres", "text": "Doctora, el microondas calienta la comida con ondas de radio. O sea, es un pequeño transmisor. Con la puerta cerrada, no pasa nada. Pero con la puerta abierta..." },
+        { "voice": "camila", "text": "Nuestro observatorio no tiene microondas, Andrés. Yo como empanadas frías, como una salvaje." },
+        { "voice": "andres", "text": "Eso también es un problema, doctora. Pero es otro problema. Una arepa fría es una tragedia. Una empanada fría es... bueno, comida colombiana." },
+        { "voice": "camila", "text": "Cuidado, ingeniero. Usted todavía trabaja en mi observatorio." },
+        { "voice": "narrator", "text": "Técnicamente, Andrés ya no trabaja ahí. Su contrato terminó hace días. Pero nadie habla de eso. Hay problemas más grandes que un contrato." },
+        { "voice": "andres", "text": "Escríbalo igual. Créame. Mañana le cuento una historia real. La historia más rara de la radioastronomía. Pasó en Australia. Y tiene un microondas." },
+        { "voice": "camila", "text": "Cuéntemela ahora." },
+        { "voice": "andres", "text": "No. Es una historia para el desayuno. Las mejores historias son para el desayuno." },
+        { "voice": "narrator", "text": "Camila protestó. Pero escribió. Número cinco: microondas. Con letra pequeña, eso sí. Muy pequeña. Su lista científica ahora tenía un electrodoméstico. Entonces empezó el trabajo serio." },
+        { "voice": "narrator", "text": "¿Qué hace un científico con una lista? La examina. Explicación por explicación. Para cada una, prepara un examen. ¿La explicación pasa el examen? Se queda en la lista. ¿No lo pasa? Descartada. Así trabajan los científicos, todos los días. No es magia. Es una lista y mucho trabajo." }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Primero, el avión. Julio buscó los horarios de los vuelos. Todos los vuelos de esas noches. La señal llegó a las tres y cincuenta y dos. ¿Y a esa hora? Cero vuelos sobre el cerro. Además, hay otra razón. Los aviones se mueven rápido. Su señal aparece y desaparece en segundos. Nuestra señal se queda quieta. O sea, no es un avión." },
+        { "voice": "camila", "text": "Avión: descartado. Dos puertas cerradas. Quedan tres." },
+        { "voice": "narrator", "text": "¿Una razón? Una razón es un porqué. ¿Por qué descartamos el avión? Por dos razones. Razón uno: no hay vuelos a esa hora. Razón dos: la forma de la señal no es de avión. Dos razones buenas. Una explicación muerta." },
+        { "voice": "narrator", "text": "Después, el radar. Aquí Andrés tenía los datos. El radar del aeropuerto manda su señal todo el día. Nuestra señal llega solo de noche. El radar tiene una forma conocida, siempre igual. Nuestra señal tiene otra forma. Una forma rara. O sea, no es el radar. Casi seguro. Camila escribió: radar, casi descartado. Mañana, una comprobación final." },
+        { "voice": "andres", "text": "Y ahora, los sensores. Este trabajo es mío." },
+        { "voice": "narrator", "text": "Andrés pasó toda la tarde con sus herramientas. Revisó cada sensor del observatorio. Uno por uno. Sensor de temperatura: bien. Sensores de la antena: bien. Sensores del receptor: perfectos. Revisó todo dos veces. Porque así es Andrés." },
+        { "voice": "andres", "text": "Los sensores están sanos, doctora. Además, hay una razón más fuerte. Un sensor roto hace ruido loco, sin orden. Nuestra señal tiene ritmo. Tiene un patrón exacto. Los sensores rotos no saben contar." },
+        { "voice": "camila", "text": "Entonces... sensor: descartado. Tres puertas cerradas en un día." },
+        { "voice": "narrator", "text": "Camila miró la lista. Satélite: descartado. Avión: descartado. Sensor: descartado. Radar: casi. Y abajo, con letra pequeña, el microondas de Andrés. La lista se hacía corta. Y eso daba un poco de miedo." },
+        { "voice": "narrator", "text": "Por cierto: la idea de doña Marta también entró a la lista. La radio vieja de un vecino. Explicación número seis. Andrés la examinó esa misma tarde. Una radio vieja hace ruido sucio, en muchas frecuencias. Nuestra señal es limpia, en una sola. Descartada. Pero con honor. Doña Marta va a estar orgullosa." },
+        { "voice": "narrator", "text": "Esa noche esperaron la señal otra vez. Con la lista en la pared, como un mapa. A las tres y cincuenta y dos... ahí estaba. Puntual, limpia, con su ritmo de siempre. Camila la miró de otra forma. Ya no era un ruido raro cualquiera. Era una cosa con la lista casi vacía." },
+        { "voice": "julio", "text": "¿Y si descartamos todo? ¿Si todas las explicaciones mueren? ¿Entonces qué?" },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "Nadie quiso decirlo. Si todas las explicaciones aburridas mueren... queda la otra. La explicación que nadie dice en voz alta." }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real. Hoy: el arte de descartar." },
+        { "voice": "narrator", "text": "Piensa en un médico. Llega un paciente con dolor de cabeza. ¿Qué hace el médico? Una lista mental. ¿Durmió mal? ¿Tomó poca agua? ¿Necesita lentes? El médico examina y descarta. Agua: suficiente. Descartado. Sueño: bien. Descartado. Al final queda una explicación. Y esa es la buena." },
+        { "voice": "narrator", "text": "Piensa en un mecánico. El carro no arranca. ¿La batería? La prueba. Funciona. Descartada. ¿La gasolina? Hay medio tanque. Descartada. El mecánico no adivina. El mecánico descarta. Es lo mismo que hace un médico. Y lo mismo que hace Camila." },
+        { "voice": "narrator", "text": "Piensa en ti mismo. Pierdes las llaves de tu casa. ¿Qué haces? Una lista mental, sin pensar. ¿Están en la chaqueta? No. Descartada. ¿En la mesa? No. Descartada. ¿En la puerta? ¡Sí! Todos usamos este método. Todos los días. Los científicos solo lo hacen con más orden. Y con más papel." },
+        { "voice": "narrator", "text": "Este método tiene siglos. Los detectives de las novelas lo usan. Primero descartas lo imposible. Después descartas lo improbable. Al final queda una sola explicación. Y esa explicación, por rara que parece, es la buena." },
+        { "voice": "narrator", "text": "Hay un detalle importante. Un buen científico ama las explicaciones aburridas. ¿Por qué? Porque casi siempre ganan. ¿Un ruido en el cielo? Casi siempre es un satélite. ¿Una luz rara? Casi siempre es un avión. Lo aburrido gana el noventa y nueve por ciento de las veces. Por eso Camila empezó por lo aburrido. Esa es la disciplina." },
+        { "voice": "narrator", "text": "Pero existe el otro uno por ciento. El caso donde lo aburrido muere. Donde la lista se queda vacía. Esos casos son los que cambian la historia. Y de eso... hablamos mañana. Australia. Un observatorio gigante. Diecisiete años de señales raras. Y un final ridículo. No te lo pierdas." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repasamos. Hoy, Camila hizo una lista. Una serie de cosas escritas, en orden. ¿Una lista de qué? De explicaciones. Una explicación dice por qué pasa algo. La señal existe. ¿Por qué? Seis explicaciones posibles. Satélite, avión, radar, sensor, la radio vieja de doña Marta... y el microondas de Andrés." },
+        { "voice": "narrator", "text": "Y aprendimos la palabra del día: descartar. Descartar es sacar una explicación de la lista. ¿El satélite? Descartado, gracias a Beto. ¿El avión? Descartado, por dos razones. No hay vuelos a esa hora. Y la forma no es de avión. ¿El sensor roto? Descartado. Andrés revisó todo con sus herramientas. ¿El radar? Casi descartado. O sea, falta una comprobación." },
+        { "voice": "narrator", "text": "¿Y la razón? Una razón es un porqué. Los científicos no descartan por gusto. Descartan con razones. Con datos. Con pruebas. Entonces la lista se hace corta. Y cuando la lista se hace corta... el corazón late más rápido." },
+        { "voice": "narrator", "text": "Hasta doña Marta jugó hoy. Su explicación: la radio vieja de un vecino. Entró a la lista con el número seis. Y salió la misma tarde, descartada con honor. No importa. En este juego, dar una explicación ya es ganar. Descartarla con una buena razón también es ganar." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Dos palabras pequeñas para terminar. Entonces: conecta lo que pasa después. Llovió. Entonces, el partido terminó. Y o sea: dice lo mismo con otras palabras. Es mi vecino, o sea, vive al lado. Vas a escuchar estas palabras todos los días. Son pequeñas. Son oro." },
+        { "voice": "narrator", "text": "Una última pregunta para ti. En la lista quedan dos cosas. El radar, casi descartado. Y el microondas de Andrés. ¿Tú qué crees? ¿El microondas es una broma? ¿O es una explicación seria? Piénsalo esta noche." },
+        { "voice": "narrator", "text": "Porque mañana llega el desayuno prometido. Australia, un observatorio famoso, y diecisiete años de un problema absurdo. La historia favorita de Andrés. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "la explicación", "gloss": "explanation" },
+    { "term": "la lista", "gloss": "list" },
+    { "term": "el avión", "gloss": "airplane" },
+    { "term": "el radar", "gloss": "radar" },
+    { "term": "el sensor", "gloss": "sensor" },
+    { "term": "el microondas", "gloss": "microwave oven" },
+    { "term": "descartar", "gloss": "to rule out, discard" },
+    { "term": "la razón", "gloss": "reason (standalone noun; 'tener razón' known from day 7)" },
+    { "term": "o sea", "gloss": "in other words / that is (connector, circled)" },
+    { "term": "entonces", "gloss": "so, then (connector, circled)" }
+  ],
+  "vocab_recycled": [
+    { "from_day": 12, "items": ["el satélite", "la prueba", "pasar por", "mandar", "la nota de voz", "chamo", "el favor (via recap)"] },
+    { "from_day": 10, "items": ["quedarse (se queda quieta)", "el desayuno", "roto/rota (sensor roto)", "el contrato"] },
+    { "from_day": 6, "items": ["funcionar", "dañar (la radio dañaba la televisión)", "la tormenta (el radar ve tormentas)"] }
+  ],
+  "show_notes_extra": "Tomorrow's teased story — the Parkes 'perytons' — is 100% true."
+}

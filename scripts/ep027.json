@@ -39,7 +39,17 @@
         { "voice": "narrator", "text": "Nubes. Una nube es blanca o gris, y vive en el cielo. Las nubes traen lluvia. Las nubes negras traen tormenta. Y estas nubes se acercan. Acercarse: venir más cerca, y más cerca, y más cerca. Las nubes se acercan a la antena de don Ramiro. Claro que sí. Justo esta noche. Claro." },
         { "voice": "julio", "text": "¿Y si hay tormenta? ¿Perdemos la señal?" },
         { "voice": "andres", "text": "La lluvia no es problema. La señal de radio pasa por las nubes. Pero un rayo… un rayo mata la electricidad. Y sin electricidad, no grabamos nada." },
-        { "voice": "narrator", "text": "Todos miran el mapa del clima. Las nubes se acercan despacio. Quizás llegan antes de las tres y cincuenta y dos. Quizás no. Nadie puede hacer nada. Solo esperar." }
+        { "voice": "julio", "text": "¿Y el generador? ¿Funciona?" },
+        { "voice": "andres", "text": "Funciona. Lo comprobé dos veces. Y tengo un plan B: baterías. Doce baterías de camión, cargadas y listas." },
+        { "voice": "julio", "text": "¿Doce baterías? ¿De dónde salieron doce baterías?" },
+        { "voice": "elflaco", "text": "Mejor no preguntar, hermano. Logística. Cosas de primos." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Todos miran el mapa del clima. Las nubes se acercan despacio. Quizás llegan antes de las tres y cincuenta y dos. Quizás no. Nadie puede hacer nada. Solo esperar. La tensión crece con las horas. ¿La tensión? Ese aire duro antes de las cosas grandes." },
+        { "voice": "narrator", "text": "A las siete, doña Marta sube con comida. Nadie la pidió. Ella sube igual." },
+        { "voice": "marta", "text": "Coman. La cabeza no funciona con el estómago vacío. Y ustedes mañana necesitan la cabeza." },
+        { "voice": "andres", "text": "Doña Marta, ¿usted no está nerviosa?" },
+        { "voice": "marta", "text": "Mi amor, yo abro mi puesto con lluvia, con frío y con presidentes nuevos. La paciencia se aprende atendiendo clientes." },
+        { "voice": "narrator", "text": "Todos comen. Y por un momento, la víspera pesa menos." }
       ]
     },
     {
@@ -52,6 +62,7 @@
         { "voice": "narrator", "text": "La noche llega. Faltan horas. Y cada persona espera a su manera. Vamos a visitarlos, uno por uno. En silencio. Como amigos." },
         { "pause": 2.0 },
         { "voice": "narrator", "text": "Camila está en su apartamento de Chapinero. No mira la pantalla. No mira los datos. Mira un libro viejo y grande. Es un atlas. ¿Un atlas? Un atlas es un libro de mapas. Este atlas es especial: es un atlas del cielo. Mapas de estrellas, página por página. El atlas era de su padre." },
+        { "voice": "narrator", "text": "Camila recuerda las noches de niña. El padre abría el atlas en la mesa. Señalaba una estrella con el dedo. Decía su nombre, despacio. Camila repetía el nombre. Así aprendió el cielo: como una canción." },
         { "voice": "camila", "text": "Papá, tú me enseñaste los nombres. Esta estrella, y esta, y esta. Tú decías: el cielo es un país, y el atlas es su mapa." },
         { "voice": "narrator", "text": "El padre de Camila murió hace años. Pero el atlas está aquí. Camila pasa las páginas despacio. Busca la posición de mañana. La posición exacta de la señal. Pone un dedo en el mapa. En ese punto del atlas no hay nada. Ninguna estrella con nombre. Solo un espacio negro y viejo." },
         { "voice": "camila", "text": "¿Quién eres? Mañana te escucho. Otra vez." },
@@ -59,7 +70,8 @@
         { "voice": "narrator", "text": "En Medellín no, perdón: en Bogotá, en su cuarto pequeño, Andrés graba una nota de voz. Es para Tía Chela, en Maracaibo. Habla bajito, con el termo en la mano." },
         { "voice": "andres", "text": "Tía. ¿Cómo está la cosa por allá? Por aquí todo bien. Mañana tenemos… un trabajo grande. Un trabajo importante. No te puedo contar mucho. Pero quiero decirte algo, tía. Papá tenía razón. Con la antena del techo, ¿recuerdas? Papá siempre tenía razón. Bueno. Eso. Cuídate, pues. Te quiero." },
         { "pause": 2.0 },
-        { "voice": "narrator", "text": "La nota no dice nada importante. Y dice todo. Andrés la manda y mira el teléfono. Maracaibo duerme. Esta noche, Chela no contesta. Andrés se queda con el termo, mirando la ventana. En Caracas, hace años, había una antena en un techo. Esta noche hay dieciséis. Valió la pena. Todo valió la pena." }
+        { "voice": "narrator", "text": "La nota no dice nada importante. Y dice todo. Andrés la manda y mira el teléfono. Maracaibo duerme. Esta noche, Chela no contesta. Andrés se queda con el termo, mirando la ventana. En Caracas, hace años, había una antena en un techo. Esta noche hay dieciséis. Valió la pena. Todo valió la pena." },
+        { "voice": "narrator", "text": "Antes de dormir, Andrés comprueba una cosa más. No es una antena. Es una foto vieja. Su equipo de Caracas. Su laboratorio, sus colegas, otra vida. Andrés mira la foto un minuto entero. Mañana, piensa, empiezo a volver." }
       ]
     },
     {
@@ -76,11 +88,16 @@
         { "voice": "elflaco", "text": "Por si toca salir rápido. Mañana puede pasar cualquier cosa. Y un taxi limpio corre más. Eso es ciencia, doctora. Ciencia de taxista." },
         { "pause": 1.5 },
         { "voice": "narrator", "text": "Por si acaso. Qué expresión tan útil. Por si acaso: porque quizás pasa algo. Llevas un paraguas por si acaso. Guardas dinero por si acaso. El Flaco pule su taxi por si acaso. Nadie discute con la ciencia de taxista." },
+        { "voice": "elflaco", "text": "Además, doctora, tengo una teoría nueva. Mañana la cosa no viene del cielo. Viene de más cerca. Se lo digo yo." },
+        { "voice": "camila", "text": "¿Y esa teoría de dónde sale, Flaco?" },
+        { "voice": "elflaco", "text": "Del taxi, doctora. En el taxi se piensa mucho. Pulir ayuda." },
+        { "voice": "narrator", "text": "Camila se ríe. Más tarde, en la cama, no se ríe. Las teorías absurdas de El Flaco tienen una costumbre fea: casi siempre son casi verdad." },
         { "pause": 2.0 },
         { "voice": "narrator", "text": "Y en su casa, en la cocina, está Julio. Julio no pule nada. Julio no mira mapas. Julio reza. ¿Rezar? Rezar es hablar con Dios. En voz baja, con las manos juntas. Las palabras de rezar se llaman una oración. Julio no va a la iglesia desde hace años. Julio cree a medias. Pero esta noche, la mitad que cree… reza." },
         { "voice": "julio", "text": "Señor… yo no sé si esto viene de ti. No sé de dónde viene. Solo te pido una cosa: cuida a mis amigos. Y si puedes… manda la tormenta para otro lado." },
         { "pause": 2.5 },
         { "voice": "narrator", "text": "Una oración corta. Una oración honesta. Quizás la mejor clase de oración." },
+        { "voice": "narrator", "text": "Después, Julio comprueba su caja. El equipo prestado está limpio, completo, listo. El lunes lo devuelve. Un problema por día, piensa Julio. Hoy: rezar. Mañana: la señal." },
         { "voice": "narrator", "text": "El atlas de Camila. La nota de Andrés. El taxi de El Flaco. La oración de Julio. Cada persona tiene su ritual. ¿Un ritual? Un ritual es algo que repetimos, siempre igual, en momentos importantes. Un ritual calma los nervios. Un ritual da compañía. Esta noche, cuatro rituales miran el mismo cielo." },
         { "pause": 2.0 },
         { "voice": "narrator", "text": "Y sobre los llanos, lejos, las nubes negras siguen acercándose. Un rayo baja, en silencio, muy lejos. Don Ramiro lo mira desde su puerta. Su perro no ladra. Todavía." }
@@ -95,8 +112,10 @@
       "turns": [
         { "voice": "narrator", "text": "Mundo real. Hoy: la víspera. ¿Por qué esperar es tan difícil? Los seres humanos podemos correr, trabajar, pelear. Pero esperar… esperar nos vuelve locos. En la víspera no hay nada que hacer. Y ese nada pesa mucho." },
         { "voice": "narrator", "text": "Piensen en un futbolista, la víspera de una final. Ya entrenó todo el año. Esta noche no puede hacer nada más. Entonces usa rituales. Muchos futbolistas usan siempre las mismas medias. O entran a la cancha con el pie derecho primero. O comen el mismo desayuno exacto. ¿Funciona? La ciencia dice: las medias no hacen goles. Pero el ritual sí ayuda. El ritual calma. El ritual da control. Un poco de control, en una noche sin control." },
-        { "voice": "narrator", "text": "Piensen en un estudiante, la víspera de un examen grande. Los profesores dicen: no estudies esta noche. Duerme. Y el estudiante no duerme, claro. Mira el techo. Repasa todo en la cabeza. La víspera de un examen es más difícil que el examen." },
-        { "voice": "narrator", "text": "¿Y qué ayuda de verdad? La paciencia. ¿Qué es la paciencia? La paciencia es saber esperar sin volverse loco. Es aceptar el tiempo. La paciencia no es no hacer nada. Es hacer las cosas pequeñas: pulir un taxi, mirar un atlas, rezar una oración. La paciencia es un músculo. Y esta noche, nuestros amigos entrenan ese músculo. Toda la noche." }
+        { "voice": "narrator", "text": "Piensen en un estudiante, la víspera de un examen grande. Los profesores dicen: esta noche no hay que estudiar. Hay que dormir. Y el estudiante no duerme, claro. Mira el techo. Repasa todo en la cabeza. La víspera de un examen es más difícil que el examen." },
+        { "voice": "narrator", "text": "Piensen en una boda. La víspera de una boda, nadie duerme bien. La ropa está lista. La comida está lista. Todo está listo menos el corazón. Y piensen en la noche antes de un viaje grande. La maleta cerrada, al lado de la puerta. Los ojos abiertos en la cama. Y el reloj que camina despacio, a propósito." },
+        { "voice": "narrator", "text": "¿Y qué ayuda de verdad? La paciencia. ¿Qué es la paciencia? La paciencia es saber esperar sin volverse loco. Es aceptar el tiempo. La paciencia no es no hacer nada. Es hacer las cosas pequeñas: pulir un taxi, mirar un atlas, rezar una oración. La paciencia es un músculo. Y esta noche, nuestros amigos entrenan ese músculo. Toda la noche." },
+        { "voice": "narrator", "text": "Y hay un truco más, muy humano: esperar juntos. La espera compartida pesa menos. Por eso los amigos llegan la víspera. Por eso doña Marta subió con comida. Nadie debe esperar solo las cosas grandes. Mañana, cuando escuches la historia, recuerda esto: la espera también es parte del viaje. La víspera también cuenta." }
       ]
     },
     {
@@ -109,8 +128,10 @@
         { "voice": "narrator", "text": "Repaso. Un repaso tranquilo, para una noche nerviosa." },
         { "voice": "narrator", "text": "Hoy fue la víspera: el día antes del gran día. En la víspera, todos comprobaron todo. Comprobar: revisar dos veces, para estar seguro. Comprobaron los cables, el generador, las dieciséis antenas de la red. Los resultados: todo funciona." },
         { "voice": "narrator", "text": "Pero las nubes se acercan a los llanos. Acercarse: venir más cerca. Nubes negras, de tormenta. Como la tormenta del día seis. Esa tormenta dañó la antena grande. Nadie quiere recordar eso. Todos lo recuerdan." },
+        { "voice": "narrator", "text": "¿Y la tensión? Creció toda la tarde. Pero la comida de doña Marta ayudó. La comida caliente siempre ayuda." },
         { "voice": "narrator", "text": "Cada persona tuvo su ritual. Camila miró el atlas de su padre: un libro de mapas del cielo. Andrés mandó una nota de voz a Chela. Habló del techo de Caracas, del equipo, de su padre. El Flaco pulió su taxi: lo limpió hasta brillar. ¿Por qué? Por si acaso. Por si toca salir rápido. Y Julio rezó una oración corta y honesta." },
         { "voice": "narrator", "text": "Un ritual: algo que repetimos en momentos importantes. Los rituales calman. Y la paciencia, ese músculo, es saber esperar sin volverse loco." },
+        { "voice": "narrator", "text": "Pequeña prueba de víspera. ¿Qué es pulir? Limpiar hasta brillar. ¿Qué es un atlas? Un libro de mapas. ¿Qué es rezar? Hablar con Dios, con una oración. ¿Qué significa por si acaso? Porque quizás pasa algo. ¿Y qué se acerca a los llanos? Las nubes. Muy bien. Lo tienen todo." },
         { "voice": "narrator", "text": "Mañana no hay víspera. Mañana es el día. A las tres y cincuenta y dos de la madrugada, el país entero escucha. Dieciséis techos. Una antena grande. Un perro. Y nosotros. Hasta mañana. No falten." }
       ]
     }

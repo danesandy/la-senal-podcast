@@ -44,7 +44,7 @@
         { "voice": "julio", "text": "La próxima semana pago todo, doña Marta. Lo prometo." },
         { "voice": "marta", "text": "Eso dijo usted la semana pasada, mijo." },
         { "voice": "narrator", "text": "En ese momento llegó un taxi viejo. Un taxi conocido. Del taxi bajó El Flaco, con su radio pequeña. El Flaco también es cliente del puesto. Un cliente con mucha hambre. Y con muchas palabras." },
-        { "voice": "elflaco", "text": "¡Doña Marta, mi reina! Dos empanadas. Fiadas, por favor. La economía está difícil." },
+        { "voice": "elflaco", "text": "¡Doña Marta, mi reina! Dos empanadas. Fiadas, por favor. Los tiempos están difíciles." },
         { "voice": "marta", "text": "Para usted no fío, Flaco. Usted debe doce empanadas. Doce." },
         { "voice": "elflaco", "text": "¿Doce? Imposible. Yo conté diez." },
         { "voice": "narrator", "text": "Doña Marta abrió su cuaderno de fiados. Buscó la página de El Flaco. La página estaba llena. Llena por los dos lados." },
@@ -163,7 +163,7 @@
   ],
   "vocab_recycled": [
     { "from_day": 10, "items": ["la apuesta", "la órbita", "roto/rota", "el contrato", "quedarse", "el desayuno / desayunar"] },
-    { "from_day": 8, "items": ["subir", "explicar (via 'programa' recaps)", "el termo (d7 carried through d8 scenes)"] },
+    { "from_day": 8, "items": ["subir (sube al observatorio, sube el cerro)", "bajar (baja al barrio, bajó la voz)"] },
     { "from_day": 4, "items": ["exacto/exacta", "la casualidad", "dos veces", "la misma hora", "mismo/misma"] }
   ],
   "show_notes_extra": "The 'hoy no fío, mañana sí' sign is a real fixture of Colombian corner stores."

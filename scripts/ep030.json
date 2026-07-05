@@ -1,0 +1,167 @@
+{
+  "episode": "030",
+  "day": 30,
+  "arc": 1,
+  "title": "Prueba y promesa",
+  "description": "Day 30 is test day: El Flaco quizzes his 'audience' with five passages retelling the month's story, each faster than the last, fifteen questions in all. Score yourself with the sheet in the show notes — your result shapes Month 2.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "introduccion",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Hoy no hay episodio normal. Hoy El Flaco tiene una idea. Y cuando El Flaco tiene una idea… mejor escuchar." },
+        { "voice": "elflaco", "text": "Mi gente, bienvenidos a La Verdad Oculta, edición especial. Un mes de historia, mi gente. Un mes. Y yo digo: mi audiencia es inteligente. Mi audiencia escuchó todo. Hoy lo vamos a comprobar. Hoy hay prueba." },
+        { "voice": "narrator", "text": "Una prueba. Tranquilo. Es fácil de entender. Vas a escuchar cinco historias. Las cinco cuentan nuestro mes. Cada historia es más rápida que la anterior. Después de cada historia, El Flaco hace tres preguntas. Después de cada pregunta, hay cinco segundos de silencio. Contesta en voz alta, o en tu cabeza. Después damos la respuesta correcta. Un punto por respuesta correcta. Son quince puntos en total. Anota tu resultado. Y una regla importante: nada de pausa, y nada de volver atrás. La vida real no tiene botón de pausa." },
+        { "voice": "narrator", "text": "Una cosa más. Esta prueba no es un examen del colegio. Nadie gana. Nadie pierde. La prueba es un espejo: muestra dónde estás hoy. Y muestra el camino del próximo mes. Respira. Confía en tu oído. Tu oído trabajó un mes entero. Sabe más que tú." },
+        { "voice": "elflaco", "text": "Yo quería leer todo, doctora del cielo, pero bueno: el narrador habla más claro. Las primeras historias las lee él. La última la leo yo. A mi manera. Prepárense." },
+        { "voice": "narrator", "text": "Historia número uno. Empezamos despacio. Como empezó todo. Escucha con calma, contesta, y cuenta tus puntos. Buena suerte." }
+      ]
+    },
+    {
+      "name": "pasaje-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Camila Rey es astrónoma. Trabaja de noche, en un observatorio pequeño. El observatorio está en un cerro, cerca de Bogotá. Una noche, a las tres y cuarenta y siete, las computadoras grabaron un ruido. Un ruido raro, con forma. Su colega Julio dijo: es interferencia. Pero el ruido volvió otra noche. La misma hora. La misma forma. Dos veces no es casualidad: es un patrón. El jefe de Camila, el director Sarmiento, no quería problemas. Necesitamos fondos, dijo, no fantasmas. Después una tormenta dañó la antena grande. Un rayo mató la electricidad. Y llegó un ingeniero venezolano: Andrés Materán. Llegó con herramientas y un termo de café. Arregló el generador en una hora. Miró la antena y dijo: esto está mal instalado desde el principio. Camila miraba al ingeniero con impaciencia. El ingeniero miraba la antena con amor. Ahí empezó todo." },
+        { "pause": 2.0 },
+        { "voice": "elflaco", "text": "Pregunta uno. ¿A qué hora grabaron el ruido las computadoras?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "A las tres y cuarenta y siete de la madrugada." },
+        { "voice": "elflaco", "text": "Pregunta dos. ¿Qué pasó con la antena grande?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Una tormenta la dañó. Un rayo mató la electricidad." },
+        { "voice": "elflaco", "text": "Pregunta tres. ¿Quién llegó a arreglar todo, y de dónde era?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Andrés Materán, un ingeniero venezolano. Llegó con herramientas y un termo de café." }
+      ]
+    },
+    {
+      "name": "pasaje-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Historia número dos. Mismo ritmo tranquilo. Ahora viene la semana de la apuesta. Y la primera camioneta gris." },
+        { "pause": 1.0 },
+        { "voice": "narrator", "text": "Andrés hizo la pregunta importante: ¿a qué hora exacta llega tu ruido? Esperaron juntos, de madrugada. A las tres cuarenta y siete… nada. A las tres cincuenta y dos, la señal llegó. Tarde y más fuerte. Andrés se puso pálido y dijo: eso no es interferencia, eso tiene ritmo. Camila y Andrés hicieron una apuesta. Si él tiene razón, ella prueba una arepa venezolana. Si ella tiene razón, él come ajiaco sin quejarse. Después, doña Marta contó un chisme feo: unos hombres, en una camioneta gris, preguntaron por la doctora. Y Tía Chela mandó una nota de voz desde Maracaibo. Al final de la nota, la prueba importante: esa semana, ningún satélite pasó por ahí. Camila y Andrés descartaron explicaciones: aviones, radares, sensores rotos. Y Andrés contó la historia del misterio de Australia: diecisiete años de señales raras… que eran el microondas de la cocina. La lista de explicaciones se quedó vacía. Solo quedó el misterio. Y el misterio tenía ritmo." },
+        { "pause": 2.0 },
+        { "voice": "elflaco", "text": "Pregunta uno. ¿Qué dijo el amigo de Maracaibo sobre los satélites?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Que esa semana ningún satélite pasó por ahí. Esa fue la primera prueba." },
+        { "voice": "elflaco", "text": "Pregunta dos. ¿Cuál es la apuesta entre Camila y Andrés?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Si Andrés tiene razón, Camila prueba una arepa venezolana. Si Camila tiene razón, Andrés come ajiaco sin quejarse." },
+        { "voice": "elflaco", "text": "Pregunta tres. En Australia, ¿qué era el misterio de las señales raras?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Era el microondas de la cocina. Diecisiete años de misterio… y era el horno." }
+      ]
+    },
+    {
+      "name": "pasaje-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Historia número tres. Todavía tranquila. La última tranquila. Aquí la cosa se pone seria." },
+        { "pause": 1.0 },
+        { "voice": "narrator", "text": "El ministerio pidió el informe. Sarmiento quería una mentira suave: interferencia no identificada. Camila escribió la verdad: señal repetitiva de origen desconocido. Y la firmó. Días después, dos funcionarios visitaron el observatorio. Fotografiaron todo. Preguntaron por el ingeniero extranjero. Andrés se hizo el tonto, y lo hizo muy bien. Mientras tanto, El Flaco contó una teoría absurda en su programa… y casi correcta. Camila lo hizo jurar silencio. Él negoció una entrevista para el futuro. Ese fue el trato. Después, Andrés encontró un eco en la señal. Para localizar el eco, llamaron a los radioaficionados: jubilados, una monja, y don Ramiro en los llanos. Tres antenas grabaron la señal la misma noche. Andrés hizo el cálculo en servilletas. El resultado dio miedo: la fuente está cerca. Demasiado cerca. Más cerca que la luna. Esa noche nadie durmió en el observatorio. Una palabra flotaba en el cuarto: cerca. Y la palabra no se iba." },
+        { "pause": 2.0 },
+        { "voice": "elflaco", "text": "Pregunta uno. ¿Qué escribió Camila en el informe?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "La verdad: señal repetitiva de origen desconocido. Y la firmó." },
+        { "voice": "elflaco", "text": "Pregunta dos. ¿Quiénes ayudaron a grabar la señal desde tres lugares?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Los radioaficionados: jubilados, una monja, y don Ramiro en los llanos." },
+        { "voice": "elflaco", "text": "Pregunta tres. ¿Qué dijo el cálculo de las servilletas?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Que la fuente está demasiado cerca. Más cerca que la luna." }
+      ]
+    },
+    {
+      "name": "pasaje-4",
+      "lang": "es",
+      "atempo": 0.96,
+      "inter_sentence_pause_s": 0.9,
+      "inter_turn_pause_s": 1.2,
+      "turns": [
+        { "voice": "narrator", "text": "Historia número cuatro. Ahora más rápido, con menos pausas. Así vamos a hablar el próximo mes. Escucha con calma." },
+        { "pause": 1.0 },
+        { "voice": "narrator", "text": "Las cosas se pusieron serias. Alguien de adentro mandó una copia de los datos al ministerio, y nadie sabe quién es el espía. Unos señores de Bogotá llamaron a la empresa de Andrés: preguntaron si el venezolano era de confianza. Su permiso de trabajo estaba en peligro. Andrés podía irse a Medellín y proteger sus papeles. Pero recordó su laboratorio de Caracas, la antena de su padre en el techo, y decidió quedarse. Valió la pena, dijo. Con la idea de Camila, muchas orejas pequeñas, diseñó una antena barata para cualquier techo. Construyeron el prototipo encima del puesto de doña Marta. El alquiler: dos ajiacos por semana. La red multiplicó el diseño: dieciséis techos en todo el país. Julio volvió con vergüenza y con equipo prestado, para comprobar el prototipo. Y en la víspera de la gran noche, cada uno tuvo su ritual: Camila y el atlas de su padre, Andrés y una nota de voz para Chela, Julio y una oración, y El Flaco puliendo su taxi. ¿Por qué? Por si acaso. La víspera terminó con nubes negras sobre los llanos. Claro que sí. Justo esa noche." },
+        { "pause": 2.0 },
+        { "voice": "elflaco", "text": "Pregunta uno. ¿Por qué estaba en peligro el permiso de Andrés?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Unos señores llamaron a su empresa y preguntaron por él. Con una llamada así, un permiso de trabajo se pone en peligro. Aun así, Andrés decidió quedarse." },
+        { "voice": "elflaco", "text": "Pregunta dos. ¿Dónde construyeron el prototipo, y cuál es el alquiler?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "En el techo del puesto de doña Marta. El alquiler es de dos ajiacos por semana." },
+        { "voice": "elflaco", "text": "Pregunta tres. En la víspera, ¿por qué pulió El Flaco su taxi?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Por si acaso. Por si toca salir rápido. Ciencia de taxista." }
+      ]
+    },
+    {
+      "name": "pasaje-5",
+      "lang": "es",
+      "atempo": 1.0,
+      "inter_sentence_pause_s": 0.4,
+      "inter_turn_pause_s": 0.6,
+      "turns": [
+        { "voice": "narrator", "text": "Historia número cinco. La última. Velocidad de radio de verdad, con la voz de El Flaco. No te preocupes si entiendes poco: aquí es adonde vamos a llegar juntos. Escucha." },
+        { "pause": 1.0 },
+        { "voice": "elflaco", "text": "Bueno mi gente, la noche de las noches, se la cuento como fue. Tres de la mañana, el observatorio lleno de café y de nervios, dieciséis antenas despiertas en dieciséis techos, don Ramiro en los llanos con su perro y una tormenta encima. Tres cincuenta y dos en punto y… nada, mi gente, nada, un silencio que pesaba una tonelada. Cuarenta segundos eternos. El perro se levanta, mira la tierra, y a las tres cincuenta y dos con cuarenta y siete segundos, ¡pum!, la señal, la más fuerte de todas, en todas las antenas del país al mismo tiempo. Piel de gallina general. Y cuando todos respiraban otra vez, la radio: don Ramiro gritando que aquí abajo algo contestó. Tres segundos después de la señal, una respuesta desde debajo de la tierra, algo enterrado en los llanos, hermano. La doctora lo susurró bajito: no está arriba, también está aquí. Al otro día votamos: ¿contarle al mundo, al ministerio, o ir allá? Y en esas, cuatro tipos de camisa blanca se bajaron de la camioneta gris, y el jefe llamó con tres palabritas: Camila, mi oficina, ya. Así estamos, mi gente. Así estamos. Guarden esta grabación. Un día va a valer oro. Palabra de Flaco." },
+        { "pause": 2.0 },
+        { "voice": "elflaco", "text": "Pregunta uno. ¿A qué hora exacta llegó la señal esa noche?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "A las tres cincuenta y dos, con cuarenta y siete segundos." },
+        { "voice": "elflaco", "text": "Pregunta dos. ¿Qué pasó tres segundos después de la señal?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Llegó una respuesta desde debajo de la tierra. Algo enterrado en los llanos contestó." },
+        { "voice": "elflaco", "text": "Pregunta tres. ¿Qué dijo Sarmiento por teléfono?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Tres palabras: Camila. Mi oficina. Ya." }
+      ]
+    },
+    {
+      "name": "resultados-y-promesa",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Fin de la prueba. Cuenta tus puntos. Son quince en total. ¿Tienes doce o más? Excelente. Estás listo para el próximo mes. Va a ser más rápido, y tú también. ¿Tienes entre siete y once? Perfecto. Este programa está hecho exactamente para ti. Sigue así. ¿Tienes seis o menos? Tranquilo. No es un problema: es información. Escucha otra vez los episodios de esta semana, uno por día. En los detalles del episodio hay una guía completa. Guarda tu resultado: lo vamos a usar." },
+        { "voice": "narrator", "text": "¿Y en qué historia te perdiste? Eso también es información. ¿Historias uno, dos o tres? Escucha los repasos de la semana otra vez. ¿La historia cuatro? Normal: esa es la velocidad del próximo mes. Vas a crecer con ella. ¿La historia cinco? Esa era difícil a propósito. Es la radio del futuro. Un día vas a entender cada palabra de El Flaco. Es una promesa." },
+        { "voice": "narrator", "text": "Y una cosa más sobre el próximo mes. Los episodios van a ser más largos: treinta minutos. Las frases, más largas. Las pausas, más cortas. Como la historia número cuatro de hoy. No te preocupes: la historia te lleva. La historia siempre te lleva." },
+        { "voice": "elflaco", "text": "¿Vieron? Mi audiencia es inteligente. Yo lo dije primero. Quince preguntas y ustedes ahí, firmes, contestando. Ni un funcionario del ministerio contesta tan bien. Y ahora, mi gente, la promesa. La historia no para. La historia apenas empieza. Y el día de la verdad, ustedes lo van a escuchar aquí primero. Palabra de Flaco." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Una prueba y una promesa. La prueba ya pasó. La promesa queda. Y ahora, la historia. ¿Recuerdan dónde está Camila?" },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Camila está en el ministerio de la ciencia. Bueno, en el edificio del observatorio, arriba. Frente a una puerta de madera vieja. La puerta dice: director Óscar Sarmiento. Camila respira. Piensa en la señal. Piensa en la respuesta enterrada. Piensa en los cuatro hombres. Levanta la mano para tocar la puerta…" },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "Y la puerta se abre sola. Desde adentro, la voz de Sarmiento dice: pasa, Camila. Cierra la puerta. Tenemos poco tiempo." },
+        { "pause": 3.0 },
+        { "voice": "narrator", "text": "La voz de Sarmiento suena rara. No suena enojada. Suena… asustada. Camila entra. La puerta se cierra." },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "¿Qué hay detrás de esa puerta? Mañana lo sabemos. Mañana empieza el mes dos. Gracias por este mes: el primero de muchos. Nos vemos mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [],
+  "vocab_recycled": [
+    { "term": "la opción / votar / el mundo / contarle a / ya / bajarse", "from_day": 29 },
+    { "term": "la víspera / el atlas / la oración / pulir / por si acaso / el ritual", "from_day": 27 },
+    { "term": "la respuesta / enterrado / debajo de / susurrar / la piel de gallina / el segundo", "from_day": 28 },
+    { "term": "el permiso / la confianza / los papeles / el peligro", "from_day": 23 },
+    { "term": "el ritmo / pálido / el silencio / esperar / fuerte", "from_day": 9 },
+    { "term": "full-month sweep: antena, señal, ruido, patrón, casualidad, fondos, fantasma, tormenta, rayo, generador, ingeniero, herramienta, termo, arepa, apuesta, quejarse, chisme, camioneta, gris, nota de voz, satélite, prueba, descartar, microondas, cocina, horno, misterio, informe, verdad, firmar, funcionario, extranjero, hacerse el tonto, teoría, absurdo, jurar, entrevista, trato, eco, localizar, radioaficionado, monja, jubilado, llanos, servilleta, cálculo, resultado, demasiado cerca, luna, espía, copia, adentro, laboratorio, techo, padre, valer la pena, oreja, oído, diseñar, barato, construir, prototipo, alquiler, multiplicar, vergüenza, comprobar", "from_day": 0 }
+  ],
+  "show_notes_extra": "SCORING GUIDE (Day 30 recalibration — report this score to the monthly authoring session). 1 point per question, 15 possible. 13–15 with passages 4–5 mostly clear: you are ahead of plan — Month 2 (S2: 30 min, faster pace, longer sentences) will start comfortable; consider listening once instead of twice. 9–12: perfectly calibrated — proceed to Day 31 as scheduled. 5–8: proceed to Day 31, but re-listen to Days 28–29 first and listen to each S2 episode twice for the first week. 0–4: repeat Days 24–29 over the next three days, then retake this test before starting Month 2. Note which passage broke down: passages 1–3 = S1 consolidation gap (recycle-heavy re-listens fix it); passage 4 = normal stretch; passage 5 = expected to be hard, it previews Month 3+ pace."
+}

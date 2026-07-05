@@ -33,7 +33,7 @@
         { "voice": "andres", "text": "Doctora, son las siete de la mañana. Y no estoy dormido. Estoy pensando con los ojos cerrados." },
         { "voice": "camila", "text": "Escucha. El eco viene de cerca, ¿verdad? Para escuchar algo cercano no necesitas una oreja enorme. Necesitas muchas orejas pequeñas." },
         { "pause": 2.0 },
-        { "voice": "narrator", "text": "Muchas orejas pequeñas. Pensemos en eso un momento. La oreja es la parte de afuera. Está en la cabeza, a los lados. El oído está adentro. Con el oído escuchamos. Una oreja gigante escucha lejos. Pero muchos oídos juntos escuchan mejor. Sobre todo cuando la cosa está cerca. Camila quiere muchas orejas para el cielo." },
+        { "voice": "narrator", "text": "Muchas orejas pequeñas. Vamos a pensar en eso un momento. La oreja es la parte de afuera. Está en la cabeza, a los lados. El oído está adentro. Con el oído escuchamos. Una oreja gigante escucha lejos. Pero muchos oídos juntos escuchan mejor. Sobre todo cuando la cosa está cerca. Camila quiere muchas orejas para el cielo." },
         { "voice": "andres", "text": "Chama… eso es. ¡Eso es! Yo puedo diseñar una antena pequeña. Una antena simple, para cualquier techo." },
         { "voice": "camila", "text": "¿Puedes? ¿En serio?" },
         { "voice": "andres", "text": "Doctora, yo arreglaba antenas en Caracas durante los apagones. Sin dinero, sin herramientas nuevas, sin nada. Claro que puedo." },
@@ -59,9 +59,14 @@
         { "voice": "marta", "text": "Por eso el alquiler es barato: dos ajiacos por semana. Los compran aquí, en mi puesto. Y se los comen enteros. Sin quejarse." },
         { "pause": 1.5 },
         { "voice": "narrator", "text": "Andrés mira el cielo. Camila se ríe con toda la cara. Trato hecho." },
-        { "voice": "narrator", "text": "El alquiler. Hablemos del alquiler. Pagas por usar una cosa de otra persona. Pagas alquiler por un apartamento. Pagas alquiler por un cuarto. Y ahora, alquiler por un techo. El alquiler de doña Marta: dos ajiacos por semana. Para Camila, un precio excelente. Para Andrés, un precio terrible. La guerra de la arepa continúa." },
+        { "voice": "narrator", "text": "El alquiler. Vamos a hablar del alquiler. Pagas por usar una cosa de otra persona. Pagas alquiler por un apartamento. Pagas alquiler por un cuarto. Y ahora, alquiler por un techo. El alquiler de doña Marta: dos ajiacos por semana. Para Camila, un precio excelente. Para Andrés, un precio terrible. La guerra de la arepa continúa." },
         { "voice": "narrator", "text": "El sábado construyen el prototipo. Andrés dirige la obra. Julio no está, y todos lo sienten. El Flaco trae metal del taller de un primo. Otro primo trae un camión con escalera. Suben los cables. Conectan la caja. Doña Marta atiende y comenta todo, feliz. A las cinco de la tarde, el prototipo funciona. La primera oreja pequeña escucha el cielo." },
         { "voice": "elflaco", "text": "Doctora, mire eso. Una antena en el techo de una tienda. Mi programa habló de esto hace años. Nadie me creyó, como siempre." },
+        { "voice": "narrator", "text": "El Flaco sube al techo con cuidado. Mira la antena pequeña. La toca con un dedo, como una cosa de museo." },
+        { "voice": "elflaco", "text": "¿Y esta oreja escucha el cielo? ¿Esta cosita barata?" },
+        { "voice": "andres", "text": "Esa cosita, Flaco. El diseño es simple. Lo caro no siempre es lo bueno." },
+        { "voice": "elflaco", "text": "Como los taxis, hermano. Mi taxi es viejo y barato. Y corre mejor que los nuevos." },
+        { "voice": "narrator", "text": "Nadie discute eso. Con El Flaco nunca vale la pena discutir." },
         { "pause": 1.5 },
         { "voice": "narrator", "text": "Y entonces pasa algo hermoso. El diseño viaja por la red de radioaficionados. Viaja de emisora en emisora. Don Ramiro construye una antena en los llanos. La monja construye dos en su pueblo. Un jubilado de Bucaramanga construye tres. Una antena. Dos antenas. Cuatro. Ocho. Dieciséis. Las antenas se multiplican." },
         { "voice": "narrator", "text": "Multiplicar. ¿Qué es multiplicar? Es crecer en número. Más y más y más. Dos por dos: cuatro. Cuatro por dos: ocho. Las orejas del cielo se multiplican por todo el país. En techos baratos. En casas normales. Nadie las ve. Todas escuchan." }
@@ -91,7 +96,10 @@
         { "voice": "narrator", "text": "Esa noche comprueban el prototipo con el equipo de Julio. Miden todo, dos veces. El oído nuevo escucha bien. Muy bien. Mejor que el diseño en papel. Andrés sonríe como un niño." },
         { "voice": "andres", "text": "El equipo comprobó el equipo. ¿Entienden? El equipo de personas… comprobó el equipo de máquinas." },
         { "pause": 1.5 },
-        { "voice": "narrator", "text": "Nadie se ríe. Bueno, El Flaco sí. El Flaco siempre se ríe. Y arriba, en el techo de doña Marta, la primera oreja pequeña escucha la noche. Faltan dos días." }
+        { "voice": "narrator", "text": "Nadie se ríe. Bueno, El Flaco sí. El Flaco siempre se ríe." },
+        { "voice": "narrator", "text": "Entonces doña Marta sube con dos ajiacos calientes. El alquiler de la semana. Andrés paga su parte con cara de héroe. Camila come feliz. Julio mira su ajiaco y sonríe. Sonríe por primera vez en muchos días. La vergüenza pesa menos con sopa caliente. Eso dice doña Marta. Y doña Marta siempre tiene razón." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Arriba, en el techo, la primera oreja pequeña escucha la noche. Faltan dos días." }
       ]
     },
     {
@@ -105,6 +113,7 @@
         { "voice": "narrator", "text": "Primera historia. En Japón, hace muchos años, vivía un joven pobre. Trabajaba en una fábrica de pianos. Quería un telescopio. No tenía dinero: un telescopio era muy caro. Entonces construyó uno. Lo construyó en casa, con las manos, durante meses. Un telescopio barato, hecho a mano. Cada noche miraba el cielo con su telescopio. Y una noche encontró un cometa nuevo. ¿Un cometa? Una luz con cola que viaja por el cielo. Ningún profesional lo vio primero. Lo vio él. El cometa hoy lleva su nombre." },
         { "voice": "narrator", "text": "Segunda historia. Un telescopio del espacio mandó millones de datos. Demasiados datos para los científicos. Entonces pidieron ayuda por internet. Miles de voluntarios miraron los datos en casa. Estudiantes. Jubilados. Taxistas. Personas normales, con tiempo y ojos buenos. Y esos voluntarios encontraron planetas nuevos. Planetas reales, alrededor de otras estrellas. Sus nombres están en artículos de ciencia. Sin título. Sin laboratorio. Sin dinero." },
         { "voice": "narrator", "text": "Y una historia más, muy cerca de la nuestra. Hoy, algunos radioaficionados escuchan púlsares desde sus casas. ¿Recuerdan el día nueve? Un púlsar es una estrella muerta. Late como un corazón: tac, tac, tac. Ese latido llega a la Tierra como radio. Y una antena de techo, barata, puede escucharlo. Gente normal hace mapas de esos latidos. Mapas del cielo, hechos en casa." },
+        { "voice": "narrator", "text": "¿Y en Colombia? También. Cada año, un día especial, gente normal cuenta pájaros. Todo el país mira los árboles ese día. Familias, niños, jubilados, monjas. Anotan cada pájaro en una lista. Los datos van a los científicos. Colombia es el país con más pájaros del mundo. Y muchos de sus contadores son voluntarios. Gente como tú." },
         { "voice": "narrator", "text": "La lección es simple. No necesitas millones. Necesitas un diseño, unas manos y una buena pregunta. La ciencia también se multiplica. Como las orejas de nuestra red." }
       ]
     },
@@ -119,8 +128,9 @@
         { "voice": "narrator", "text": "Camila tuvo una idea: muchas orejas pequeñas. ¿La oreja? La parte de afuera, en la cabeza. ¿El oído? La parte de adentro. Con el oído escuchamos. Ahora el país tiene muchos oídos nuevos." },
         { "voice": "narrator", "text": "Andrés hizo el diseño de una antena. Diseñar: pensar y dibujar algo nuevo. Su antena es barata. Cuesta poco. No es cara. No cuesta millones. Cualquier persona la puede construir. Construir: hacer algo con las manos, parte por parte." },
         { "voice": "narrator", "text": "Construyeron el prototipo en el techo de doña Marta. El prototipo: el primer modelo, el modelo de prueba. El prototipo funciona. ¿Y el alquiler del techo? Dos ajiacos por semana. El alquiler: pagar por usar algo de otra persona. Pobre Andrés." },
-        { "voice": "narrator", "text": "La red multiplicó las antenas. Una, dos, cuatro, ocho, dieciséis. Multiplicar: crecer en número, más y más." },
-        { "voice": "narrator", "text": "Y Julio volvió. Sintió vergüenza. La vergüenza: ese calor en la cara, esa voz por dentro. Trajo equipo prestado del trabajo. Lo va a devolver el lunes. Devolver: regresar una cosa a su lugar. Ojalá en silencio." },
+        { "voice": "narrator", "text": "La red multiplicó las antenas. Una, dos, cuatro, ocho, dieciséis. Multiplicar: crecer en número, más y más. ¿Y quién paga esas antenas? Nadie. Cada persona construye la suya. Porque el diseño es barato. ¿Recuerdan? Barato: cuesta poco dinero." },
+        { "voice": "narrator", "text": "Y Julio volvió. Sintió vergüenza. La vergüenza: ese calor en la cara, esa voz por dentro. Trajo equipo prestado del trabajo. Lo va a devolver el lunes. Devolver: regresar una cosa a su lugar. Ojalá en silencio. ¿Y tú? ¿Devuelves las cosas prestadas? Julio sí. Bueno: eso esperamos." },
+        { "voice": "narrator", "text": "Una pregunta más. ¿Qué es multiplicar por dos? Fácil: dos, cuatro, ocho, dieciséis. Así crecieron nuestras antenas. Y así crece tu español: un día, y otro día, y otro." },
         { "voice": "narrator", "text": "Mañana es la última noche antes de la señal. La noche más larga. Todo está listo. ¿Todo? Mañana lo comprobamos. Hasta mañana." }
       ]
     }

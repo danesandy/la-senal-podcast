@@ -293,7 +293,10 @@ def render_episode(script_path, voicebank, _depth=0):
                 f.write(f"- **{item['term']}** — {item['gloss']}\n")
             f.write("\n## Reciclado\n\n")
             for term in ep.get("vocab_recycled", []):
-                f.write(f"- {term}\n")
+                if isinstance(term, dict):
+                    f.write(f"- {term.get('term')} (día {term.get('from_day', '?')})\n")
+                else:
+                    f.write(f"- {term}\n")
 
     # --- Cleanup working WAVs ---
     shutil.rmtree(epdir)

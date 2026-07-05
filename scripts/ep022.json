@@ -18,7 +18,8 @@
         { "pause": 1.5 },
         { "voice": "narrator", "text": "Andrés verificó el cálculo cuatro veces. El resultado no cambió. El origen de la señal está en el sistema solar. Quizás más cerca que la luna. Demasiado cerca." },
         { "voice": "narrator", "text": "Julio por fin creyó. Y por eso mismo eligió irse. Su hermano Mauricio trabaja en el ministerio. Y últimamente hace muchas preguntas." },
-        { "voice": "narrator", "text": "Camila también eligió. Eligió callar. Ahora el proyecto es un proyecto secreto. Verificar todo, y no decir nada a nadie." },
+        { "voice": "narrator", "text": "Camila también eligió. Eligió callar. Ahora el proyecto es un proyecto secreto. Verificar todo, y no decir nada a nadie. La lista de la gente de confianza es corta. Andrés. Julio. Don Ramiro y su perro. El voluntario de Bucaramanga. Y doña Marta, un poco." },
+        { "voice": "narrator", "text": "En el Mundo Real viajamos en bus. Bogotá, la luna, Marte, las estrellas. Aprendimos la palabra escala. Y aprendimos algo incómodo. En la escala del espacio, esta señal no viene de lejos. Viene de la puerta de la casa." },
         { "pause": 2.0 },
         { "voice": "narrator", "text": "Hoy: día veintidós. El hermano de Julio." }
       ]
@@ -30,7 +31,8 @@
       "inter_sentence_pause_s": 1.1,
       "inter_turn_pause_s": 1.6,
       "turns": [
-        { "voice": "narrator", "text": "Es mediodía en el puesto de doña Marta. Camila y Andrés almuerzan en la mesa de siempre. Hoy hay sopa, arroz y jugo de mora. Es un día tranquilo. Casi normal." },
+        { "voice": "narrator", "text": "Es mediodía en el puesto de doña Marta. El sol calienta el cerro. Huele a sopa y a café. Camila y Andrés almuerzan en la mesa de siempre. Hoy hay sopa, arroz y jugo de mora. Hablan poco. Durmieron poco. Trabajaron toda la madrugada con los datos. Es un día tranquilo. Casi normal." },
+        { "voice": "narrator", "text": "Casi. Porque en esta historia, los días normales duran poco." },
         { "voice": "narrator", "text": "Entonces llega un hombre. Camisa blanca, muy limpia. Zapatos de ciudad, no de cerro. Sonrisa grande. Sonrisa de foto." },
         { "voice": "aux_m", "text": "¿La doctora Camila Rey? ¡No lo puedo creer! Qué casualidad encontrarla aquí." },
         { "voice": "narrator", "text": "Qué casualidad, dice el hombre. Por casualidad. ¿Qué significa por casualidad? Significa sin plan. Encuentras algo, y no lo buscabas. Eso es por casualidad. El hombre dice que pasa por casualidad. Por el cerro del observatorio. A mediodía. Con zapatos de ciudad." },
@@ -40,9 +42,14 @@
         { "voice": "aux_m", "text": "¿Me puedo sentar? Doña Marta, una sopita, por favor. Qué lugar tan agradable." },
         { "voice": "narrator", "text": "Mauricio es muy amable. ¿Amable? Una persona amable habla bonito. Sonríe, da las gracias, pregunta por tu familia. Amable es lo contrario de grosero. Mauricio es amable como un vendedor. Amable con un objetivo." },
         { "voice": "aux_m", "text": "¿Y qué tal el trabajo en el observatorio? Julio me cuenta que hay noches muy largas." },
-        { "voice": "camila", "text": "Lo normal. Muchos números, poco sueño. Ya sabe, la ciencia." },
+        { "voice": "camila", "text": "Lo normal. Muchos números, poco sueño. Ya sabe cómo es esto." },
         { "voice": "aux_m", "text": "Claro, claro. ¿Y nada interesante en el cielo? Un amigo dice que vio luces raras. Yo no creo en esas cosas, claro." },
-        { "voice": "camila", "text": "Ay, don Mauricio. Si el cielo diera espectáculo, mi trabajo no da sueño." },
+        { "voice": "camila", "text": "El cielo siempre es interesante, don Mauricio. Por eso no pagan por mirarlo." },
+        { "voice": "narrator", "text": "Mauricio se ríe con toda la cara. Con toda la cara, menos los ojos. Los ojos toman notas." },
+        { "voice": "aux_m", "text": "¿Y los aparatos? Julio me contó de una tormenta fea. ¿La antena grande quedó bien? Esas cosas cuestan mucho dinero público, ¿no?" },
+        { "voice": "camila", "text": "Quedó perfecta. La arregló una empresa muy seria." },
+        { "voice": "narrator", "text": "Doña Marta llega con la sopa. La pone en la mesa, despacio. Muy despacio. Doña Marta también quiere escuchar." },
+        { "voice": "marta", "text": "¿Algo más, señor? En este cerro solo hay sopa y niebla. Las dos están buenas hoy." },
         { "voice": "narrator", "text": "Todos se ríen. Nadie dice nada verdadero. Escucha bien esta conversación. Parece amable. Parece cortesía de almuerzo. Pero es una pelea. Una pelea con espadas." },
         { "voice": "narrator", "text": "¿Espadas? Una espada es un cuchillo muy largo. Un arma vieja, de metal, para pelear. Aquí nadie tiene una espada de verdad. Aquí las espadas son las palabras. Cada pregunta es una espada. Cada sonrisa es una espada. Mauricio ataca con cortesía. Camila se defiende con cortesía." },
         { "voice": "aux_m", "text": "¿Y usted, caballero? ¿También es astrónomo?" },
@@ -84,7 +91,12 @@
         { "voice": "andres", "text": "Entonces tenemos un espía." },
         { "voice": "narrator", "text": "Un espía. Un espía mira en secreto. Escucha en secreto. Y le cuenta todo a otra persona. Afuera. Un espía vive adentro y trabaja para afuera. La palabra queda en el aire, fea y fría." },
         { "voice": "camila", "text": "Yo confío en todos los de esta mesa. Y eso ya no es suficiente." },
-        { "pause": 2.0 }
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Andrés mira a Julio, largo. Julio salió del proyecto ayer. Y hoy subió el cerro corriendo, para avisar. Eso también es información. Julio tiene miedo, sí. Pero Julio es leal. ¿Leal? Una persona leal no te abandona. Puedes contar con ella, en los días malos. Julio eligió irse. Y volvió el primer día malo." },
+        { "voice": "camila", "text": "Desde hoy, los datos nuevos no van a la computadora del observatorio. Van a otro lugar. Un lugar que solo conocemos nosotros." },
+        { "voice": "andres", "text": "¿Y cuál lugar, doctora?" },
+        { "voice": "camila", "text": "Todavía no sé. Pero conozco a alguien con muchas ideas raras. Y con un taxi." },
+        { "voice": "narrator", "text": "Andrés sonríe por primera vez en el día. El espía, no sabemos quién es, conoce el observatorio. Pero nadie, nadie, entiende el mapa mental de El Flaco." }
       ]
     },
     {
@@ -101,9 +113,11 @@
         { "voice": "narrator", "text": "En Colombia, la cortesía es un arte. Hay frases hermosas que no significan nada. O mejor: significan otra cosa. Vamos a ver tres ejemplos famosos." },
         { "voice": "narrator", "text": "Ejemplo uno: ya casi llego. Tu amigo dice por teléfono: ya casi llego. ¿Verdad? Quizás todavía está en su casa. Quizás está en la ducha. Ya casi llego significa: no estoy cerca. Pero te quiero, no te enojes." },
         { "voice": "narrator", "text": "Ejemplo dos: a la orden. Lo escuchas en todas las tiendas. A la orden, a la orden. Significa: estoy aquí para ti. ¿Y siempre es verdad? No siempre. Mauricio dijo: a la orden en el ministerio. ¿Está Mauricio a la orden de Camila? Mmm. Quizás es lo contrario." },
-        { "voice": "narrator", "text": "Ejemplo tres: qué pena. Qué pena significa perdón, o qué vergüenza me da. Los colombianos dicen qué pena todo el día. Qué pena molestarlo. Qué pena la demora. A veces hay pena de verdad. Y a veces es solo música social." },
-        { "voice": "narrator", "text": "Porque eso es la cortesía: música social. La cortesía hace la vida más suave. Protege a las personas. Casi nunca es mala. Pero escucha con atención. En Colombia, muchas veces el no no se dice. Se dice: de pronto, mañana miramos, yo le aviso. Todo eso, con una sonrisa, significa no." },
-        { "voice": "narrator", "text": "Y por eso la conversación de hoy fue tan difícil. Todos fueron amables. Todos usaron cortesía. Y todos entendieron todo. Las palabras dijeron una cosa. Y la verdad caminó por debajo, en silencio." },
+        { "voice": "narrator", "text": "Ejemplo tres: qué pena. Qué pena significa perdón, o lo siento mucho. Los colombianos dicen qué pena todo el día. Qué pena molestarlo. Qué pena la demora. A veces hay pena de verdad. Y a veces es solo música social." },
+        { "voice": "narrator", "text": "Y un ejemplo pequeño, pequeñito: el diminutivo. ¿Recuerdas a Mauricio? No pidió una sopa. Pidió una sopita. Un momentico, un favorcito, un tintico. El diminutivo hace todo más suave. Una sopita cuesta lo mismo que una sopa. Pero suena a familia. Cortesía pura, en tres letras." },
+        { "voice": "narrator", "text": "Porque eso es la cortesía: música social. La cortesía hace la vida más suave. Cuida a las personas. Casi nunca es mala. Pero escucha con atención. En Colombia, muchas veces el no no se dice. Se dice: de pronto, mañana miramos, yo le aviso. Todo eso, con una sonrisa, significa no." },
+        { "voice": "narrator", "text": "¿Y esto es mentir? Buena pregunta. La mentira piadosa cuida a una persona. La cortesía cuida la paz de todos. Pero cuidado. La misma música sirve para otras canciones. Mauricio usó la cortesía como espada. Preguntas dulces, con trabajo serio adentro. La forma era amable. El fondo era una inspección." },
+        { "voice": "narrator", "text": "Y por eso la conversación de hoy fue tan difícil. Todos fueron amables. Todos usaron cortesía. Y todos entendieron todo. Las palabras dijeron una cosa. Y la verdad caminó por debajo, en silencio. Si aprendes español en Colombia, aprende esto. Escucha las palabras. Y escucha también lo que falta." },
         { "pause": 2.5 }
       ]
     },
@@ -119,7 +133,9 @@
         { "voice": "narrator", "text": "Mauricio es analista del ministerio. ¿Qué hace un analista? Estudia información. Junta piezas pequeñas y forma una imagen. Mauricio fue muy amable. Sonrisas, gracias, cortesía. Pero la conversación fue una pelea de espadas. Espadas de palabras. Preguntas amables, con filo adentro." },
         { "voice": "narrator", "text": "Después, Julio confesó. ¿Confesar? Decir una verdad difícil, guardada. Julio confesó esto: el ministerio tiene una copia de los datos. Hace una semana. Julio no la envió. Alguien de adentro la envió hacia afuera." },
         { "voice": "narrator", "text": "Y por eso todos sospechan. ¿Sospechar? Creer algo malo, sin pruebas todavía. Hay cinco personas adentro del proyecto. Y quizás una es un espía. Un espía: vive adentro, y trabaja para afuera." },
+        { "voice": "narrator", "text": "Tres preguntas rápidas. ¿Quién vino al puesto hoy? Mauricio, el analista, el hermano de Julio. ¿Qué confesó Julio? Que el ministerio tiene una copia de los datos. ¿Y quién envió esa copia? No sabemos. Alguien de adentro. Esa es la pregunta fea de hoy." },
         { "voice": "narrator", "text": "¿Y recuerdas el día uno? Una antena, una señal, un ruido raro. Esa noche, el problema era el cielo. Hoy el problema también es la tierra. Las personas. La confianza." },
+        { "voice": "narrator", "text": "Y una cosa buena, para cerrar. Julio volvió. Salió del proyecto, pero subió el cerro corriendo. Para avisar, para confesar, para ayudar. Julio es leal. Con espía o sin espía, eso vale mucho." },
         { "voice": "narrator", "text": "Mañana llega una nota de voz desde Maracaibo. Una nota de voz muy, muy larga. Tía Chela tiene noticias del barrio. Y al final, tiene una noticia para Andrés. Hasta mañana." }
       ]
     }
@@ -148,7 +164,6 @@
     { "term": "el sistema solar", "from_day": 21 },
     { "term": "el/la voluntario(a)", "from_day": 19 },
     { "term": "los llanos", "from_day": 19 },
-    { "term": "desconfiar (via confiar contrast)", "from_day": 19 },
     { "term": "la verdad", "from_day": 15 },
     { "term": "mentir / la mentira", "from_day": 15 },
     { "term": "el ministerio", "from_day": 15 },

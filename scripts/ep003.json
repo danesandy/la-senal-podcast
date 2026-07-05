@@ -1,0 +1,153 @@
+{
+  "episode": "003",
+  "day": 3,
+  "arc": 1,
+  "title": "Día 3 — «El taxi»",
+  "description": "Meet El Flaco: taxi driver, conspiracy podcaster, and the fastest mouth in Bogotá. Camila half-listens to his wild theories — until one sentence about the sky makes her stop smiling. Plus: why Bogotá is cold on the equator.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal..." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Camila durmió mal. Después escuchó la grabación del ruido, muchas veces. En la pantalla vio algo nuevo. El ruido tiene una forma. Una forma con orden, como montañas pequeñas en fila. Su colega Julio dijo: es interferencia. Ruido de máquinas humanas. Nada especial." },
+        { "voice": "narrator", "text": "Camila revisó todo: la antena, los datos, las computadoras. No encontró errores. Todavía no, dijo Julio. Y esa noche, a las tres y cuarenta y siete... nada. El cielo no dijo nada. Pero la duda de Camila vive todavía." },
+        { "pause": 2.0 }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Las cinco de la tarde, en Chapinero. Camila sale de su casa. Hoy no camina a la montaña. Hoy toma un taxi. Y no es un taxi normal. Es el taxi de El Flaco." },
+        { "voice": "narrator", "text": "El Flaco es taxista. ¿Un taxista? Un taxista es la persona del taxi. El taxista maneja el taxi. ¿Manejar? Manejar es llevar un carro por la calle. Tú manejas, o alguien maneja por ti. El taxista maneja todo el día. Y El Flaco maneja su taxi hace veinte años." },
+        { "voice": "narrator", "text": "El Flaco tiene cincuenta y cinco años. Es alto y delgado. Por eso su nombre: El Flaco. Y El Flaco habla. Habla mucho. Muchísimo. Maneja y habla, habla y maneja. Camila toma su taxi casi cada semana. Él siempre la lleva al observatorio." },
+        { "voice": "elflaco", "text": "¡Doctora! ¡Al observatorio, como siempre! Bienvenida a su taxi." },
+        { "voice": "camila", "text": "Buenas tardes, Flaco. ¿Cómo va todo?" },
+        { "voice": "elflaco", "text": "¡Uy, doctora! Todo raro. Todo muy raro últimamente." },
+        { "voice": "narrator", "text": "¿Últimamente? Últimamente significa: en estos días. No hoy, no ayer: en todos estos días recientes. Ejemplo: últimamente llueve mucho. Llueve esta semana, llueve la otra semana. Últimamente. Para El Flaco, últimamente todo está raro." },
+        { "voice": "narrator", "text": "El Flaco empieza a manejar. Y empieza a hablar. Porque El Flaco no es solo taxista. El Flaco tiene un programa. ¿Un programa? Un programa es un show de radio o televisión. El programa de El Flaco vive en internet. Él lo graba de noche, en su casa. El programa se llama «La Verdad Oculta»." },
+        { "voice": "narrator", "text": "¿Cuánta gente escucha el programa de El Flaco? Él dice: miles de personas. La realidad dice: unas cien. Quizás menos. Pero El Flaco graba su programa cada noche, feliz. Para él, cien personas son cien mentes abiertas." },
+        { "voice": "elflaco", "text": "Mi programa, doctora, dice las cosas importantes. Las cosas que el gobierno esconde." },
+        { "voice": "narrator", "text": "Dos palabras grandes. Primera: el gobierno. ¿El gobierno? El gobierno son las personas que controlan el país. El presidente y su gente. Ellos deciden muchas cosas del país. Y otra palabra grande: esconder. Esconder es poner algo donde nadie lo ve. Un niño esconde un juguete. Tú escondes un regalo antes de la fiesta. Y el gobierno, dice El Flaco, esconde información." },
+        { "voice": "elflaco", "text": "Por ejemplo, doctora: los pájaros del centro. ¿Usted vio pájaros en el centro últimamente? Yo no. ¿Y por qué no hay pájaros? Porque el gobierno sabe algo. Y no lo dice." },
+        { "voice": "camila", "text": "Claro, Flaco. El gobierno y los pájaros. Un problema muy serio." },
+        { "voice": "elflaco", "text": "Y hay más, doctora. ¿Conoce el edificio alto del centro, el nuevo? Dicen que de noche entran carros negros. Carros negros, doctora. ¿Y quién maneja esos carros? Nadie lo sabe." },
+        { "voice": "camila", "text": "Quizás personas que trabajan de noche, Flaco. Como yo." },
+        { "voice": "elflaco", "text": "¡Eso dicen ellos, doctora! ¡Eso dicen ellos!" },
+        { "voice": "narrator", "text": "Así es un viaje con El Flaco. Historias, preguntas, más historias. Camila mira la ciudad pasar. El taxi va de Chapinero a la montaña. Cuarenta minutos, cada vez. Cuarenta minutos de El Flaco. Camila dice que es mucho. Pero en el fondo, le gusta." },
+        { "voice": "narrator", "text": "Camila escucha a medias. Sonríe. El Flaco es divertido. Sus historias son grandes y locas. Camila no cree ni una. ¿Creer? Creer es pensar: esto es cierto. Tú me dices algo. Yo lo acepto: te creo. O no lo acepto: no te creo. Mucha gente escucha el programa de El Flaco. ¿Y le cree? Casi nadie le cree. Camila tampoco le cree. Todavía." },
+        { "pause": 2.0 }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "elflaco", "text": "Y ahora lo más grande, doctora. Lo más grande de todo. Las luces." },
+        { "voice": "camila", "text": "¿Las luces? ¿Qué luces?" },
+        { "voice": "narrator", "text": "La luz. ¿Recuerdas esa palabra? La luz del sol. La luz de una lámpara. Con la luz, los ojos ven. Una luz, dos luces, muchas luces. Y El Flaco habla de unas luces en el cielo." },
+        { "voice": "elflaco", "text": "Unas luces sobre Monserrate, doctora. Blancas. Van y vienen. Tres personas las vieron. ¡Tres!" },
+        { "voice": "narrator", "text": "Monserrate es un cerro de Bogotá. ¿Un cerro? Un cerro es una montaña. Bogotá vive entre cerros. El cerro de Monserrate es el más famoso. Tiene una iglesia blanca arriba. El observatorio de Camila está en otro cerro. Más lejos de la ciudad." },
+        { "voice": "camila", "text": "Flaco, la gente siempre ve luces en el cielo. Y siempre hay una historia detrás." },
+        { "voice": "elflaco", "text": "Quizás, doctora, quizás. Pero un amigo mío las grabó con el teléfono. ¡Las grabó!" },
+        { "voice": "camila", "text": "¿Qué amigo, Flaco? ¿Otro hombre con un programa?" },
+        { "voice": "elflaco", "text": "No, doctora. Panadero. Trabaja de noche, cerca de Monserrate. Un hombre serio, que no cree en nada. Y por eso es perfecto. Cuando un hombre así ve luces... hay luces." },
+        { "voice": "narrator", "text": "Interesante lógica. El amigo serio ve luces: las luces son reales. Camila sonríe. Pero una parte pequeña de ella no sonríe." },
+        { "voice": "narrator", "text": "¿Quizás? Quizás significa: es posible. No sí, no no. Quizás. ¿Va a llover mañana? Quizás. ¿Las historias de El Flaco son ciertas? Quizás. Bueno... probablemente no. Pero quizás." },
+        { "voice": "narrator", "text": "El Flaco sigue hablando. Camila mira la calle y piensa. Piensa en la grabación. En la forma. En Julio y su interferencia. Y en ese momento, El Flaco dice la frase. La frase importante." },
+        { "voice": "elflaco", "text": "Doctora... el cielo está raro últimamente." },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "Camila deja de sonreír. ¿Por qué? Porque ella piensa: yo también vi algo raro allá arriba. Yo también. Mira a El Flaco. Y por primera vez, ella hace las preguntas." },
+        { "voice": "camila", "text": "Flaco... esas luces sobre el cerro. ¿Qué noche fue?" },
+        { "voice": "elflaco", "text": "El martes, doctora. Muy tarde. Casi de mañana. Como a las cuatro menos algo." },
+        { "voice": "narrator", "text": "El martes. Muy tarde. Casi las cuatro de la mañana. Camila conoce esa noche. Fue la noche del ruido. Las tres y cuarenta y siete." },
+        { "voice": "camila", "text": "No significa nada. La gente ve luces todo el tiempo." },
+        { "voice": "narrator", "text": "Eso dice su cabeza. Pero su estómago dice otra cosa. Otra vez." },
+        { "voice": "narrator", "text": "Piensa, Camila, piensa. El ruido: el martes, a las tres cuarenta y siete. Las luces: el martes, casi a las cuatro. Una cosa en los datos. Otra cosa en el cielo. ¿Dos historias diferentes? ¿O una sola historia?" },
+        { "voice": "elflaco", "text": "¿Doctora? ¿Todo bien? Se puso muy seria." },
+        { "voice": "camila", "text": "Todo bien, Flaco. Oye... ¿tu amigo me puede dar ese video?" },
+        { "voice": "elflaco", "text": "¡Claro que sí! ¡La doctora cree! ¡Bienvenida a La Verdad Oculta, doctora!" },
+        { "voice": "camila", "text": "No creo nada, Flaco. Solo quiero revisar el video. Con calma. Es mi trabajo." },
+        { "voice": "narrator", "text": "El taxi llega al observatorio. Camila paga y sale del carro. El Flaco grita, feliz:" },
+        { "voice": "elflaco", "text": "¡Esta noche hablo de usted en mi programa! ¡La doctora de las estrellas!" },
+        { "voice": "camila", "text": "¡Flaco, no! ¡Ni una palabra! ¡Lo digo en serio!" },
+        { "voice": "narrator", "text": "El Flaco sonríe y maneja montaña abajo. Camila mira el cielo. El sol se va. Las primeras estrellas aparecen. ¿Y las luces de Monserrate? ¿Un cuento de El Flaco? ¿O algo más? Quizás. Quizás no. Esta noche, Camila va a mirar con otros ojos." },
+        { "pause": 2.5 }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El mundo real de hoy: Bogotá. La ciudad de Camila. Una ciudad rara y maravillosa." },
+        { "voice": "narrator", "text": "Bogotá es la capital de Colombia. Allí viven unos ocho millones de personas. Es una ciudad enorme. Y está en un lugar increíble: muy, muy arriba. Bogotá está a dos mil seiscientos cuarenta metros. ¿Eso es mucho? Muchísimo. Es una de las capitales más altas del mundo." },
+        { "voice": "narrator", "text": "Ahora, algo curioso. Colombia está en la línea del ecuador. ¿El ecuador? La línea del medio de la Tierra. Cerca del ecuador, normalmente hace calor. Piensa en Cartagena: sol, playa, calor todo el año. Entonces, Bogotá es caliente... ¿no? No. Bogotá es fría. La gente usa chaqueta todo el año." },
+        { "voice": "narrator", "text": "¿Por qué? Por la altura. Así trabaja el aire de la Tierra. Más arriba, más frío. Bogotá está muy arriba. Por eso está cerca del ecuador... y con frío. Doce grados, dieciocho grados, casi todos los días. Ni mucho calor, ni mucho frío. La gente dice: Bogotá no tiene verano. Tiene un solo clima: el clima de Bogotá. Ah, y llueve. Llueve mucho. La gente lleva paraguas casi siempre. Porque la lluvia llega sin invitación." },
+        { "voice": "narrator", "text": "Y están los cerros. Bogotá vive entre cerros verdes. El más famoso es Monserrate. Arriba hay una iglesia blanca. La gente va arriba en un tren especial. Desde allí, ves toda la ciudad. Y de noche, ves un mar de luces. Millones de luces pequeñas. Bogotá de noche es un cielo al revés." },
+        { "voice": "narrator", "text": "¿Y cómo se llama la gente de Bogotá? Bogotana. Pero también hay otro nombre: rolos. Camila es rola. Los rolos hablan un español claro y tranquilo. Bueno para los estudiantes de español, como tú. Bogotá también es ciudad de universidades, museos y café. Mucho café. El frío y el café son buenos amigos." },
+        { "voice": "narrator", "text": "¿Y por qué el observatorio está en un cerro? Fácil. Lejos de la ciudad, lejos de sus luces. Lejos de la interferencia de los teléfonos y los carros. Arriba, el aire es limpio y oscuro. La noche es más noche. Perfecto para escuchar el cielo." },
+        { "voice": "narrator", "text": "Entonces, ya conoces la ciudad de esta historia. Una capital fría en la línea del ecuador. Una ciudad entre cerros, con un cielo grande arriba. Ocho millones de personas. Y ahora, quizás... algo más." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "El repaso. Yo pregunto, tú piensas. Vamos." },
+        { "voice": "narrator", "text": "¿Quién es El Flaco? El Flaco es taxista. Maneja un taxi en Bogotá, hace veinte años. Maneja y habla, habla y maneja. Lleva a Camila al observatorio casi cada semana." },
+        { "voice": "narrator", "text": "¿Qué tiene El Flaco, además del taxi? Un programa. Un programa en internet. Se llama «La Verdad Oculta». Allí habla de las cosas que el gobierno esconde. ¿Esconder? Poner algo donde nadie lo ve. ¿El gobierno? Las personas que controlan el país." },
+        { "voice": "narrator", "text": "¿La gente le cree a El Flaco? Casi nadie le cree. ¿Creer? Aceptar algo como cierto. Camila tampoco le cree. Sus historias son locas. El gobierno y los pájaros, por ejemplo. Camila solo sonríe." },
+        { "voice": "narrator", "text": "Pero hoy, El Flaco dijo dos cosas serias. Cosa uno: hay luces raras sobre Monserrate. Luces blancas que van y vienen. Monserrate: el cerro famoso de Bogotá, con su iglesia. Cosa dos: esas luces aparecieron el martes. Muy tarde. Casi a las cuatro de la mañana." },
+        { "voice": "narrator", "text": "El martes, a las tres y cuarenta y siete... ¿qué pasó? El ruido. El ruido raro de Camila. ¿Accidente de la vida? ¿O no? Camila dice: no significa nada. Su estómago dice: quizás sí. ¿Quizás? Es posible. No sí, no no. Quizás." },
+        { "voice": "narrator", "text": "Y una palabra más de hoy: últimamente. En estos días recientes. El Flaco lo dijo claro. El cielo está raro últimamente. Camila no puede olvidar esa frase." },
+        { "voice": "narrator", "text": "¿Y cómo es la ciudad de esta historia? Bogotá: capital de Colombia, ocho millones de personas. Está muy arriba: a dos mil seiscientos metros. Por eso hace frío cerca del ecuador. Llueve mucho. La ciudad vive entre cerros verdes. Y de noche, es un mar de luces." },
+        { "voice": "narrator", "text": "Una cosa más. El programa de El Flaco tiene cien personas. Quizás menos. Historias locas para mentes abiertas. Pero hoy, una historia loca tocó la puerta de Camila. Las luces del martes. La noche del ruido. A veces, el loco de la ciudad ve primero." },
+        { "voice": "narrator", "text": "Palabras del taxi, para terminar. El taxista maneja. El programa habla. El gobierno esconde, dice El Flaco. Las luces van y vienen sobre el cerro. ¿Y tú, le crees? Quizás sí, quizás no. Últimamente, esa pregunta es difícil." },
+        { "voice": "narrator", "text": "Mañana: otra noche en el observatorio. Café, datos... y las tres y cuarenta y siete. No digo más. Solo esto: prepara tu corazón. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "el/la taxista", "gloss": "taxi driver" },
+    { "term": "manejar", "gloss": "to drive" },
+    { "term": "el programa", "gloss": "show, program" },
+    { "term": "esconder", "gloss": "to hide" },
+    { "term": "el gobierno", "gloss": "government" },
+    { "term": "la luz / las luces", "gloss": "light(s)" },
+    { "term": "creer", "gloss": "to believe" },
+    { "term": "quizás", "gloss": "maybe, perhaps" },
+    { "term": "últimamente", "gloss": "lately" },
+    { "term": "el cerro", "gloss": "hill" }
+  ],
+  "vocab_recycled": [
+    { "term": "la grabación", "from_day": 2 },
+    { "term": "la forma", "from_day": 2 },
+    { "term": "la pantalla", "from_day": 2 },
+    { "term": "el colega", "from_day": 2 },
+    { "term": "la interferencia", "from_day": 2 },
+    { "term": "revisar", "from_day": 2 },
+    { "term": "casi", "from_day": 2 },
+    { "term": "todavía", "from_day": 2 },
+    { "term": "dormir", "from_day": 2 }
+  ],
+  "show_notes_extra": "El Flaco joins the cast, along with his podcast «La Verdad Oculta»."
+}

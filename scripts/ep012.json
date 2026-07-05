@@ -1,0 +1,155 @@
+{
+  "episode": "012",
+  "day": 12,
+  "arc": 1,
+  "title": "El favor",
+  "description": "To rule out satellites, Andrés needs a favor from his old CANTV friend — and in Maracaibo, everything goes through Tía Chela. Her first voice note is four and a half minutes of family news with a bombshell buried at the end.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Anteriormente, en La Señal." },
+        { "voice": "narrator", "text": "Ayer conocimos a doña Marta. Su puesto de comida alimenta al observatorio. Y su chisme informa a todo el cerro. Doña Marta sabe todo. Por eso su noticia fue seria. Dos hombres preguntaron por Camila. Llegaron en una camioneta gris. Compraron dos cafés. Y no los tomaron." },
+        { "voice": "narrator", "text": "Doña Marta no les dijo nada. Ella no vende a sus clientes. Pero Camila pensó en su propia frase. Dos veces no es casualidad. Alguien sabe de la señal. O quiere saber." },
+        { "voice": "narrator", "text": "Y la señal sigue ahí. Llega de noche, casi siempre a la misma hora. Tiene ritmo. Tiene un patrón. Y nadie conoce su origen." },
+        { "voice": "narrator", "text": "Hoy, Andrés tiene una idea. La idea necesita un teléfono. Y una tía." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Esa noche, en el observatorio. Camila, Andrés y Julio miran la pantalla. La pregunta de siempre: ¿qué es la señal?" },
+        { "voice": "julio", "text": "Yo sigo pensando en algo simple. Un satélite. El cielo está lleno de satélites." },
+        { "voice": "narrator", "text": "¿Un satélite? Un satélite es una máquina en el espacio. Vuela alrededor de la Tierra, muy alto. Da vueltas y vueltas, sin parar. Los satélites mandan señales de radio a la Tierra. Señales de televisión, de teléfono, de internet. Hay miles de satélites allá arriba." },
+        { "voice": "camila", "text": "Julio tiene razón en una cosa. Hay que comprobarlo. ¿Pasó un satélite por nuestro cielo, o no?" },
+        { "voice": "narrator", "text": "¿Pasar por? Pasar por un lugar es cruzar ese lugar. El bus pasa por tu calle. El río pasa por el pueblo. Y el satélite pasa por el cielo. ¿Pasó un satélite por el cielo de Bogotá? Esa es la pregunta de hoy." },
+        { "voice": "narrator", "text": "Pero hay un problema. Los datos completos de los satélites no son públicos. Los tienen las empresas de comunicaciones. Camila no quiere preguntarle al gobierno. No después de la camioneta gris." },
+        { "voice": "andres", "text": "Yo conozco a la persona perfecta. Beto, mi amigo de CANTV. Trabajamos juntos en Caracas. Ahora vive en Maracaibo. Beto sabe todo sobre satélites de comunicaciones." },
+        { "voice": "camila", "text": "Perfecto. Llámelo." },
+        { "voice": "andres", "text": "Ah... no es tan simple, doctora." },
+        { "voice": "narrator", "text": "Beto no habla con números desconocidos. Nunca. Además, su teléfono casi siempre está apagado. Beto es un hombre difícil de encontrar." },
+        { "voice": "andres", "text": "En Maracaibo, para llegar a Beto, hay un solo camino. Todo pasa por mi tía Chela." },
+        { "voice": "narrator", "text": "La tía Chela. La tía de Andrés. Vive en Maracaibo, Venezuela. Conoce a todo el mundo. Habla con todo el mundo. Es como doña Marta, pero venezolana. Y con teléfono." },
+        { "voice": "andres", "text": "Le voy a pedir un favor a mi tía." },
+        { "voice": "narrator", "text": "¿Un favor? Un favor es una ayuda. Tú necesitas algo. Un amigo lo hace por ti, gratis. Eso es un favor. Andrés necesita un favor doble. Primero: encontrar a Beto. Segundo: hacerle la pregunta de los satélites." },
+        { "voice": "narrator", "text": "¿Y cómo habla Andrés con su tía? Con notas de voz, claro. ¿Una nota de voz? Es un mensaje de audio, del teléfono. Aprietas el botón, hablas, y mandas tu voz. ¿Mandar? Mandar es hacer llegar algo a otra persona. Mandas un mensaje. Mandas dinero. Mandas saludos. Y la otra persona lo recibe." },
+        { "voice": "narrator", "text": "Andrés apretó el botón. Y habló con voz de sobrino bueno." },
+        { "voice": "andres", "text": "Tía, bendición. ¿Cómo está? Aquí todo bien, trabajando mucho. Mire, necesito un favor. Necesito una información de Beto. Pregúntele una cosa de trabajo. ¿Pasó un satélite por el cielo de Bogotá esta semana? ¿Entre las tres y las cinco de la mañana? Es importante, tía. La quiero mucho. Saludos a todos." },
+        { "voice": "narrator", "text": "¿Bendición? En Venezuela, la familia dice bendición. Es un saludo de amor y de respeto. ¿Y un saludo? Un saludo es un hola. Buenos días es un saludo. Un beso es un saludo. Andrés mandó saludos a todos. Y después... esperó." }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "La nota de Chela llegó al día siguiente, por la tarde. Andrés miró su teléfono y sonrió. Una nota de voz. De la tía Chela. Cuatro minutos y medio." },
+        { "voice": "andres", "text": "Doctora, venga. Esto es un evento cultural." },
+        { "voice": "narrator", "text": "Camila se sentó. Andrés apretó el botón. Y Maracaibo entró al observatorio." },
+        { "voice": "chela", "text": "¡Chamo! ¡Mi niño bello! Dios te bendiga. ¿Cómo estás? ¿Estás comiendo bien? Aquí todo bien, gracias a Dios. Bueno, bien no. Hace un calor horrible, chamo. Cuarenta grados. El ventilador de la sala murió el martes. Murió trabajando, el pobre." },
+        { "voice": "chela", "text": "Te cuento las noticias. La vecina Yubisay tiene novio nuevo. Un señor de Valencia, muy elegante. Pero a mí no me gusta. Vino a la casa y no comió nada. Nada, chamo. Un hombre que no come esconde algo." },
+        { "voice": "chela", "text": "La luz se fue dos veces esta semana. Otro apagón grande el sábado. Tu tío sacó las sillas a la calle. Y jugamos dominó con los vecinos, hasta tarde. Perdí. Tu tío hace trampa. Juega sucio, tú sabes. Pero no tengo pruebas todavía." },
+        { "voice": "chela", "text": "Ah, el hijo de Nelly se casó. La fiesta fue en el patio. Bailamos hasta las dos de la mañana. Me dolieron las piernas tres días. Pero qué fiesta tan buena, chamo." },
+        { "voice": "chela", "text": "Ah, y hablé con Beto. Le hice tu pregunta rara. Beto revisó los datos de su trabajo. Dice que esta semana no pasó ningún satélite por ahí. Ninguno, chamo. Ni martes, ni miércoles, ni jueves. Dice que estás loco. Yo le dije: loco no, curioso. Como su papá." },
+        { "voice": "chela", "text": "Bueno, mi amor, me voy. La novela empieza en cinco minutos. Saludos a esa doctora colombiana. Dile que te cuide. Come bien. Duerme. Bendición para ti, chamo. Chao, chao, chao." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Silencio en el observatorio. Camila miró a Andrés. Andrés sonreía, tranquilo, con cara de familia. Camila tenía mil preguntas. Empezó por la más simple." },
+        { "voice": "camila", "text": "¿Qué es chamo?" },
+        { "voice": "narrator", "text": "Ah, buena pregunta. Chamo es una palabra venezolana. Significa muchacho, chico, joven. En Venezuela, todo el mundo dice chamo. Chamo, ven. Chama, mira esto. La tía Chela dice chamo en cada frase. Para ella, Andrés siempre es su chamo. Andrés tiene treinta y cuatro años. No importa. Es su chamo." },
+        { "voice": "camila", "text": "Entiendo. ¿Y quién es Yubisay?" },
+        { "voice": "andres", "text": "La vecina de toda la vida, doctora. Concéntrese. ¿Escuchó la parte importante?" },
+        { "voice": "camila", "text": "Sí. El novio de Yubisay esconde algo. Un hombre que no come... eso es raro. Su tía tiene razón." },
+        { "voice": "andres", "text": "¡Doctora! ¡La parte del satélite!" },
+        { "voice": "narrator", "text": "Camila sonrió. Era una broma. Bueno, casi. La historia de Yubisay era muy buena. Las notas de Chela son así. Te llevan a Maracaibo. Te sientan en la sala. Y te olvidas del trabajo." }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Camila escuchó la nota otra vez. Y ahí estaba. En el minuto tres. Después del dominó, antes de la novela. La frase más importante de la semana." },
+        { "voice": "chela", "text": "Esta semana no pasó ningún satélite por ahí. Ninguno, chamo." },
+        { "voice": "narrator", "text": "Ningún satélite pasó por el cielo de Bogotá. Ni el martes, ni el miércoles. Y la señal llegó esas dos noches. Eso significa una cosa. La señal no es un satélite." },
+        { "voice": "narrator", "text": "Por primera vez, tienen una prueba. ¿Una prueba? Una prueba es información que muestra algo real. No es una opinión. No es una idea. Es un dato duro. Opinión: yo creo que no es un satélite. Prueba: ningún satélite pasó por ahí. ¿Ven la diferencia? Eso es una prueba." },
+        { "voice": "julio", "text": "Un momento. ¿Nuestra primera prueba científica... es una nota de voz? ¿De una tía?" },
+        { "voice": "andres", "text": "¿Y qué? Los datos de Beto son buenos. Beto trabaja con satélites hace veinte años." },
+        { "voice": "camila", "text": "Julio, no importa la forma. Importan los datos. Y estos datos son claros." },
+        { "voice": "narrator", "text": "Camila escribió en su cuaderno: satélite, no. Primera puerta cerrada. Se sintió bien. Raro, pero bien. Cerrar una puerta también es avanzar. Andrés levantó su termo, como una copa elegante." },
+        { "voice": "julio", "text": "¿Y le vamos a pagar algo a ese señor Beto?" },
+        { "voice": "andres", "text": "¿Pagar? Julio, esto fue un favor. Los favores no se pagan con dinero. Se pagan con otros favores. Algún día Beto va a necesitar algo. Y yo voy a estar ahí." },
+        { "voice": "andres", "text": "Por la tía Chela. La mejor científica de Maracaibo." },
+        { "voice": "camila", "text": "Queda mucho por comprobar. Mañana hacemos un trabajo serio. Vamos a pensar en todo. Todo lo aburrido que puede ser la señal." },
+        { "voice": "andres", "text": "¿Y si no es nada aburrido, doctora?" },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "Nadie dijo nada. A veces, el silencio dice más." }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real. Hoy viajamos a Maracaibo." },
+        { "voice": "narrator", "text": "Maracaibo es la segunda ciudad de Venezuela. Está al lado de un lago enorme. El lago de Maracaibo. Es el lago más grande de Suramérica. Debajo del lago hay petróleo. Mucho petróleo. Por eso Maracaibo fue una ciudad muy rica." },
+        { "voice": "narrator", "text": "En Maracaibo hace calor. Mucho calor. Treinta y cinco grados, casi todos los días. Los maracuchos... así se llama la gente de Maracaibo... viven con ese calor. Ellos dicen: aquí no hay invierno. Hay calor, y más calor." },
+        { "voice": "narrator", "text": "Sobre el lago pasa algo increíble. Casi todas las noches caen rayos. Rayos y rayos, por horas, sin parar. Es un fenómeno famoso en el mundo entero. Tiene un nombre: el Catatumbo. Pero esa historia es muy grande. La vamos a contar otro día. Lo prometo." },
+        { "voice": "narrator", "text": "Los maracuchos son famosos en toda Venezuela. ¿Por qué? Por su forma de hablar. Hablan alto. Hablan rápido. Hablan con música. Son directos, calientes como su ciudad, y muy divertidos. La tía Chela es maracucha total. Ahora ustedes entienden sus notas de voz." },
+        { "voice": "narrator", "text": "Y ahora, el gran arte de Venezuela. No hablo de la pintura. Hablo de la nota de voz." },
+        { "voice": "narrator", "text": "En Venezuela, la nota de voz es un arte. Mucha gente no manda mensajes escritos. ¿Escribir? Qué frío. La gente manda su voz. Notas largas, con historias, con drama, con humor. Una buena nota de voz tiene de todo. Primero, los saludos. Después, noticias de la familia. Después, chisme de los vecinos. Y al final, la información importante. Siempre al final." },
+        { "voice": "narrator", "text": "¿Por qué es tan importante la nota de voz? Por la migración. Millones de venezolanos viven fuera de su país. En Colombia, en Perú, en Chile, en España. Lejos de sus mamás, sus tías, sus vecinos. La nota de voz es el puente. Es la carta de nuestros tiempos. La voz de tu tía cruza la distancia. Y por cuatro minutos, estás en casa." },
+        { "voice": "narrator", "text": "La nota de voz tiene sus reglas. Regla uno: nunca vas directo al punto. Eso es de mala educación. Regla dos: los saludos son obligatorios. Saludas al principio y al final. Regla tres: el chisme de los vecinos es sagrado. Y regla cuatro, la más importante: la información grande va al final. Como el premio de la caja de cereal." },
+        { "voice": "narrator", "text": "La tía Chela manda notas de voz perfectas. Calor, vecinos, dominó, una boda. Y al final, como siempre, la bomba. Ningún satélite pasó por ahí, chamo." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repasamos. Andrés necesitaba una ayuda. Un favor. ¿Un favor? Algo que un amigo hace por ti, gratis. Le pidió el favor a su tía Chela. ¿Cómo? Con una nota de voz. Un mensaje de audio, por el teléfono. Andrés mandó su nota el lunes. Mandar: hacer llegar algo a otra persona. Y la tía Chela mandó la suya al día siguiente. Cuatro minutos y medio de arte puro." },
+        { "voice": "narrator", "text": "En la nota había saludos. Un saludo es un hola. Bendición es un saludo venezolano, de familia. Había noticias de los vecinos. ¿Un vecino? Una persona que vive al lado de tu casa. La vecina Yubisay, el novio que no come. Y había una palabra repetida: chamo. Chamo significa muchacho, en venezolano. Andrés es el chamo de su tía. Para siempre." },
+        { "voice": "narrator", "text": "Y al final de la nota, la información. Esta semana, ningún satélite pasó por el cielo. Pasar por: cruzar un lugar. La señal llegó igual, dos noches. Conclusión: la señal no es un satélite. Es la primera prueba. ¿Una prueba? Un dato que muestra algo real. No una opinión. Un dato." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Una pregunta para ti. ¿Tú mandas notas de voz? ¿Largas o cortas? Si un día recibes una nota venezolana, ya sabes. Escucha con calma. Disfruta el chisme. Y espera la bomba del final. Siempre hay una bomba al final." },
+        { "voice": "narrator", "text": "Mañana, Camila y Andrés van a pensar como detectives. ¿Qué más puede ser la señal? Van a escribir todas las ideas aburridas. Y las van a examinar, una por una. Hasta mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "el favor", "gloss": "favor" },
+    { "term": "la nota de voz", "gloss": "voice note / voice message" },
+    { "term": "el vecino / la vecina", "gloss": "neighbor" },
+    { "term": "el satélite", "gloss": "satellite" },
+    { "term": "pasar por", "gloss": "to pass through/by (a place)" },
+    { "term": "la prueba", "gloss": "proof, evidence" },
+    { "term": "la semana", "gloss": "week (refresh)" },
+    { "term": "mandar", "gloss": "to send" },
+    { "term": "el saludo", "gloss": "greeting" },
+    { "term": "chamo / chama", "gloss": "kid, dude (Venezuelan slang, circled)" }
+  ],
+  "vocab_recycled": [
+    { "from_day": 11, "items": ["el puesto", "el chisme", "la camioneta", "gris", "preguntar por", "el cliente"] },
+    { "from_day": 9, "items": ["el ritmo", "esperar", "el silencio"] },
+    { "from_day": 5, "items": ["pedir", "el origen", "desconocido/desconocida", "prometer"] }
+  ],
+  "show_notes_extra": "Lake Maracaibo really is South America's largest lake, and the Catatumbo lightning (teased today, told in full later) holds the world record for lightning frequency."
+}

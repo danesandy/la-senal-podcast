@@ -1,0 +1,168 @@
+{
+  "episode": "007",
+  "day": 7,
+  "arc": 1,
+  "title": "El venezolano",
+  "description": "The repair company sends an engineer to fix the storm damage. He arrives with a toolbox, a thermos he guards with his life, and opinions about arepas. Nothing at the observatory will be the same.",
+  "stage": "S1",
+  "duration_target_min": 20,
+  "segments": [
+    {
+      "name": "anteriormente",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "La Señal. Episodio siete. El venezolano." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Anteriormente. Una tormenta enorme pasó sobre el cerro. La lluvia golpeó el observatorio toda la noche. Un rayo cayó en la antena grande. El rayo dañó la antena. Ahora la antena no funciona. Está sorda. El generador salvó las computadoras, pero nada más." },
+        { "voice": "narrator", "text": "Camila está desesperada. La señal misteriosa llega a las tres y cuarenta y siete. Siempre a la misma hora. Es un patrón exacto. Pero con la antena dañada, nadie puede escuchar. Julio no sabe reparar el daño. El director Sarmiento llamó a una empresa de reparaciones. La empresa prometió mandar a alguien hoy. Camila espera un técnico. Pero no viene un técnico. Viene otra cosa. Viene una historia completa." }
+      ]
+    },
+    {
+      "name": "historia-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Son las nueve de la mañana. Un carro blanco sube el camino del cerro. El carro dice, en letras azules: Reparaciones Andinas. Es el carro de la empresa. ¿Qué es una empresa? Una empresa es una compañía. Un negocio. La empresa vende un servicio. Esta empresa vende reparaciones. Sarmiento paga a la empresa. Y la empresa manda a su gente." },
+        { "voice": "narrator", "text": "Del carro baja un hombre. Treinta y cuatro años, más o menos. Camisa azul de trabajo. En la mano derecha, una caja de herramientas. ¿Qué son las herramientas? Las herramientas son los instrumentos del trabajo. El martillo es una herramienta. El destornillador es una herramienta. Las herramientas de este hombre se ven viejas, pero limpias. Muy bien organizadas. Y en la mano izquierda... un termo." },
+        { "voice": "narrator", "text": "¿Qué es un termo? Un termo es una botella especial. Una botella que guarda el calor. Pones café caliente en el termo por la mañana. Y por la tarde, el café todavía está caliente. Este hombre carga su termo como otros cargan un bebé." },
+        { "voice": "andres", "text": "Buenos días. Vengo de la empresa. Busco a la doctora Rey." },
+        { "voice": "camila", "text": "Soy yo. ¿Usted es el técnico?" },
+        { "pause": 1.5 },
+        { "voice": "andres", "text": "Ingeniero. Andrés Materán, ingeniero electricista. Pero tranquila, doctora. También reparo cosas." },
+        { "voice": "narrator", "text": "Un ingeniero. ¿Cuál es la diferencia? Un técnico repara máquinas. Un ingeniero entiende las máquinas. Las diseña. Las calcula. Un ingeniero estudia años en la universidad. Andrés Materán es ingeniero. Ingeniero electricista, de Caracas, Venezuela. Camila escucha su acento y entiende: venezolano." },
+        { "voice": "camila", "text": "Perfecto, ingeniero. Venga rápido, por favor. Tenemos una emergencia. La antena grande está dañada y el tiempo..." },
+        { "voice": "andres", "text": "Doctora, doctora. Un momento. Primero el problema completo, después la carrera. ¿Qué pasó exactamente?" },
+        { "voice": "narrator", "text": "Camila habla rápido: la tormenta, el rayo, la antena, el generador enfermo. Andrés escucha todo con calma. No escribe nada. Solo escucha y toma café de su termo. Camila está impaciente. Este hombre es lento, piensa ella. Se equivoca. Andrés no es lento. Andrés es preciso. Hay una diferencia. La vamos a ver." }
+      ]
+    },
+    {
+      "name": "historia-2",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.1,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Primero, el generador. Andrés abre la máquina con sus herramientas. Mira adentro dos minutos, en silencio. Después sonríe, como un doctor con un paciente fácil." },
+        { "voice": "andres", "text": "Ah, ya veo. Ya veo. Chévere." },
+        { "voice": "camila", "text": "¿Chévere? El generador está medio muerto. ¿Qué tiene de chévere?" },
+        { "voice": "andres", "text": "Chévere significa que tiene solución, doctora. En Venezuela, todo lo bueno es chévere. Una buena noticia es chévere. Un buen café es chévere. Y un problema con solución es muy chévere." },
+        { "voice": "narrator", "text": "Chévere. Recuerda esta palabra. Es una palabra venezolana. Significa: bueno, excelente, genial. Los venezolanos la usan todo el tiempo. ¿La fiesta estuvo buena? Estuvo chévere. ¿Tu amigo es buena gente? Es un tipo chévere. Andrés la dice quizás cien veces al día." },
+        { "voice": "narrator", "text": "Andrés trabaja en el generador una hora. Solo una hora. Cambia dos piezas. Limpia los cables con cuidado. Y el generador vuelve a la vida. Ya no tose. Ahora canta, suave y contento." },
+        { "voice": "julio", "text": "Una hora. Camila, este señor arregló en una hora nuestro generador de veinte años." },
+        { "voice": "narrator", "text": "Arreglar. ¿Qué significa arreglar? Arreglar es reparar. Componer una cosa dañada. La cosa no funciona. Tú la arreglas. Y funciona otra vez. Andrés arregló el generador. Ahora viene lo difícil: la antena." },
+        { "voice": "narrator", "text": "Andrés camina alrededor de la antena grande. Toca los cables. Mira el motor quemado. Sube un poco, baja otra vez. Toma café de su termo. Piensa. Y después dice la frase importante." },
+        { "pause": 2.0 },
+        { "voice": "andres", "text": "Doctora... el rayo no es su problema real. Esto está mal instalado desde el principio." },
+        { "voice": "camila", "text": "¿Cómo que mal instalado?" },
+        { "voice": "andres", "text": "Mal instalado. Mire ese cable. Va por fuera, sin protección. Mire esa conexión a tierra. Está mal hecha desde el primer día. Por eso el rayo entró tan fácil. La tormenta solo terminó un trabajo mal empezado." },
+        { "voice": "narrator", "text": "Instalar. ¿Qué significa instalar? Instalar es poner una máquina en su lugar, lista para funcionar. Los técnicos instalaron esta antena hace veinte años. Y la instalaron mal. Desde el principio. El principio: el primer momento, el comienzo de todo. Un problema desde el principio es el peor problema." },
+        { "voice": "camila", "text": "¿Y usted puede arreglarla? ¿Bien? ¿Como debe ser?" },
+        { "voice": "andres", "text": "Puedo. Pero necesito dos días, quizás tres. Y voy a instalar todo de nuevo, desde el principio. Bien hecho esta vez." },
+        { "voice": "camila", "text": "No tenemos tres días. La necesito esta noche." },
+        { "pause": 1.5 },
+        { "voice": "andres", "text": "¿Esta noche? Doctora, ¿qué escucha usted con esta antena? ¿Qué es tan urgente?" },
+        { "voice": "narrator", "text": "Camila abre la boca. Y la cierra. No puede contar la verdad. Un ruido del cielo, a las tres y cuarenta y siete. Un patrón. Suena a locura. Suena a fantasmas. Y su jefe dijo: no hables de fantasmas." },
+        { "voice": "camila", "text": "Estrellas, ingeniero. Escucho estrellas. Es mi trabajo." },
+        { "voice": "andres", "text": "Mmm. Las estrellas llevan ahí millones de años, doctora. Pueden esperar tres días más." },
+        { "voice": "camila", "text": "Estas estrellas no." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Andrés la mira un momento largo. Hay algo en la cara de Camila. Algo que él conoce bien. Él vio esa cara antes, en Caracas, en el espejo. La cara de una persona con un secreto grande. No pregunta más. Todavía no." }
+      ]
+    },
+    {
+      "name": "historia-3",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mediodía. Hora del almuerzo. Andrés se sienta afuera, al sol. Abre su bolsa de comida. Y saca su almuerzo: una arepa. Una arepa grande, rellena de carne y queso. Camila pasa y la mira." },
+        { "voice": "camila", "text": "Ah, una arepa. Qué bien. Aunque las arepas de verdad son las de acá, ¿no? Las nuestras, las colombianas." },
+        { "pause": 2.5 },
+        { "voice": "narrator", "text": "Silencio total. Andrés deja de comer. Pone la arepa en la mesa, despacio. Con mucho cuidado. Como un policía pone su arma en la mesa. Y mira a Camila." },
+        { "voice": "andres", "text": "Doctora. Yo respeto su observatorio. Respeto sus estrellas. Pero no me toque la arepa." },
+        { "voice": "camila", "text": "¿Qué? Solo digo la verdad. La arepa colombiana es simple, honesta. La de ustedes lleva medio mercado adentro." },
+        { "voice": "andres", "text": "¡Porque la arepa es una comida, no un plato vacío! La arepa venezolana lleva carne, queso, aguacate. Vida, doctora. La de ustedes es pan sin sueños." },
+        { "voice": "narrator", "text": "¿Qué es una arepa? Vamos con calma, porque el tema es delicado. La arepa es una comida de maíz. Redonda, caliente, deliciosa. Se come en Colombia y en Venezuela. Los colombianos la comen simple, con mantequilla o queso. Los venezolanos la abren y la rellenan de todo. ¿Cuál es mejor? Cuidado. Esa pregunta termina amistades. Esa pregunta separa familias. Es la gran guerra de la arepa. Y hoy, en un cerro cerca de Bogotá, empezó una batalla nueva." },
+        { "voice": "camila", "text": "Pan sin sueños. Qué poeta. ¿Así hablan todos los ingenieros de Caracas?" },
+        { "voice": "andres", "text": "Solo los que tienen razón, doctora." },
+        { "voice": "narrator", "text": "Tener razón. ¿Qué significa tener razón? Tienes razón cuando lo que dices es verdad. Dos más dos son cuatro: tienes razón. Andrés cree que él tiene razón sobre las arepas. Camila cree que ella tiene razón. Los dos no pueden tener razón al mismo tiempo. ¿O sí?" },
+        { "voice": "julio", "text": "Camila, déjalo comer. El hombre arregla rápido y pelea bien. Me cae bien." },
+        { "voice": "narrator", "text": "Julio decide hacer amistad con el ingeniero. Ve el termo en la mesa y tiene una idea terrible." },
+        { "voice": "julio", "text": "Oiga, ingeniero, ¿me regala un poquito de su café? El de la oficina sabe a agua triste." },
+        { "pause": 2.0 },
+        { "voice": "andres", "text": "Julio. Usted me cae bien. Por eso le voy a explicar esto una sola vez. Este termo vino conmigo desde Caracas. Este termo cruzó la frontera conmigo. Este café lo preparo yo, cada mañana, con un método secreto de mi tía Chela. Puedo prestarle mis herramientas. Puedo prestarle mi carro. El termo, no." },
+        { "voice": "julio", "text": "Entendido. El termo no. ¿Y las herramientas sí?" },
+        { "voice": "andres", "text": "Tampoco. Eso fue teoría." },
+        { "voice": "narrator", "text": "Esa tarde, Andrés trabaja en la antena hasta muy tarde. No tiene que hacerlo. Su contrato dice: ocho horas. Pero se queda. Trabaja con sus herramientas bajo las luces del observatorio. De vez en cuando mira el cielo. Y en el observatorio, Camila lo mira trabajar por la ventana. Este ingeniero es diferente, piensa. Preciso. Rápido. Y defendió su arepa con honor. Quizás, solo quizás, es una persona de confianza." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Mañana, la reparación grande. Y una conversación que cambia todo." }
+      ]
+    },
+    {
+      "name": "mundo-real",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Mundo real. Hoy: los vecinos que llegaron." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Primero, una imagen. Un hombre baja de un carro con una caja de herramientas. Habla con otro acento. Trabaja rápido y bien. ¿De dónde viene? ¿Por qué está aquí? Hoy contamos esa historia. Sin política. Solo personas." },
+        { "voice": "narrator", "text": "Andrés Materán es de Venezuela. Y su historia es la historia de millones de personas. Colombia y Venezuela son países hermanos. Comparten una frontera enorme, de más de dos mil kilómetros. Comparten música, comida, familias. Y comparten la arepa, con guerra incluida." },
+        { "voice": "narrator", "text": "Durante muchos años, el camino iba en una dirección. Venezuela era rica. Tenía petróleo, trabajo, dinero. Miles de colombianos fueron a Venezuela a trabajar. Buscaban una vida mejor. Y muchos la encontraron allá." },
+        { "voice": "narrator", "text": "Después, la historia cambió de dirección. La economía de Venezuela cayó. Faltaba comida, faltaba medicina, faltaba electricidad. Y millones de venezolanos salieron de su país. Médicos, ingenieros, profesores, familias completas. Caminaron por las mismas carreteras, pero al revés. Muchos llegaron a Colombia. Hoy, millones de venezolanos viven aquí." },
+        { "voice": "narrator", "text": "Piensa en esto un momento. Un ingeniero con diez años de experiencia llega a otro país. Sus papeles no valen inmediatamente. Su experiencia no vale inmediatamente. Entonces maneja un taxi. Entrega comida. Vende café en la calle. Y espera su oportunidad. En Bogotá, en Medellín, en todas las ciudades, hay ingenieros sirviendo cafés. Doctoras cuidando niños. Profesores manejando motos de entregas." },
+        { "voice": "narrator", "text": "¿Es fácil? No. ¿Hay problemas entre vecinos? A veces sí, como en toda familia. Pero también hay algo más fuerte. Los dos países se conocen. Se entienden. Bailan la misma música. Ríen de los mismos chistes. Y cuando un venezolano y una colombiana pelean por la arepa... pelean como primos. Porque eso son. Primos. La gran migración es una historia dura. Pero también es una historia de puertas abiertas. Y de mesas compartidas. Con arepas de los dos tipos, por supuesto." }
+      ]
+    },
+    {
+      "name": "repaso",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Repaso. Las palabras de hoy, con la historia de hoy." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Hoy llegó un ingeniero al observatorio. No un técnico: un ingeniero. Una persona que entiende las máquinas y las diseña. Se llama Andrés Materán. Es de Caracas, Venezuela. ¿Quién lo mandó? La empresa. La compañía de reparaciones. Sarmiento paga a la empresa, y la empresa manda al ingeniero." },
+        { "voice": "narrator", "text": "Andrés llegó con dos cosas. Una caja de herramientas: sus instrumentos de trabajo, viejos pero perfectos. Y un termo: la botella que guarda su café caliente. No toques el termo de Andrés. Nunca toques el termo de Andrés." },
+        { "voice": "narrator", "text": "Andrés arregló el generador en una hora. Arreglar: reparar, componer algo dañado. Después miró la antena y encontró la verdad. La antena está mal instalada. Instalada mal desde el principio. Desde el primer día, hace veinte años. El rayo solo terminó el trabajo." },
+        { "voice": "narrator", "text": "¿Y qué comió Andrés? Una arepa. Comida de maíz, redonda y caliente. Camila dijo: las arepas colombianas son mejores. Y empezó la guerra. Andrés defendió la arepa venezolana con su vida. ¿Quién tiene razón? ¿Quién dice la verdad? Yo no opino. Yo solo cuento la historia. Pero Andrés dice que todo lo bueno es chévere. El café es chévere. Su arepa es chévere. Y arreglar esta antena vieja... va a ser muy chévere." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Mañana: manos a la obra. La reparación grande empieza. Y vamos a conocer la historia de Andrés. Caracas, los apagones, y el camino a Colombia. Nos vemos mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [
+    { "term": "el ingeniero / la ingeniera", "gloss": "engineer" },
+    { "term": "arreglar", "gloss": "to fix, repair" },
+    { "term": "la herramienta", "gloss": "tool" },
+    { "term": "la empresa", "gloss": "company, firm" },
+    { "term": "instalar", "gloss": "to install" },
+    { "term": "el principio", "gloss": "the beginning ('desde el principio')" },
+    { "term": "el termo", "gloss": "thermos" },
+    { "term": "la arepa", "gloss": "arepa (corn cake — contested territory)" },
+    { "term": "tener razón", "gloss": "to be right" },
+    { "term": "chévere", "gloss": "cool, great (Venezuelan slang)" }
+  ],
+  "vocab_recycled": [
+    { "term": "la tormenta", "from_day": 6 },
+    { "term": "el rayo", "from_day": 6 },
+    { "term": "dañar / dañado", "from_day": 6 },
+    { "term": "el generador", "from_day": 6 },
+    { "term": "funcionar", "from_day": 6 },
+    { "term": "el técnico", "from_day": 6 },
+    { "term": "la ventana", "from_day": 6 },
+    { "term": "la lluvia", "from_day": 6 },
+    { "term": "el patrón", "from_day": 4 },
+    { "term": "exacto/exacta", "from_day": 4 },
+    { "term": "mismo/misma (la misma hora)", "from_day": 4 }
+  ],
+  "show_notes_extra": "Day 7 is the last day English framing is allowed; this episode uses none. From day 8 onward the show is 100% Spanish."
+}

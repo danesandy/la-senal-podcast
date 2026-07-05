@@ -16,9 +16,9 @@
       "turns": [
         { "voice": "narrator", "text": "Anteriormente, en La Señal." },
         { "pause": 1.5 },
-        { "voice": "narrator", "text": "Ayer fue la víspera. Todos comprobaron todo, dos veces. Dieciséis antenas pequeñas esperan en dieciséis techos. La antena grande de don Ramiro apunta a la posición exacta. Camila miró el atlas de su padre. Andrés mandó una nota de voz a Maracaibo. El Flaco pulió su taxi, por si acaso. Julio rezó una oración corta. Y sobre los llanos, las nubes negras se acercan. El modelo de Andrés predice la señal a las tres y cincuenta y dos. Esta noche. Esta madrugada." },
+        { "voice": "narrator", "text": "Ayer fue la víspera. Todos comprobaron todo, dos veces. Dieciséis antenas pequeñas esperan en dieciséis techos. La antena grande de don Ramiro apunta a la posición exacta. Camila miró el atlas de su padre. Andrés mandó una nota de voz a Maracaibo. El Flaco pulió su taxi, por si acaso. Julio rezó una oración corta. Y sobre los llanos, las nubes negras se acercan. El modelo de Andrés predice la señal a las tres y cincuenta y dos. Esta noche. Esta madrugada. Dieciséis techos. Una antena grande. Un país entero con las orejas abiertas." },
         { "pause": 2.0 },
-        { "voice": "narrator", "text": "Esta es la noche. Respira. Vamos." }
+        { "voice": "narrator", "text": "Esta es la noche. La noche del mes. La noche del año, quizás. Respira. Vamos." }
       ]
     },
     {
@@ -31,15 +31,24 @@
         { "voice": "narrator", "text": "Tres de la mañana. El observatorio está lleno de luz y de nervios. Camila mira tres pantallas al mismo tiempo. Julio revisa los datos de la red. Andrés habla por radio con los llanos. Y El Flaco… El Flaco tiene su teléfono en la mano." },
         { "voice": "elflaco", "text": "Doctora, una pregunta chiquita. ¿Esto va en vivo? Porque mi audiencia…" },
         { "voice": "camila", "text": "¡Flaco! ¡Nada de en vivo! Lo juraste. ¿Recuerdas el trato?" },
-        { "voice": "elflaco", "text": "Sí, sí, el trato. La entrevista cuando todo salga a la luz. Está bien. Pero conste: esta es la noche más grande de la historia de mi programa. Y mi programa ni siquiera está aquí." },
-        { "voice": "narrator", "text": "En vivo. Hablemos de eso un segundo. Una cosa en vivo pasa ahora mismo. La ves o la escuchas en el momento exacto. Un partido de fútbol en vivo. Un concierto en vivo. La radio en vivo. El Flaco quiere su programa en vivo. Camila dice no. El teléfono del Flaco se queda en el bolsillo. Por ahora." },
+        { "voice": "elflaco", "text": "Sí, sí, el trato. La entrevista el día de la verdad. Está bien. Pero lo digo aquí: esta es la noche más grande de la historia de mi programa. Y mi programa ni siquiera está aquí." },
+        { "voice": "narrator", "text": "En vivo. Vamos a hablar de eso un segundo. Una cosa en vivo pasa ahora mismo. La ves o la escuchas en el momento exacto. Un partido de fútbol en vivo. Un concierto en vivo. Las noticias de la mañana son en vivo. El Flaco quiere su programa en vivo. Camila dice no. El teléfono del Flaco se queda en el bolsillo. Por ahora." },
+        { "voice": "narrator", "text": "Vamos a visitar la red, estación por estación. Como un comentarista de fútbol. Pero esta noche, El Flaco no es el comentarista. Esta noche, el comentarista soy yo." },
+        { "voice": "elflaco", "text": "Oiga, ese puesto es mío. Yo soy el comentarista oficial del grupo." },
+        { "voice": "camila", "text": "Tú eres el jefe de logística, Flaco. Y el taxista. Y el del café." },
+        { "voice": "elflaco", "text": "Jefe de logística, comentarista, taxista y cafetero. Cuatro trabajos, cero pago. Este proyecto es muy bonito, pero paga fatal." },
         { "pause": 1.5 },
         { "voice": "narrator", "text": "Por la radio llega la voz de don Ramiro, en vivo desde los llanos. Detrás de su voz se escucha el viento. Y algo más, lejos: la tormenta." },
         { "voice": "aux_m", "text": "Aquí Ramiro. La tormenta está cerca, muchachos, pero todavía no llega. La antena apunta bien. El perro está conmigo. Estamos listos." },
+        { "voice": "narrator", "text": "En Bucaramanga, el jubilado toma tinto en su techo. Sus tres antenas apuntan al cielo. En el pueblo de la monja, las dos antenas esperan al lado de la iglesia. La monja les puso nombres: Fe y Esperanza." },
+        { "voice": "elflaco", "text": "¿La monja les puso nombre a las antenas?" },
+        { "voice": "julio", "text": "Fe y Esperanza." },
+        { "voice": "elflaco", "text": "Me encanta esa señora." },
         { "voice": "julio", "text": "Bucaramanga lista. La monja dice que sus dos antenas funcionan. Las dieciséis orejas están despiertas." },
         { "voice": "andres", "text": "El modelo dice tres cincuenta y dos. Faltan veinte minutos." },
+        { "voice": "narrator", "text": "El ingeniero confía en su modelo. Camila confía en el ingeniero. Julio confía en Dios y en el generador. Por si acaso." },
         { "pause": 2.0 },
-        { "voice": "narrator", "text": "Veinte minutos. ¿Saben cuántos segundos son veinte minutos? Mil doscientos segundos. Un segundo es corto: uno. Ya pasó. Pero esta noche, cada segundo pesa. Cada segundo es una piedra pequeña. Y hay mil doscientas piedras." },
+        { "voice": "narrator", "text": "Veinte minutos. ¿Saben cuántos segundos son veinte minutos? Mil doscientos segundos. Un segundo es corto: uno. Ya pasó. Pero esta noche, cada segundo pesa. Cada segundo es una piedra pequeña. Y hay mil doscientas piedras. Camila cuenta los segundos sin querer. Sesenta. Cincuenta y nueve. Cincuenta y ocho. El reloj de la pared suena enorme esta noche." },
         { "voice": "narrator", "text": "Camila toma café frío. Andrés abraza su termo. Julio mira el reloj. El reloj no mira a nadie. Tic. Tac. Tic. Tac." }
       ]
     },
@@ -50,7 +59,8 @@
       "inter_sentence_pause_s": 1.1,
       "inter_turn_pause_s": 1.6,
       "turns": [
-        { "voice": "narrator", "text": "Tres y cincuenta y uno. Nadie habla. Nadie se mueve. El Flaco, por primera vez en su vida, está en silencio total." },
+        { "voice": "narrator", "text": "Tres y cincuenta y uno. Nadie habla. Nadie se mueve. El Flaco está callado. ¿El Flaco? ¿Callado? Sí. Callado, por primera vez en su vida." },
+        { "voice": "narrator", "text": "Miren el cuarto un momento. El café está frío. Las pantallas brillan. En la pared hay un mapa con dieciséis puntos. Cada punto es un techo. Cada techo, una persona de esta historia. Don Ramiro y su perro. El jubilado y su tinto. La monja y sus antenas con nombre. Doña Marta duerme abajo. Bueno: ella dice que duerme. Todos sabemos que escucha." },
         { "voice": "andres", "text": "Treinta segundos." },
         { "pause": 2.0 },
         { "voice": "andres", "text": "Diez. Nueve. Ocho…" },
@@ -73,8 +83,12 @@
         { "voice": "narrator", "text": "La señal llega como un tren. Fuerte. Más fuerte que nunca. Llena las tres pantallas de Camila. Llena la antena de don Ramiro. Llena las dieciséis orejas pequeñas, en dieciséis techos, al mismo tiempo. Todo el país la escucha. Bogotá. Bucaramanga. Los llanos. La misma voz del cielo, en todas partes." },
         { "voice": "camila", "text": "La tengo. ¡La tengo! Todas las estaciones, ¡confirmen!" },
         { "voice": "julio", "text": "Bucaramanga la tiene. La monja la tiene. ¡Todos la tienen!" },
+        { "voice": "narrator", "text": "En Bucaramanga, el jubilado grita como un niño. En el pueblo, la monja no grita. La monja sonríe y anota la hora exacta. Fe y Esperanza escucharon las dos. Y el ingeniero tenía razón: tres cincuenta y dos. El taxista, el jubilado, la monja, la doctora: todos escucharon lo mismo, al mismo tiempo." },
         { "voice": "narrator", "text": "Camila tiene la piel de gallina. ¿La piel de gallina? Miren su brazo. La piel se pone como la piel de un pollo. Puntos pequeños, por todas partes. Pasa con el frío. Pasa con el miedo. Y pasa con esto: con algo demasiado grande. Andrés también tiene la piel de gallina. El corazón le late fuerte en el pecho. El pecho: el centro del cuerpo, donde vive el corazón. Bum. Bum. Bum." },
-        { "voice": "elflaco", "text": "Doctora… yo hablo mucho, usted sabe. Pero ahora mismo no tengo palabras. Ni una." }
+        { "voice": "narrator", "text": "El corazón de Julio también late rápido. El de El Flaco late como un tambor de fiesta. Cuatro corazones laten fuerte, en cuatro pechos, en un cuarto pequeño. ¿Recuerdan el día nueve? Latir: el ritmo del corazón. Tac, tac, tac. Esta noche, todo late." },
+        { "voice": "elflaco", "text": "Doctora… yo hablo mucho, usted sabe. Pero ahora mismo no tengo palabras. Ni una." },
+        { "voice": "camila", "text": "Julio, ¿la grabación está completa?" },
+        { "voice": "julio", "text": "Completa. Un minuto y siete segundos de señal. La más larga. La más fuerte. La tenemos entera." }
       ]
     },
     {
@@ -90,16 +104,28 @@
         { "voice": "camila", "text": "Ramiro. Repite eso." },
         { "voice": "aux_m", "text": "Tres segundos después de la señal, doctora. Tres segundos exactos. Algo contestó desde la tierra. Desde aquí abajo. Del suelo, de los llanos. Mi antena lo grabó. El perro lo sintió primero. Se los juro por mi madre: la tierra contestó." },
         { "pause": 3.0 },
+        { "voice": "aux_m", "text": "Y otra cosa, doctora. El perro miró la tierra ANTES de la señal. Siete segundos antes. Yo lo vi. ¿Cómo sabía el perro? ¿Quién le contó al perro?" },
+        { "voice": "narrator", "text": "Nadie contesta. Hay preguntas para la ciencia. Y hay preguntas para las tres de la mañana." },
+        { "pause": 2.0 },
         { "voice": "narrator", "text": "Nadie se mueve. Julio siente un escalofrío. ¿Un escalofrío? Es un frío que corre por la espalda. Rápido, como un animal pequeño. Un frío que no viene del clima. Viene del miedo. O del misterio. Julio siente un escalofrío. El Flaco siente otro. Quizás tú también." },
         { "voice": "andres", "text": "Un momento. Piensen. ¿Puede ser un eco? ¿Un reflejo en las montañas?" },
         { "voice": "camila", "text": "No. Un eco rebota igual: la misma forma, más débil. Esto llegó tres segundos después… y con OTRA forma. Más simple. Más corta. Eso no es un reflejo, Andrés. Eso es una respuesta." },
         { "voice": "narrator", "text": "Una respuesta. Contestar y responder: la misma cosa. Alguien pregunta, y alguien responde. El cielo mandó la señal. Y algo, en la tierra, mandó una respuesta. Pregunta… y respuesta. Como una conversación." },
         { "pause": 2.5 },
+        { "voice": "julio", "text": "¿Y si es un proyecto secreto? ¿Del gobierno? ¿Algo militar, debajo del suelo?" },
+        { "voice": "camila", "text": "¿Un proyecto secreto que le responde al cielo? Quizás. Mañana verificamos los datos, otra vez, con calma. Esta noche no podemos saber más." },
+        { "voice": "andres", "text": "El ingeniero de la casa dice una cosa. Eso de abajo no es humano… o es el proyecto humano más grande de la historia. Y las dos ideas dan frío." },
+        { "voice": "narrator", "text": "Y una cosa más, pequeña y enorme. El Flaco tenía razón. Su teoría de la víspera: la cosa no viene del cielo, viene de más cerca. El taxista tenía razón otra vez. Nadie se lo dice. No hay tiempo." },
         { "voice": "julio", "text": "¿Pero qué puede contestar desde el suelo? Ahí no hay nada. Los llanos son pasto y vacas. No hay laboratorios, no hay torres, no hay nada." },
         { "voice": "andres", "text": "Nada… arriba del suelo." },
         { "pause": 2.0 },
         { "voice": "narrator", "text": "Arriba del suelo, nada. Entonces la respuesta viene de abajo. De debajo del suelo. Debajo de: en la parte de abajo. El gato duerme debajo de la mesa. El dinero se esconde debajo de la cama. Y algo… algo contesta debajo de los llanos. Algo enterrado. ¿Enterrado? Metido debajo de la tierra. Cubierto de tierra. Un tesoro enterrado. Una semilla enterrada. Algo enterrado, en los llanos, que escucha el cielo. Y le responde." },
         { "pause": 3.0 },
+        { "voice": "elflaco", "text": "Doctora… ¿puedo decir una cosa? El taxi está limpio. Pulido. Listo. Por si acaso." },
+        { "voice": "camila", "text": "Todavía no, Flaco." },
+        { "voice": "elflaco", "text": "Todavía no. Pero pronto." },
+        { "pause": 2.0 },
+        { "voice": "narrator", "text": "Afuera, lejos, la tormenta por fin llega a los llanos. Los rayos bajan en silencio, detrás de las nubes. El cielo también tiene su ritual." },
         { "voice": "narrator", "text": "Camila mira la pantalla. La respuesta está ahí, grabada. Pequeña, simple, real. El corazón le late despacio ahora. Fuerte y despacio, como un tambor lejos. Camila no grita. Camila susurra. ¿Susurrar? Hablar bajito, muy bajito. Casi sin voz. Como un secreto en la oreja. Un susurro. Escuchen el susurro de Camila." },
         { "pause": 2.0 },
         { "voice": "camila", "text": "No está arriba. También está aquí." },
@@ -114,7 +140,8 @@
       "inter_turn_pause_s": 1.6,
       "turns": [
         { "voice": "narrator", "text": "Un minuto de mundo real, sin salir de la historia. ¿Qué ven Camila y Julio en la pantalla? La señal no se escucha como música. Se ve. La computadora dibuja el sonido. El dibujo es como una montaña de luz sobre un río negro. El río negro es el silencio del cielo. Y la montaña brillante es la señal." },
-        { "voice": "narrator", "text": "Los científicos llaman a esto una explosión de radio: mucha energía, poco tiempo. En el dibujo, la respuesta de la tierra es otra montaña. Más pequeña. Más simple. Tres segundos después. Dos montañas de luz, una grande y una pequeña. Una pregunta y una respuesta, dibujadas en la pantalla. Esta noche, ese dibujo cambió el mundo de nuestros amigos. Y ellos todavía no lo saben." }
+        { "voice": "narrator", "text": "Los científicos llaman a esto una explosión de radio: mucha energía, poco tiempo. En el dibujo, la respuesta de la tierra es otra montaña. Más pequeña. Más simple. Tres segundos después. Dos montañas de luz, una grande y una pequeña. Una pregunta y una respuesta, dibujadas en la pantalla. Una explosión así dura poco y dice mucho. Los científicos la miden en segundos. A veces, en menos de un segundo." },
+        { "voice": "narrator", "text": "Mañana el dibujo va a estar ahí. En la pantalla, quieto, esperando. Los dibujos no mienten. Los datos no mienten. Esa es la parte hermosa de la ciencia. Y la parte que da escalofríos." }
       ]
     },
     {
@@ -128,7 +155,8 @@
         { "voice": "narrator", "text": "La señal llegó tarde: a las tres cincuenta y dos, con cuarenta y siete segundos. Y tres segundos después, llegó una respuesta. Responder: contestar. Alguien pregunta, alguien responde. La respuesta no vino del cielo. Vino de debajo de los llanos. De algo enterrado: metido bajo la tierra." },
         { "voice": "narrator", "text": "Camila sintió la piel de gallina. Julio sintió un escalofrío, ese frío en la espalda. El corazón de Andrés latió fuerte en el pecho. Y Camila susurró, bajito, casi sin voz: no está arriba. También está aquí." },
         { "pause": 2.0 },
-        { "voice": "narrator", "text": "Mañana: ¿y ahora qué? Hasta mañana. Duerman… si pueden." }
+        { "voice": "narrator", "text": "Susurra tú también la frase, si quieres. Nadie te escucha. Bueno… eso creemos." },
+        { "voice": "narrator", "text": "Mañana viene la pregunta más difícil del mes: ¿y ahora qué hacemos? Hasta mañana. Duerman… si pueden." }
       ]
     }
   ],
@@ -158,13 +186,14 @@
     { "term": "apuntar", "from_day": 25 },
     { "term": "la posición", "from_day": 25 },
     { "term": "al mismo tiempo", "from_day": 25 },
-    { "term": "la luna", "from_day": 21 },
     { "term": "confiar", "from_day": 21 },
     { "term": "callado", "from_day": 21 },
+    { "term": "el proyecto", "from_day": 21 },
+    { "term": "secreto/secreta", "from_day": 21 },
+    { "term": "verificar", "from_day": 21 },
     { "term": "el ingeniero", "from_day": 7 },
     { "term": "el termo", "from_day": 7 },
-    { "term": "tener razón", "from_day": 7 },
-    { "term": "arreglar", "from_day": 7 }
+    { "term": "tener razón", "from_day": 7 }
   ],
   "show_notes_extra": "Climax episode: dramatic pauses are structural — do not trim them in assembly. The mundo-real segment is intentionally short and diegetic (the spectrogram as the characters see it); the story owns the airtime today."
 }
