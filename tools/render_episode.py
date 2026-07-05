@@ -83,7 +83,11 @@ def norm_text(t):
 
 
 def similarity(a, b):
-    return difflib.SequenceMatcher(None, norm_text(a), norm_text(b)).ratio()
+    # Word-level with autojunk off: char-level SequenceMatcher's autojunk
+    # heuristic silently tanks ratios on texts >200 chars.
+    return difflib.SequenceMatcher(
+        None, norm_text(a).split(), norm_text(b).split(), autojunk=False
+    ).ratio()
 
 
 def transcribe(wav_path, lang):
@@ -114,6 +118,10 @@ def synth_chunk(model, text, lang, voice_cfg, out_path):
     if "cfg_weight" in voice_cfg:
         kwargs["cfg_weight"] = voice_cfg["cfg_weight"]
     wav = model.generate(text, **kwargs)
+    # MPS output can exceed full scale / contain non-finite samples, which
+    # crashes LAME's psymodel downstream. Sanitize at the source.
+    import torch
+    wav = torch.nan_to_num(wav).clamp(-1.0, 1.0)
     torchaudio.save(out_path, wav, model.sr)
     return wav.shape[-1] / model.sr
 
@@ -261,7 +269,7 @@ def render_episode(script_path, voicebank, _depth=0):
     title = ep.get("title", f"Episodio {ep_id}")
     subprocess.run(
         ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", concat_list,
-         "-af", "loudnorm=I=-16:TP=-1.5:LRA=11",
+         "-af", "alimiter=limit=0.97,loudnorm=I=-16:TP=-1.5:LRA=11",
          "-ar", "44100", "-ac", "1", "-b:a", "64k",
          "-metadata", f"title={title}",
          "-metadata", "artist=La Señal",
