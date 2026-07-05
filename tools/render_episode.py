@@ -107,7 +107,31 @@ def transcribe(wav_path, lang):
         os.remove(tmp16)
 
 
+GEN_TRIES = 6
+SPEECH_MIN_CREST = 5.0   # good speech measures ~7–12; static ~1–3.5
+
+
+def speech_quality(wav_tensor, sr):
+    """Score how speech-like a waveform is. Chatterbox on MPS intermittently
+    emits sustained noise/static (uniform, low crest factor) instead of speech,
+    or near-silence. Returns a crest-factor-based score; higher = more
+    speech-like. Static reads ~1–3.5, real speech ~4–12."""
+    import torch
+    x = wav_tensor.flatten().float()
+    if x.numel() < int(sr * 0.15):
+        return 99.0  # too short to judge (tiny words) — accept
+    rms = x.pow(2).mean().sqrt().item()
+    peak = x.abs().max().item()
+    if rms < 1e-4:
+        return 0.0   # dead silence where speech was expected
+    return peak / (rms + 1e-9)
+
+
 def synth_chunk(model, text, lang, voice_cfg, out_path):
+    """Generate one chunk, self-healing against Chatterbox's stochastic
+    failures: catches generation crashes (alignment-analyzer IndexError etc.)
+    and rejects static takes, retrying and keeping the best attempt."""
+    import torch
     import torchaudio
     kwargs = {
         "language_id": lang,
@@ -117,13 +141,38 @@ def synth_chunk(model, text, lang, voice_cfg, out_path):
         kwargs["exaggeration"] = voice_cfg["exaggeration"]
     if "cfg_weight" in voice_cfg:
         kwargs["cfg_weight"] = voice_cfg["cfg_weight"]
-    wav = model.generate(text, **kwargs)
-    # MPS output can exceed full scale / contain non-finite samples, which
-    # crashes LAME's psymodel downstream. Sanitize at the source.
-    import torch
-    wav = torch.nan_to_num(wav).clamp(-1.0, 1.0)
-    torchaudio.save(out_path, wav, model.sr)
-    return wav.shape[-1] / model.sr
+
+    best_wav, best_score = None, -1.0
+    for attempt in range(GEN_TRIES):
+        try:
+            wav = model.generate(text, **kwargs)
+        except Exception as e:
+            print(f"[render]   gen attempt {attempt} crashed ({type(e).__name__}); retrying",
+                  flush=True)
+            continue
+        # MPS output can exceed full scale / contain non-finite samples, which
+        # crashes LAME's psymodel downstream. Sanitize at the source.
+        wav = torch.nan_to_num(wav).clamp(-1.0, 1.0)
+        score = speech_quality(wav, model.sr)
+        if score > best_score:
+            best_wav, best_score = wav, score
+        if score >= SPEECH_MIN_CREST:            # clean speech — keep it
+            break
+        print(f"[render]   gen attempt {attempt} looks like static "
+              f"(crest={score:.1f}); retrying", flush=True)
+
+    if best_wav is None:
+        # Every attempt crashed. Emit a short silence so the queue survives;
+        # the segment-level Whisper QC will flag the gap for a manual re-render.
+        print(f"[render]   ALL {GEN_TRIES} attempts crashed for: {text[:60]!r} "
+              f"— inserting silence", flush=True)
+        best_wav = torch.zeros(1, int(model.sr * 0.4))
+    elif best_score < SPEECH_MIN_CREST:
+        print(f"[render]   kept best-of-{GEN_TRIES} take (crest={best_score:.1f})",
+              flush=True)
+
+    torchaudio.save(out_path, best_wav, model.sr)
+    return best_wav.shape[-1] / model.sr
 
 
 def chunk_key(voice, lang, text):
@@ -187,6 +236,14 @@ def render_episode(script_path, voicebank, _depth=0):
             for ci, chunk in enumerate(chunks):
                 key = chunk_key(voice, tlang, chunk)
                 cpath = os.path.join(chunks_dir, key + ".wav")
+                # Reuse a cached chunk only if it is actually speech — a static
+                # take saved by an earlier (pre-fix) run must not be trusted.
+                if os.path.exists(cpath):
+                    cw, _ = torchaudio.load(cpath)
+                    if speech_quality(cw, sr) < SPEECH_MIN_CREST:
+                        print(f"[render] ep{ep_id}/{seg_name} [{voice}]: cached chunk "
+                              f"is static — regenerating", flush=True)
+                        os.remove(cpath)
                 if not os.path.exists(cpath):
                     t0 = time.time()
                     dur = synth_chunk(model, chunk, tlang, vcfg, cpath)
