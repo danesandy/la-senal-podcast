@@ -403,10 +403,42 @@ def render_episode(script_path, voicebank, _depth=0):
     return mp3_path, dur
 
 
+def acquire_global_lock():
+    """Exclusive lock so two renders can never run at once. Concurrent renders
+    write the same chunk-cache paths and corrupt each other's WAVs (they read
+    back as static/drone) — the cause of the ep000 static. Stale locks from a
+    dead process are reclaimed."""
+    lockdir = os.path.join(WORK, ".render.lock")
+    pidfile = os.path.join(lockdir, "pid")
+    for _ in range(2):
+        try:
+            os.makedirs(lockdir)
+            with open(pidfile, "w") as f:
+                f.write(str(os.getpid()))
+            return lockdir
+        except FileExistsError:
+            try:
+                with open(pidfile) as f:
+                    other = int(f.read().strip())
+                os.kill(other, 0)  # alive?
+                print(f"[render] another render (pid {other}) holds the lock — exiting",
+                      flush=True)
+                sys.exit(0)
+            except (ProcessLookupError, ValueError, FileNotFoundError):
+                print("[render] reclaiming stale render lock", flush=True)
+                shutil.rmtree(lockdir, ignore_errors=True)
+    print("[render] could not acquire lock — exiting", flush=True)
+    sys.exit(0)
+
+
 def main():
     if len(sys.argv) < 2:
         print(__doc__)
         sys.exit(1)
+    os.makedirs(WORK, exist_ok=True)
+    lockdir = acquire_global_lock()
+    import atexit
+    atexit.register(lambda: shutil.rmtree(lockdir, ignore_errors=True))
     if not os.path.exists(WHISPER_MODEL):
         os.makedirs(os.path.dirname(WHISPER_MODEL), exist_ok=True)
         print("[render] downloading whisper.cpp small model for QC...", flush=True)
