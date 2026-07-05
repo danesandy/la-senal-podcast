@@ -1,0 +1,55 @@
+#!/bin/bash
+# La Señal control panel. Run:  ~/la-senal-podcast/senal <command>
+#   status   — what's published, what's rendering, how far along
+#   start    — start/resume rendering the current queue now
+#   stop     — stop rendering (safe; resumes from cache next time)
+#   next     — (alias for start) render the next pending episodes
+#   log      — live tail of the render log
+PROJ="/Users/danesandy/la-senal-podcast"
+LABEL="com.lasenal.produce"
+cd "$PROJ" || exit 1
+
+cmd="${1:-status}"
+case "$cmd" in
+  status)
+    echo "📡 La Señal — status"
+    echo "-------------------------------------------"
+    pub=$(python3 -c "import json;e=json.load(open('episodes.json'))['episodes'];print(len(e))" 2>/dev/null)
+    total=$(ls scripts/ep*.json 2>/dev/null | wc -l | tr -d ' ')
+    echo "Published & on your phone : $pub of $total episodes written"
+    if pgrep -f render_episode >/dev/null; then
+      cur=$(ls -td audio-work/ep* 2>/dev/null | head -1 | xargs basename 2>/dev/null)
+      segs=$(ls audio-work/$cur/segments/*.wav 2>/dev/null | wc -l | tr -d ' ')
+      echo "Rendering now             : $cur (segment $segs of ~6)"
+      echo "Status                    : ✅ RUNNING"
+    else
+      echo "Rendering now             : (idle)"
+      echo "Status                    : ⏸  not running — run '$0 start' to resume"
+    fi
+    echo "Runs automatically at     : 1:00 AM and 1:00 PM daily"
+    echo "Feed                      : https://danesandy.github.io/la-senal-podcast/feed.xml"
+    ;;
+  start|next|resume)
+    rmdir audio-work/.produce.lock 2>/dev/null
+    if pgrep -f render_episode >/dev/null; then
+      echo "Already rendering. Use '$0 status' to watch."
+    else
+      launchctl kickstart gui/$(id -u)/$LABEL 2>/dev/null
+      echo "▶️  Started. Rendering + publishing any unpublished episodes."
+      echo "   Watch with:  $0 status    or    $0 log"
+    fi
+    ;;
+  stop|pause)
+    launchctl kill SIGTERM gui/$(id -u)/$LABEL 2>/dev/null
+    pkill -f render_episode 2>/dev/null
+    pkill -f produce.sh 2>/dev/null
+    rmdir audio-work/.produce.lock 2>/dev/null
+    echo "⏹  Stopped. Progress is cached — '$0 start' resumes where it left off."
+    ;;
+  log)
+    echo "(Ctrl-C to exit)"; tail -f audio-work/produce.log
+    ;;
+  *)
+    echo "Usage: $0 {status|start|stop|log}"
+    ;;
+esac

@@ -1,5 +1,27 @@
 # La Señal — Operations Runbook
 
+## The one command you need: `./senal`
+
+From `~/la-senal-podcast`:
+
+    ./senal status    # what's published, what's rendering, how far along
+    ./senal start     # start/resume rendering the queue right now
+    ./senal stop      # stop rendering (safe — resumes from cache next time)
+    ./senal log       # live view of the render log
+
+Rendering also runs on its own at **1:00 AM and 1:00 PM daily** — you don't
+have to start it. `./senal` is for checking in or nudging it.
+
+## Can I close the laptop and walk away?
+
+**No — closing the lid sleeps the Mac and pauses rendering** (it resumes,
+losing no work, when you reopen). To render while away: leave the **lid open**,
+plugged in. To render with the lid *closed*, either connect an external display
++ keyboard (clamshell mode), or run once in Terminal:
+`sudo pmset -c disablesleep 1` (re-enable later with `... disablesleep 0`).
+An external monitor is the simplest. Rendering pausing is harmless — the queue
+just continues next time the Mac is awake, or at the next 1 AM / 1 PM tick.
+
 ## How the machine works
 
 - `scripts/epNNN.json` — episode scripts (the queue). Anything here that isn't
