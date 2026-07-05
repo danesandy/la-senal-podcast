@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Señal — Español por input comprensible</title>
+    <description>A serialized sci-fi political drama in Colombian and Venezuelan Spanish, engineered as a 365-day comprehensible-input curriculum. A Bogotá astronomer detects a signal that is not from Earth — and the fight over what it means begins. Starts slow and scaffolded, ends at full native speed. Voice references: OpenSLR SLR72/SLR75 (CC-BY-SA 4.0, © Google). Private listening feed.</description>
+    <link>https://github.com/danesandy/la-senal-podcast</link>
+    <language>es-CO</language>
+    <atom:link href="https://danesandy.github.io/la-senal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>La Señal</itunes:author>
+    <itunes:image href="https://danesandy.github.io/la-senal-podcast/cover.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+
+  </channel>
+</rss>

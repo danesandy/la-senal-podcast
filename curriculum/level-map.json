@@ -1,0 +1,73 @@
+{
+  "description": "Per-stage difficulty parameters driving script generation and audio assembly. Adjusted at each 30-day recalibration.",
+  "assumed_baseline": "A2/low-B1 listening (Dreaming Spanish Beginner→Intermediate); grammar ahead of listening: present/preterite/imperfect solid, early subjunctive production",
+  "stages": [
+    {
+      "id": "S1", "days": [1, 30], "duration_min": 20,
+      "target_words": 2100,
+      "max_sentence_words": 10,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "atempo": 0.93,
+      "new_items_per_day": 9,
+      "min_uses_per_new_item": 4,
+      "grammar_scope": ["presente", "pretérito", "imperfecto", "ir a + inf", "gustar-type"],
+      "english_allowance": "≤10s framing days 1–7 only",
+      "notes": "Bottleneck is aural decoding, not grammar. Short sentences, heavy circling, generous pauses."
+    },
+    {
+      "id": "S2", "days": [31, 90], "duration_min": 30,
+      "target_words": 3400,
+      "max_sentence_words": 14,
+      "inter_sentence_pause_s": 0.9,
+      "inter_turn_pause_s": 1.2,
+      "atempo": 0.96,
+      "new_items_per_day": 11,
+      "min_uses_per_new_item": 3,
+      "grammar_scope": ["+futuro", "+condicional", "+presente de subjuntivo (día 60+)", "+pronombres OD/OI combinados"],
+      "english_allowance": "none",
+      "notes": "Dialogue share rises; narrator still circles all new items."
+    },
+    {
+      "id": "S3", "days": [91, 180], "duration_min": 40,
+      "target_words": 5000,
+      "max_sentence_words": 18,
+      "inter_sentence_pause_s": 0.6,
+      "inter_turn_pause_s": 0.9,
+      "atempo": 1.0,
+      "new_items_per_day": 13,
+      "min_uses_per_new_item": 3,
+      "grammar_scope": ["+imperfecto de subjuntivo (día 120+)", "+perfecto", "+pluscuamperfecto", "+reported speech"],
+      "english_allowance": "none",
+      "notes": "Natural-speed dialogue islands begin: short exchanges at full speed, then narrator recaps slowly."
+    },
+    {
+      "id": "S4", "days": [181, 270], "duration_min": 50,
+      "target_words": 6800,
+      "max_sentence_words": 24,
+      "inter_sentence_pause_s": 0.35,
+      "inter_turn_pause_s": 0.6,
+      "atempo": 1.0,
+      "new_items_per_day": 15,
+      "min_uses_per_new_item": 2,
+      "grammar_scope": ["all tenses/moods", "+colloquial ellipsis", "+regional fast idiom"],
+      "english_allowance": "none",
+      "notes": "Majority of story now carried by dialogue at near-native pace; scaffolding only for new items."
+    },
+    {
+      "id": "S5", "days": [271, 365], "duration_min": 60,
+      "target_words": 8600,
+      "max_sentence_words": 0,
+      "inter_sentence_pause_s": 0.0,
+      "inter_turn_pause_s": 0.4,
+      "atempo": 1.0,
+      "new_items_per_day": 15,
+      "min_uses_per_new_item": 2,
+      "grammar_scope": ["unrestricted native"],
+      "english_allowance": "none",
+      "notes": "Full native pace. Difficulty now comes from content density, slang, and speed — like real radio."
+    }
+  ],
+  "recycling_offsets_days": [1, 3, 7, 21, 60],
+  "recalibration_days": [0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330]
+}

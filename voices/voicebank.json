@@ -1,0 +1,22 @@
+{
+  "description": "Character -> voice-clone reference mapping. FIXED for the whole year: never change a principal's ref. Sources: OpenSLR SLR72 (Colombian) & SLR75 (Venezuelan), CC-BY-SA 4.0, © Google 2018-19.",
+  "voices": {
+    "narrator": { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/com_09334.wav", "accent": "co", "exaggeration": 0.45 },
+    "camila":   { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/cof_09334.wav", "accent": "co" },
+    "andres":   { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/vem_08421.wav", "accent": "ve" },
+    "elflaco":  { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/com_07508.wav", "accent": "co", "exaggeration": 0.65 },
+    "ochoa":    { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/cof_08784.wav", "accent": "co" },
+    "chela":    { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/vef_09697.wav", "accent": "ve", "exaggeration": 0.6 },
+    "pardo":    { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/com_06136.wav", "accent": "co" },
+    "marta":    { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/cof_08421.wav", "accent": "co" },
+    "julio":    { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/com_03349.wav", "accent": "co" },
+    "sarmiento":{ "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/com_04310.wav", "accent": "co" },
+    "aux_m":    { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/com_02484.wav", "accent": "co" },
+    "aux_f":    { "ref": "/Users/danesandy/Documents/Software_Projects/Personal Spanish Podcast/voices/bank/cof_03349.wav", "accent": "co" }
+  },
+  "reserved": {
+    "future_ve_female": ["vef_09334", "vef_07049"],
+    "future_ve_male": ["vem_05223", "vem_06136"],
+    "future_co_female": ["cof_03034"]
+  }
+}

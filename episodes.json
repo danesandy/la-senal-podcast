@@ -1,0 +1,11 @@
+{
+  "show": {
+    "title": "La Señal — Español por input comprensible",
+    "description": "A serialized sci-fi political drama in Colombian and Venezuelan Spanish, engineered as a 365-day comprehensible-input curriculum. A Bogotá astronomer detects a signal that is not from Earth — and the fight over what it means begins. Starts slow and scaffolded, ends at full native speed. Voice references: OpenSLR SLR72/SLR75 (CC-BY-SA 4.0, © Google). Private listening feed.",
+    "link": "https://github.com/danesandy/la-senal-podcast",
+    "feed_url": "https://danesandy.github.io/la-senal-podcast/feed.xml",
+    "image": "https://danesandy.github.io/la-senal-podcast/cover.jpg",
+    "author": "La Señal"
+  },
+  "episodes": []
+}

@@ -1,0 +1,151 @@
+{
+  "episode": "000",
+  "day": 0,
+  "arc": 0,
+  "title": "Episodio 0 — Prueba de nivel",
+  "description": "A 12-minute listening diagnostic. Five passages, each faster and denser than the last, each followed by three spoken questions. Score yourself with the sheet in the show notes; your result sets Day 1. Instructions in English; everything else in Spanish.",
+  "stage": "CAL",
+  "duration_target_min": 13,
+  "segments": [
+    {
+      "name": "instrucciones",
+      "lang": "en",
+      "atempo": 1.0,
+      "inter_sentence_pause_s": 0.4,
+      "inter_turn_pause_s": 0.8,
+      "turns": [
+        { "voice": "narrator", "text": "Welcome. This is the placement test for La Señal. Here is how it works. You will hear five short passages in Spanish. Each one is faster and harder than the last. After each passage, you will hear three questions, also in Spanish. After each question, you get five seconds of silence to answer out loud or in your head. Then I will tell you the correct answer. Give yourself one point for every correct answer. Write your score down, or just remember it. Fifteen points are possible. At the end, I will tell you what your score means. Do not rewind. Do not pause. Real conversation does not have a rewind button. Ready. Passage one." }
+      ]
+    },
+    {
+      "name": "pasaje-1",
+      "lang": "es",
+      "atempo": 0.93,
+      "inter_sentence_pause_s": 1.3,
+      "inter_turn_pause_s": 1.6,
+      "turns": [
+        { "voice": "narrator", "text": "Esta es la historia de una ciudad. La ciudad se llama Medellín. Medellín está en Colombia. En Medellín vive mucha gente. La gente de Medellín se llama gente paisa. Los paisas hablan mucho y hablan rápido. Pero hoy, yo hablo despacio. En Medellín hace buen clima. No hace mucho calor. No hace mucho frío. Por eso, Medellín tiene un nombre especial. Es la ciudad de la eterna primavera. En Medellín hay un metro. El metro es un tren. La gente usa el metro todos los días. Los paisas están muy orgullosos de su metro. El metro está siempre limpio." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Pregunta uno. ¿En qué país está Medellín?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Medellín está en Colombia." },
+        { "voice": "narrator", "text": "Pregunta dos. ¿Cómo es el clima de Medellín?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "El clima es bueno. No hace calor y no hace frío. Es la ciudad de la eterna primavera." },
+        { "voice": "narrator", "text": "Pregunta tres. ¿De qué están orgullosos los paisas?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Los paisas están orgullosos de su metro." }
+      ]
+    },
+    {
+      "name": "pasaje-2",
+      "lang": "es",
+      "atempo": 0.96,
+      "inter_sentence_pause_s": 0.9,
+      "inter_turn_pause_s": 1.2,
+      "turns": [
+        { "voice": "narrator", "text": "Pasaje dos. Un poco más rápido." },
+        { "pause": 1.0 },
+        { "voice": "narrator", "text": "Ayer, una mujer llamada Rosa fue al mercado en Bogotá. Quería comprar fruta para su familia. Primero compró mangos, porque a su hijo le encantan. Después buscó lulos, una fruta colombiana que es ácida pero deliciosa. El vendedor le dijo que no había lulos, porque la lluvia dañó la cosecha. Rosa estaba triste, pero el vendedor le ofreció otra fruta: la guanábana. Rosa compró dos guanábanas grandes y volvió a casa contenta. Esa noche, toda la familia tomó jugo de guanábana después de la cena." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Pregunta uno. ¿Qué compró Rosa primero, y por qué?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Compró mangos, porque a su hijo le encantan." },
+        { "voice": "narrator", "text": "Pregunta dos. ¿Por qué no había lulos en el mercado?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Porque la lluvia dañó la cosecha." },
+        { "voice": "narrator", "text": "Pregunta tres. ¿Qué hizo la familia esa noche?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Tomó jugo de guanábana después de la cena." }
+      ]
+    },
+    {
+      "name": "pasaje-3",
+      "lang": "es",
+      "atempo": 1.0,
+      "inter_sentence_pause_s": 0.5,
+      "inter_turn_pause_s": 0.8,
+      "turns": [
+        { "voice": "narrator", "text": "Pasaje tres. Ahora a velocidad casi normal, con dos voces." },
+        { "pause": 1.0 },
+        { "voice": "narrator", "text": "Andrés llegó tarde al trabajo porque el metro estaba cerrado. Su jefa no estaba contenta." },
+        { "voice": "aux_f", "text": "Andrés, son las nueve y media. La reunión empezó hace una hora." },
+        { "voice": "andres", "text": "Lo siento mucho. Cerraron la estación por una falla eléctrica. Tuve que venir caminando desde Envigado." },
+        { "voice": "aux_f", "text": "¿Caminando? Eso queda lejísimos. ¿Por qué no pidió un taxi?" },
+        { "voice": "andres", "text": "Lo intenté, pero no tenía saldo en el celular. Y para ser honesto, tampoco tenía efectivo." },
+        { "voice": "narrator", "text": "La jefa lo miró un momento. Después sonrió y le dijo que la próxima vez, llamara desde el teléfono de un compañero." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Pregunta uno. ¿Por qué llegó tarde Andrés?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Porque cerraron la estación del metro por una falla eléctrica, y tuvo que venir caminando." },
+        { "voice": "narrator", "text": "Pregunta dos. ¿Por qué no pidió un taxi?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "No tenía saldo en el celular, y tampoco tenía efectivo." },
+        { "voice": "narrator", "text": "Pregunta tres. ¿Qué le dijo la jefa al final?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Que la próxima vez llamara desde el teléfono de un compañero." }
+      ]
+    },
+    {
+      "name": "pasaje-4",
+      "lang": "es",
+      "atempo": 1.0,
+      "inter_sentence_pause_s": 0.2,
+      "inter_turn_pause_s": 0.4,
+      "turns": [
+        { "voice": "narrator", "text": "Pasaje cuatro. Velocidad natural. Una conversación entre una colombiana y un venezolano." },
+        { "pause": 1.0 },
+        { "voice": "camila", "text": "Oiga, ¿usted qué opina? ¿La arepa es colombiana o venezolana?" },
+        { "voice": "andres", "text": "Ay, chama, no me hagas esa pregunta que nos peleamos. La arepa venezolana lleva relleno: carne mechada, queso, aguacate, lo que quieras. La de ustedes es una tapa para el queso." },
+        { "voice": "camila", "text": "¿Una tapa? Qué descaro. La arepa paisa acompaña todo, no necesita esconder el sabor debajo de medio kilo de relleno." },
+        { "voice": "andres", "text": "Esconder no, celebrar. Mira, cuando pruebes una reina pepiada bien hecha, tú misma me vas a pedir perdón." },
+        { "voice": "camila", "text": "Está bien, acepto la apuesta. Pero si no me gusta, usted paga los ajiacos de todo el mes." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Pregunta uno. Según Andrés, ¿cuál es la diferencia principal entre las dos arepas?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "La venezolana lleva relleno; la colombiana, según él, es solo una tapa para el queso." },
+        { "voice": "narrator", "text": "Pregunta dos. ¿Qué es una reina pepiada?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Una arepa venezolana. Andrés dice que cuando Camila la pruebe, le va a pedir perdón." },
+        { "voice": "narrator", "text": "Pregunta tres. ¿Cuál es la apuesta?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Si a Camila no le gusta, Andrés paga los ajiacos de todo el mes." }
+      ]
+    },
+    {
+      "name": "pasaje-5",
+      "lang": "es",
+      "atempo": 1.0,
+      "inter_sentence_pause_s": 0.1,
+      "inter_turn_pause_s": 0.3,
+      "turns": [
+        { "voice": "narrator", "text": "Pasaje cinco. El último. Así suena la radio de verdad. No te preocupes si entiendes poco: aquí es adonde vamos a llegar juntos." },
+        { "pause": 1.0 },
+        { "voice": "elflaco", "text": "Bueno, mi gente, son las seis de la mañana en Bogotá y esto es lo que hay: el concejo aprobó otra vez el aumento del pasaje, dizque para mejorar la flota, pero usted y yo sabemos que esos buses llevan diez años prometiendo aire acondicionado y lo único que llega puntual es el cobro. Además, ojo con esto, anoche en el cerro de Monserrate varios vecinos reportaron unas luces rarísimas, que subían y bajaban, y un señor jura que su radio se apagó solita. La alcaldía dice que era un dron de publicidad. Un dron. Claro, y yo soy el rey de España. Después de la pausa hablamos con la señora que lo grabó todo." },
+        { "pause": 1.5 },
+        { "voice": "narrator", "text": "Pregunta uno. ¿Qué aprobó el concejo, y qué promesa menciona el locutor?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Aprobó el aumento del pasaje del bus. Prometen aire acondicionado desde hace diez años." },
+        { "voice": "narrator", "text": "Pregunta dos. ¿Qué reportaron los vecinos en Monserrate?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "Unas luces raras que subían y bajaban, y una radio que se apagó sola." },
+        { "voice": "narrator", "text": "Pregunta tres. ¿El locutor cree la explicación oficial del dron?" },
+        { "pause": 5.0 },
+        { "voice": "narrator", "text": "No, no la cree. Por eso dice, con ironía: claro, y yo soy el rey de España." }
+      ]
+    },
+    {
+      "name": "resultados",
+      "lang": "en",
+      "atempo": 1.0,
+      "inter_sentence_pause_s": 0.4,
+      "inter_turn_pause_s": 0.8,
+      "turns": [
+        { "voice": "narrator", "text": "That is the end of the test. Count your points, out of fifteen. Twelve or more, with passages four and five mostly clear: you are ahead of where we planned, and the first episodes will feel easy — treat them as a warm up week, and the pace will catch up to you by episode ten. Between seven and eleven: perfect. The show is calibrated exactly for you. Start episode one tomorrow. Six or fewer, or if passage three already felt out of reach: also fine — start episode one, but listen to each episode twice, once in the morning and once later. The story begins tomorrow, in Bogotá, with a scientist who hears something she cannot explain. From here on, English disappears. Nos vemos mañana." }
+      ]
+    }
+  ],
+  "vocab_new": [],
+  "vocab_recycled": [],
+  "show_notes_extra": "Scoring sheet: 1 point per question (15 max). 12–15 = start at Day 1, expect an easy first week. 7–11 = calibrated start. 0–6 = start at Day 1, listen twice per day. Report your score at the Day 30 recalibration."
+}
