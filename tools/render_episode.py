@@ -39,7 +39,7 @@ WORK = os.path.join(PROJ, "audio-work")
 OUT = os.path.join(PROJ, "audio-work", "out")
 WHISPER_MODEL = os.path.expanduser("~/.cache/whisper-cpp/ggml-small.bin")
 WHISPER_CLI = shutil.which("whisper-cli") or "/opt/homebrew/bin/whisper-cli"
-MAX_CHUNK_CHARS = 280
+MAX_CHUNK_CHARS = 140    # short chunks: Chatterbox loops far less on shorter text
 QC_THRESHOLD = 0.70
 QC_RETRIES = 2
 
@@ -207,9 +207,24 @@ def synth_chunk(model, text, lang, voice_cfg, out_path):
         print(f"[render]   ALL {GEN_TRIES} attempts crashed for: {text[:60]!r} "
               f"— inserting silence", flush=True)
         best_wav = torch.zeros(1, int(model.sr * 0.4))
-    elif best_score < CHUNK_QC_SIM:
-        print(f"[render]   kept best-of-{GEN_TRIES} take (match={best_score:.2f}) "
-              f"for: {text[:50]!r}", flush=True)
+    else:
+        # Runaway-loop guard: if even the best take is far longer than the text
+        # warrants (every retry looped), truncate to the plausible clean length
+        # so a repeating drone can never survive into the mix. The correct
+        # utterance is at the head; the loop is the tail.
+        expected = max(1.0, len(text) / CHARS_PER_SEC)
+        max_keep = expected * 1.5 + 1.0
+        dur = best_wav.shape[-1] / model.sr
+        if dur > max_keep + 1.0:
+            keep = int(max_keep * model.sr)
+            best_wav = best_wav[:, :keep].clone()
+            fade = min(int(0.04 * model.sr), best_wav.shape[-1])
+            best_wav[:, -fade:] *= torch.linspace(1.0, 0.0, fade)
+            print(f"[render]   truncated runaway take {dur:.0f}s->{max_keep:.0f}s "
+                  f"for: {text[:50]!r}", flush=True)
+        elif best_score < CHUNK_QC_SIM:
+            print(f"[render]   kept best-of-{GEN_TRIES} take (match={best_score:.2f}) "
+                  f"for: {text[:50]!r}", flush=True)
 
     torchaudio.save(out_path, best_wav, model.sr)
     return best_wav.shape[-1] / model.sr
@@ -342,6 +357,18 @@ def render_episode(script_path, voicebank, _depth=0):
                     print(f"[render] ep{ep_id}/{seg_name}: reassembling after retries", flush=True)
                     return render_episode(script_path, voicebank, _depth + 1)  # resume via cache
 
+        # Per-segment static scan (diagnostic): flag any segment whose assembled
+        # .wav contains sustained low-crest loud regions before it reaches the mp3.
+        sw, ssr = torchaudio.load(seg_wav)
+        xs = sw.flatten().numpy()
+        wln = ssr // 2
+        sflag = sum(
+            1 for k in range(len(xs) // wln)
+            if (lambda w: (w**2).mean() ** 0.5 > 0.02 and
+                abs(w).max() / ((w**2).mean() ** 0.5 + 1e-9) < 3.2)(xs[k*wln:(k+1)*wln])
+        )
+        print(f"[render] ep{ep_id}/{seg_name}: SEGSCAN {sflag} static windows", flush=True)
+
         info = torchaudio.info(seg_wav)
         total_audio_s += info.num_frames / info.sample_rate
         seg_files.append((seg_wav, seg.get("atempo", 1.0)))
@@ -403,8 +430,9 @@ def render_episode(script_path, voicebank, _depth=0):
                 else:
                     f.write(f"- {term}\n")
 
-    # --- Cleanup working WAVs ---
-    shutil.rmtree(epdir)
+    # --- Cleanup working WAVs (KEEP_WORK=1 preserves them for debugging) ---
+    if not os.environ.get("KEEP_WORK"):
+        shutil.rmtree(epdir)
 
     wall = time.time() - t_start
     print(
