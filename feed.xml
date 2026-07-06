@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>Día 5 — «El jefe»</title>
+      <description>Camila takes the pattern to her director and gets six words she will never forget: we need funds, not ghosts. On the ride home, for once, she is the one asking the taxi driver questions. Plus: who actually pays for astronomy.</description>
+      <guid isPermaLink="false">la-senal-ep005</guid>
+      <pubDate>Mon, 06 Jul 2026 23:07:22 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-005/ep005.mp3" length="13791136" type="audio/mpeg"/>
+      <itunes:duration>00:28:43</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Día 4 — «Otra vez»</title>
       <description>Night shift at the observatory. Camila watches the clock crawl toward 3:47 — and the sky keeps its appointment. Two occurrences is not chance. Plus: coincidence versus pattern, or how scientists decide what is real.</description>
       <guid isPermaLink="false">la-senal-ep004</guid>
