@@ -31,6 +31,9 @@ import difflib
 import unicodedata
 
 PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# launchd runs with a minimal PATH; ensure Homebrew tools (ffmpeg, ffprobe,
+# whisper-cli) are findable even when invoked outside an interactive shell.
+os.environ["PATH"] = "/opt/homebrew/bin:" + os.environ.get("PATH", "")
 VOICEBANK = os.path.join(PROJ, "voices", "voicebank.json")
 WORK = os.path.join(PROJ, "audio-work")
 OUT = os.path.join(PROJ, "audio-work", "out")

@@ -5,6 +5,9 @@
 set -uo pipefail
 
 export PROJ="$(cd "$(dirname "$0")/.." && pwd)"
+# launchd gives a minimal PATH (/usr/bin:/bin) — add Homebrew so ffmpeg,
+# ffprobe, whisper-cli and gh are found by the render/scan/publish steps.
+export PATH="/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 PY="$PROJ/.venv/bin/python"
 LOG="$PROJ/audio-work/produce.log"
 mkdir -p "$PROJ/audio-work"
