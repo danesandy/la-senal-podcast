@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>Día 2 — «La rutina»</title>
+      <description>Camila's upside-down life: sleep by day, empanadas at doña Marta's, night shift at the dish. She replays the recording and sees something new — and her colleague Julio has one word for it. Plus: why astronomers work at night.</description>
+      <guid isPermaLink="false">la-senal-ep002</guid>
+      <pubDate>Mon, 06 Jul 2026 11:19:49 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-002/ep002.mp3" length="13887895" type="audio/mpeg"/>
+      <itunes:duration>00:28:55</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Día 1 — «El ruido»</title>
       <description>Astronomer Camila Rey works alone at night in a small observatory above Bogotá — until, at 3:47 in the morning, her computers record a noise that should not exist. Plus: what a radio telescope actually does (hint: it hears nothing).</description>
       <guid isPermaLink="false">la-senal-ep001</guid>
