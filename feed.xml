@@ -13,16 +13,6 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
-    <item>
-      <title>Episodio 0 — Prueba de nivel</title>
-      <description>A 12-minute listening diagnostic. Five passages, each faster and denser than the last, each followed by three spoken questions. Score yourself with the sheet in the show notes; your result sets Day 1. Instructions in English; everything else in Spanish.</description>
-      <guid isPermaLink="false">la-senal-ep000</guid>
-      <pubDate>Sun, 05 Jul 2026 08:42:56 GMT</pubDate>
-      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-000/ep000.mp3" length="3826371" type="audio/mpeg"/>
-      <itunes:duration>00:07:58</itunes:duration>
-      <itunes:episode>0</itunes:episode>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
   </channel>
 </rss>
