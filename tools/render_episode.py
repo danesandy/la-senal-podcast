@@ -130,16 +130,26 @@ def speech_quality(wav_tensor, sr):
 CHUNK_QC_SIM = 0.62      # per-chunk whisper match to accept a take
 
 
+CHARS_PER_SEC = 15.0     # fast Spanish/English narration rate
+
+
 def take_score(wav, sr, text, lang, tmp_path):
-    """Ground-truth quality of one generated take: Whisper-transcribe it and
-    compare to the intended text. Catches every Chatterbox failure mode
-    (tonal drone, static burst, wrong/looped words, silence) that audio-only
-    metrics miss. Dead-silent or fully-static takes are rejected cheaply first.
-    Returns a 0..1 score. Very short texts fall back to a liveness check since
-    word-similarity is unreliable on 1–2 words."""
+    """Ground-truth quality of one generated take. Catches every Chatterbox
+    failure mode that audio-only metrics miss:
+      • runaway loop/drone — take runs far longer than the text warrants
+        (the ep000 bug: a 3s line generated as a 90s repeating loop). Caught
+        by a duration sanity check BEFORE Whisper, since the loop's clean head
+        would otherwise pass the word-match.
+      • tonal drone / static burst — low crest, or Whisper hears no words.
+      • wrong / dropped words — low Whisper similarity.
+    Returns a 0..1 score. Short texts fall back to a liveness check."""
     import torchaudio
+    dur = wav.shape[-1] / sr
+    expected = max(1.0, len(text) / CHARS_PER_SEC)
+    if dur > expected * 2.5 + 2.0:        # runaway generation — reject outright
+        return 0.0
     crest = speech_quality(wav, sr)
-    if crest < 2.5:                       # obvious dead/static take — skip whisper
+    if crest < 2.5:                       # dead/static take — skip whisper
         return 0.0
     torchaudio.save(tmp_path, wav, sr)
     got = transcribe(tmp_path, lang)
