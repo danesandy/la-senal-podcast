@@ -16,6 +16,15 @@
       "duration_s": 618.581429,
       "bytes": 4949426,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-000/ep000.mp3"
+    },
+    {
+      "id": "001",
+      "title": "Día 1 — «El ruido»",
+      "description": "Astronomer Camila Rey works alone at night in a small observatory above Bogotá — until, at 3:47 in the morning, her computers record a noise that should not exist. Plus: what a radio telescope actually does (hint: it hears nothing).",
+      "pubDate": "2026-07-06T08:25:19",
+      "duration_s": 1709.972834,
+      "bytes": 13680378,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-001/ep001.mp3"
     }
   ]
 }
