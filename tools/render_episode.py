@@ -378,12 +378,14 @@ def render_episode(script_path, voicebank, _depth=0):
     tempo_files = []
     for i, (seg_wav, atempo) in enumerate(seg_files):
         tf = os.path.join(epdir, f"tempo_{i:02d}.wav")
-        if atempo != 1.0:
-            subprocess.run(
-                ["ffmpeg", "-y", "-v", "error", "-i", seg_wav,
-                 "-filter:a", f"atempo={atempo}", tf], check=True)
-        else:
-            shutil.copy(seg_wav, tf)
+        # Force EVERY tempo file to an identical codec/rate/layout. Mixing
+        # formats (torchaudio writes f32le; ffmpeg atempo emits s16le) makes the
+        # concat demuxer misread one as the other → garbage/static in exactly
+        # the atempo!=1.0 segments. Re-encode all, atempo or not.
+        af = ["-filter:a", f"atempo={atempo}"] if atempo != 1.0 else []
+        subprocess.run(
+            ["ffmpeg", "-y", "-v", "error", "-i", seg_wav, *af,
+             "-c:a", "pcm_s16le", "-ar", "24000", "-ac", "1", tf], check=True)
         tempo_files.append(tf)
     with open(concat_list, "w") as f:
         for tf in tempo_files:
