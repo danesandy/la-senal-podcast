@@ -43,6 +43,15 @@
       "duration_s": 1609.752721,
       "bytes": 12878731,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-003/ep003.mp3"
+    },
+    {
+      "id": "004",
+      "title": "Día 4 — «Otra vez»",
+      "description": "Night shift at the observatory. Camila watches the clock crawl toward 3:47 — and the sky keeps its appointment. Two occurrences is not chance. Plus: coincidence versus pattern, or how scientists decide what is real.",
+      "pubDate": "2026-07-06T20:06:32",
+      "duration_s": 1697.021973,
+      "bytes": 13576933,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-004/ep004.mp3"
     }
   ]
 }
