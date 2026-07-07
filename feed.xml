@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>3:47</title>
+      <description>The dish is fixed, the coffee is hot, and three people wait in the dark for 3:47 AM. What happens next is five minutes late — and it changes everything.</description>
+      <guid isPermaLink="false">la-senal-ep009</guid>
+      <pubDate>Tue, 07 Jul 2026 11:44:14 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-009/ep009.mp3" length="13113397" type="audio/mpeg"/>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Manos a la obra</title>
       <description>Two days of repairs, one story told in pieces: Caracas, the blackouts, and the long road to a hill outside Bogotá. Then Andrés asks the one question nobody else thought to ask.</description>
       <guid isPermaLink="false">la-senal-ep008</guid>
