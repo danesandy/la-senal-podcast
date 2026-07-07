@@ -61,6 +61,15 @@
       "duration_s": 1723.816122,
       "bytes": 13791136,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-005/ep005.mp3"
+    },
+    {
+      "id": "006",
+      "title": "La tormenta",
+      "description": "A violent storm hits the hills above Bogotá, and the observatory pays the price. If the signal returns at 3:47, will anyone be listening?",
+      "pubDate": "2026-07-07T02:14:39",
+      "duration_s": 1594.522132,
+      "bytes": 12756885,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-006/ep006.mp3"
     }
   ]
 }
