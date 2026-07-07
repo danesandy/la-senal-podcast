@@ -79,6 +79,15 @@
       "duration_s": 1655.665057,
       "bytes": 13245899,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-007/ep007.mp3"
+    },
+    {
+      "id": "008",
+      "title": "Manos a la obra",
+      "description": "Two days of repairs, one story told in pieces: Caracas, the blackouts, and the long road to a hill outside Bogotá. Then Andrés asks the one question nobody else thought to ask.",
+      "pubDate": "2026-07-07T08:02:34",
+      "duration_s": 1419.900726,
+      "bytes": 11359860,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-008/ep008.mp3"
     }
   ]
 }

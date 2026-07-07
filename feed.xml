@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>Manos a la obra</title>
+      <description>Two days of repairs, one story told in pieces: Caracas, the blackouts, and the long road to a hill outside Bogotá. Then Andrés asks the one question nobody else thought to ask.</description>
+      <guid isPermaLink="false">la-senal-ep008</guid>
+      <pubDate>Tue, 07 Jul 2026 08:02:34 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-008/ep008.mp3" length="11359860" type="audio/mpeg"/>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>El venezolano</title>
       <description>The repair company sends an engineer to fix the storm damage. He arrives with a toolbox, a thermos he guards with his life, and opinions about arepas. Nothing at the observatory will be the same.</description>
       <guid isPermaLink="false">la-senal-ep007</guid>
