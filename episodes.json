@@ -97,6 +97,15 @@
       "duration_s": 1639.104762,
       "bytes": 13113397,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-009/ep009.mp3"
+    },
+    {
+      "id": "010",
+      "title": "La apuesta",
+      "description": "Over breakfast at doña Marta's, two theories about the late signal collide — and turn into a bet with national cuisine at stake. Meanwhile, director Sarmiento has heard about the engineer's extra hours.",
+      "pubDate": "2026-07-07T14:19:36",
+      "duration_s": 1505.426054,
+      "bytes": 12044054,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-010/ep010.mp3"
     }
   ]
 }
