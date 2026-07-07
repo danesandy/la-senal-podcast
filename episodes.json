@@ -70,6 +70,15 @@
       "duration_s": 1594.522132,
       "bytes": 12756885,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-006/ep006.mp3"
+    },
+    {
+      "id": "007",
+      "title": "El venezolano",
+      "description": "The repair company sends an engineer to fix the storm damage. He arrives with a toolbox, a thermos he guards with his life, and opinions about arepas. Nothing at the observatory will be the same.",
+      "pubDate": "2026-07-07T05:18:30",
+      "duration_s": 1655.665057,
+      "bytes": 13245899,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-007/ep007.mp3"
     }
   ]
 }

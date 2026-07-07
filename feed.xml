@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>El venezolano</title>
+      <description>The repair company sends an engineer to fix the storm damage. He arrives with a toolbox, a thermos he guards with his life, and opinions about arepas. Nothing at the observatory will be the same.</description>
+      <guid isPermaLink="false">la-senal-ep007</guid>
+      <pubDate>Tue, 07 Jul 2026 05:18:30 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-007/ep007.mp3" length="13245899" type="audio/mpeg"/>
+      <itunes:duration>00:27:35</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>La tormenta</title>
       <description>A violent storm hits the hills above Bogotá, and the observatory pays the price. If the signal returns at 3:47, will anyone be listening?</description>
       <guid isPermaLink="false">la-senal-ep006</guid>
