@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>Las explicaciones</title>
+      <description>Camila and Andrés list every boring explanation for the signal — satellites, planes, radar, a broken sensor — and design a test for each one. Andrés insists on adding a microwave oven to the list, and promises the strangest true story in radio astronomy tomorrow.</description>
+      <guid isPermaLink="false">la-senal-ep013</guid>
+      <pubDate>Wed, 08 Jul 2026 14:13:18 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-013/ep013.mp3" length="13596153" type="audio/mpeg"/>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>El favor</title>
       <description>To rule out satellites, Andrés needs a favor from his old CANTV friend — and in Maracaibo, everything goes through Tía Chela. Her first voice note is four and a half minutes of family news with a bombshell buried at the end.</description>
       <guid isPermaLink="false">la-senal-ep012</guid>

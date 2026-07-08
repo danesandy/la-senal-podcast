@@ -124,6 +124,15 @@
       "duration_s": 1620.244671,
       "bytes": 12962518,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-012/ep012.mp3"
+    },
+    {
+      "id": "013",
+      "title": "Las explicaciones",
+      "description": "Camila and Andrés list every boring explanation for the signal — satellites, planes, radar, a broken sensor — and design a test for each one. Andrés insists on adding a microwave oven to the list, and promises the strangest true story in radio astronomy tomorrow.",
+      "pubDate": "2026-07-08T14:13:18",
+      "duration_s": 1699.447846,
+      "bytes": 13596153,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-013/ep013.mp3"
     }
   ]
 }
