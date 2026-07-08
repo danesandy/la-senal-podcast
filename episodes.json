@@ -133,6 +133,15 @@
       "duration_s": 1699.447846,
       "bytes": 13596153,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-013/ep013.mp3"
+    },
+    {
+      "id": "014",
+      "title": "Los perytones",
+      "description": "Over breakfast, Andrés tells the true story of the Parkes 'perytons': seventeen years of mysterious signals that turned out to be the observatory microwave. Everyone laughs — until they remember their own signal already passed every test the perytons failed. Then Sarmiento calls: Bogotá wants the routine report early.",
+      "pubDate": "2026-07-08T17:35:36",
+      "duration_s": 1634.352086,
+      "bytes": 13075581,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-014/ep014.mp3"
     }
   ]
 }

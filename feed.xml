@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>Los perytones</title>
+      <description>Over breakfast, Andrés tells the true story of the Parkes 'perytons': seventeen years of mysterious signals that turned out to be the observatory microwave. Everyone laughs — until they remember their own signal already passed every test the perytons failed. Then Sarmiento calls: Bogotá wants the routine report early.</description>
+      <guid isPermaLink="false">la-senal-ep014</guid>
+      <pubDate>Wed, 08 Jul 2026 17:35:36 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-014/ep014.mp3" length="13075581" type="audio/mpeg"/>
+      <itunes:duration>00:27:14</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Las explicaciones</title>
       <description>Camila and Andrés list every boring explanation for the signal — satellites, planes, radar, a broken sensor — and design a test for each one. Andrés insists on adding a microwave oven to the list, and promises the strangest true story in radio astronomy tomorrow.</description>
       <guid isPermaLink="false">la-senal-ep013</guid>
