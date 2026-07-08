@@ -115,6 +115,15 @@
       "duration_s": 1699.406349,
       "bytes": 13595938,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-011/ep011.mp3"
+    },
+    {
+      "id": "012",
+      "title": "El favor",
+      "description": "To rule out satellites, Andrés needs a favor from his old CANTV friend — and in Maracaibo, everything goes through Tía Chela. Her first voice note is four and a half minutes of family news with a bombshell buried at the end.",
+      "pubDate": "2026-07-08T11:18:35",
+      "duration_s": 1620.244671,
+      "bytes": 12962518,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-012/ep012.mp3"
     }
   ]
 }
