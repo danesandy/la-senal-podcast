@@ -214,6 +214,15 @@
       "duration_s": 717.837914,
       "bytes": 5743328,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-022/ep022.mp3"
+    },
+    {
+      "id": "023",
+      "title": "La nota de voz",
+      "description": "Tía Chela sends the longest voice note in Maracaibo history: three minutes of neighborhood saga with a bomb buried at minute two. Suddenly Andrés's work permit is not just paperwork anymore.",
+      "pubDate": "2026-08-20T06:42:49",
+      "duration_s": 672.246667,
+      "bytes": 5378653,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-023/ep023.mp3"
     }
   ]
 }
