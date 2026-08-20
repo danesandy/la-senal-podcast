@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>El informe</title>
+      <description>Sarmiento wants one safe line in the report: 'unidentified interference'. Camila writes the truth instead — and in a Bogotá office with a view, someone reads it, underlines it, and reaches for a stamp. Mundo Real: a gentle comic essay on Latin American paperwork.</description>
+      <guid isPermaLink="false">la-senal-ep015</guid>
+      <pubDate>Thu, 20 Aug 2026 05:11:46 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-015/ep015.mp3" length="5831717" type="audio/mpeg"/>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Los perytones</title>
       <description>Over breakfast, Andrés tells the true story of the Parkes 'perytons': seventeen years of mysterious signals that turned out to be the observatory microwave. Everyone laughs — until they remember their own signal already passed every test the perytons failed. Then Sarmiento calls: Bogotá wants the routine report early.</description>
       <guid isPermaLink="false">la-senal-ep014</guid>
