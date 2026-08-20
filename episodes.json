@@ -232,6 +232,15 @@
       "duration_s": 665.878844,
       "bytes": 5327671,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-024/ep024.mp3"
+    },
+    {
+      "id": "025",
+      "title": "El plan",
+      "description": "With the ministry holding a copy of the data, the team races to predict the signal's next repetition and catch its echo red-handed. El Flaco is named chief of logistics, and Colombia's cousin network mobilizes.",
+      "pubDate": "2026-08-20T07:03:38",
+      "duration_s": 640.420181,
+      "bytes": 5124109,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-025/ep025.mp3"
     }
   ]
 }
