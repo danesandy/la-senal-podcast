@@ -178,6 +178,15 @@
       "duration_s": 753.72839,
       "bytes": 6030453,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-018/ep018.mp3"
+    },
+    {
+      "id": "019",
+      "title": "Los radioaficionados",
+      "description": "To locate the echo they need antennas they don't have, so Andrés calls on Colombia's ham-radio community — retirees, a nun, and a llanero named don Ramiro who trusts no one. Plus: the hundred-year-old internet.",
+      "pubDate": "2026-08-20T05:58:10",
+      "duration_s": 713.619433,
+      "bytes": 5709683,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-019/ep019.mp3"
     }
   ]
 }
