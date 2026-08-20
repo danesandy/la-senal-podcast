@@ -169,6 +169,15 @@
       "duration_s": 767.061746,
       "bytes": 6137251,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-017/ep017.mp3"
+    },
+    {
+      "id": "018",
+      "title": "El eco",
+      "description": "Andrés's new receiver hears the signal twice — once loud, once faint — and the difference between a bounce and an answer suddenly matters a great deal. Plus: whales, submarines, and the science of echoes.",
+      "pubDate": "2026-08-20T05:46:57",
+      "duration_s": 753.72839,
+      "bytes": 6030453,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-018/ep018.mp3"
     }
   ]
 }

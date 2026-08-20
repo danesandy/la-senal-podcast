@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>El eco</title>
+      <description>Andrés's new receiver hears the signal twice — once loud, once faint — and the difference between a bounce and an answer suddenly matters a great deal. Plus: whales, submarines, and the science of echoes.</description>
+      <guid isPermaLink="false">la-senal-ep018</guid>
+      <pubDate>Thu, 20 Aug 2026 05:46:57 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-018/ep018.mp3" length="6030453" type="audio/mpeg"/>
+      <itunes:duration>00:12:33</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>La Verdad Oculta</title>
       <description>El Flaco's conspiracy podcast connects dots that were never supposed to be connected, and Camila has to make a deal. Plus: how to enjoy a wild theory without falling for one.</description>
       <guid isPermaLink="false">la-senal-ep017</guid>
