@@ -160,6 +160,15 @@
       "duration_s": 834.049342,
       "bytes": 6673068,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-016/ep016.mp3"
+    },
+    {
+      "id": "017",
+      "title": "La Verdad Oculta",
+      "description": "El Flaco's conspiracy podcast connects dots that were never supposed to be connected, and Camila has to make a deal. Plus: how to enjoy a wild theory without falling for one.",
+      "pubDate": "2026-08-20T05:35:48",
+      "duration_s": 767.061746,
+      "bytes": 6137251,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-017/ep017.mp3"
     }
   ]
 }
