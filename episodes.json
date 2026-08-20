@@ -196,6 +196,15 @@
       "duration_s": 771.254467,
       "bytes": 6170689,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-020/ep020.mp3"
+    },
+    {
+      "id": "021",
+      "title": "Demasiado cerca",
+      "description": "The triangulation math is verified again and again, and the answer refuses to change: the source is inside the solar system, maybe closer than the Moon. Julio finally believes Camila — which is exactly why he wants out.",
+      "pubDate": "2026-08-20T06:20:37",
+      "duration_s": 707.922245,
+      "bytes": 5664120,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-021/ep021.mp3"
     }
   ]
 }
