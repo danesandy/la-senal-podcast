@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>La víspera</title>
+      <description>The night before the predicted signal. Everything that can be checked is checked twice, clouds gather over the llanos, and each member of the team faces the longest wait of their lives in their own quiet way.</description>
+      <guid isPermaLink="false">la-senal-ep027</guid>
+      <pubDate>Sun, 23 Aug 2026 05:21:41 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-027/ep027.mp3" length="5315747" type="audio/mpeg"/>
+      <itunes:duration>00:11:04</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>La antena del techo</title>
       <description>Camila's late-night insight turns one giant dish into many small ears: a cheap rooftop antenna anyone can build. The network multiplies it across the country, dona Marta charges rent in ajiacos, and an old friend climbs back up the hill carrying shame — and something borrowed.</description>
       <guid isPermaLink="false">la-senal-ep026</guid>
