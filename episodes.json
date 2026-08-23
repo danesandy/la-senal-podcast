@@ -268,6 +268,15 @@
       "duration_s": 735.556984,
       "bytes": 5885210,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-028/ep028.mp3"
+    },
+    {
+      "id": "029",
+      "title": "¿Y ahora qué?",
+      "description": "The morning after: the data confirms a sky signal and a ground answer, and the team must choose between three dangerous options. The vote never finishes — four men get out of a grey SUV, and Sarmiento's phone call is three words long.",
+      "pubDate": "2026-08-23T05:43:31",
+      "duration_s": 636.009501,
+      "bytes": 5088800,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-029/ep029.mp3"
     }
   ]
 }
