@@ -286,6 +286,15 @@
       "duration_s": 599.61771,
       "bytes": 4797692,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-030/ep030.mp3"
+    },
+    {
+      "id": "031",
+      "title": "El despacho",
+      "description": "Camila finally learns whose side her director is on, and hears the name of the woman arriving tomorrow. Meanwhile, in Bogotá, the minister makes his move.",
+      "pubDate": "2026-08-23T06:08:15",
+      "duration_s": 780.049388,
+      "bytes": 6241109,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-031/ep031.mp3"
     }
   ]
 }
