@@ -241,6 +241,15 @@
       "duration_s": 640.420181,
       "bytes": 5124109,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-025/ep025.mp3"
+    },
+    {
+      "id": "026",
+      "title": "La antena del techo",
+      "description": "Camila's late-night insight turns one giant dish into many small ears: a cheap rooftop antenna anyone can build. The network multiplies it across the country, dona Marta charges rent in ajiacos, and an old friend climbs back up the hill carrying shame — and something borrowed.",
+      "pubDate": "2026-08-23T05:11:18",
+      "duration_s": 696.417302,
+      "bytes": 5571964,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-026/ep026.mp3"
     }
   ]
 }
