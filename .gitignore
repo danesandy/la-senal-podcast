@@ -7,6 +7,7 @@ audio-work/
 __pycache__/
 *.pyc
 .venv/
+.venv28/
 
 # macOS
 .DS_Store

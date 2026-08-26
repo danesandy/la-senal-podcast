@@ -43,7 +43,64 @@ MAX_CHUNK_CHARS = 140    # short chunks: Chatterbox loops far less on shorter te
 QC_THRESHOLD = 0.70
 QC_RETRIES = 2
 
+class RenderCrashed(RuntimeError):
+    """Generation failed outright — abort rather than ship silence."""
+
 _model = None
+
+
+def _patch_s3gen_resampler_for_mps():
+    """Chatterbox's s3gen.embed_ref resamples the voice reference clip with
+    torchaudio's sinc-resample kernel on whatever device the model is on. On
+    MPS that kernel hits Apple's Metal conv output-channel limit
+    (NotImplementedError: Output channels > 65536), unfixed as of torch 2.11 —
+    every generate() call crashes before it produces audio. This is a one-time
+    per-voice-reference resample (not per-chunk), so run it on CPU and hand
+    the result back on the original device; everything downstream of it is
+    untouched."""
+    import torchaudio as ta
+    import chatterbox.models.s3gen.s3gen as s3gen_mod
+
+    def cpu_safe_get_resampler(src_sr, dst_sr, device):
+        resampler = ta.transforms.Resample(src_sr, dst_sr)  # stays on CPU
+
+        def call(wav):
+            return resampler(wav.to("cpu")).to(device)
+        return call
+
+    s3gen_mod.get_resampler = cpu_safe_get_resampler
+
+
+def _patch_alignment_analyzer_short_text_crash():
+    """chatterbox.models.t3.inference.alignment_stream_analyzer.step() computes
+    `A[self.completed_at:, :-5].max(dim=1)` to detect repetition. For very
+    short chunks (e.g. a standalone "No.", ~2 tokens) the text-token dimension
+    is <= 5 wide, so the slice is zero-width and .max(dim=1) raises
+    `IndexError: max(): Expected reduction dim 1 to have non-zero size` on
+    every single attempt — this is deterministic, not a flaky MPS crash, so
+    retries never help and the chunk fails outright. Patching the class
+    in-memory would mean re-implementing all ~90 lines of step() (fragile,
+    drifts from upstream); instead patch the installed source file on disk,
+    once, idempotently, so it stays a 1-line diff that's easy to verify against
+    upstream chatterbox releases."""
+    import chatterbox.models.t3.inference.alignment_stream_analyzer as mod
+    path = mod.__file__
+    src = open(path).read()
+    marker = "_rep_tail.shape[1] > 0"
+    if marker in src:
+        return  # already patched
+    old = "alignment_repetition = self.complete and (A[self.completed_at:, :-5].max(dim=1).values.sum() > 5)"
+    if old not in src:
+        raise RuntimeError(
+            f"{path} does not match the version this patch targets — "
+            "chatterbox-tts likely upgraded; check alignment_stream_analyzer.py by hand."
+        )
+    new = (
+        "_rep_tail = A[self.completed_at:, :-5]\n"
+        "        alignment_repetition = self.complete and _rep_tail.shape[1] > 0 and (_rep_tail.max(dim=1).values.sum() > 5)"
+    )
+    open(path, "w").write(src.replace(old, new, 1))
+    print("[render] patched alignment_stream_analyzer.py (short-text IndexError guard)", flush=True)
 
 
 def get_model():
@@ -51,6 +108,9 @@ def get_model():
     if _model is None:
         import torch
         device = "mps" if torch.backends.mps.is_available() else "cpu"
+        if device == "mps":
+            _patch_s3gen_resampler_for_mps()
+        _patch_alignment_analyzer_short_text_crash()
         print(f"[render] loading ChatterboxMultilingualTTS on {device}...", flush=True)
         t0 = time.time()
         from chatterbox.mtl_tts import ChatterboxMultilingualTTS
@@ -62,6 +122,36 @@ def get_model():
 def split_sentences(text):
     parts = re.split(r"(?<=[.!?…])\s+", text.strip())
     return [p for p in parts if p]
+
+
+MIN_CHUNK_CHARS = 8   # below this, Chatterbox's alignment-stream analyzer can
+                      # IndexError on every attempt (too few tokens generated
+                      # for its lookback window) — e.g. a standalone "No."
+
+
+def merge_short_chunks(chunks):
+    """Fold any chunk shorter than MIN_CHUNK_CHARS into a neighbor so it's
+    never synthesized standalone. Merges into the previous chunk when one
+    exists (keeps chunk count/pause placement simple); falls back to the
+    next chunk for a short chunk at the very start."""
+    if len(chunks) <= 1:
+        return chunks
+    merged = list(chunks)
+    i = 0
+    while i < len(merged):
+        if len(merged[i]) >= MIN_CHUNK_CHARS or len(merged) <= 1:
+            i += 1
+            continue
+        if i > 0:
+            merged[i - 1] = f"{merged[i - 1]} {merged[i]}".strip()
+            del merged[i]
+            # don't advance i — re-check the (now longer) merged[i-1] isn't
+            # itself short, and the new merged[i] (old i+1) for shortness
+            i = max(i - 1, 0)
+        else:
+            merged[1] = f"{merged[0]} {merged[1]}".strip()
+            del merged[0]
+    return merged
 
 
 def chunk_sentences(sentences):
@@ -202,10 +292,17 @@ def synth_chunk(model, text, lang, voice_cfg, out_path):
         os.remove(tmp_path)
 
     if best_wav is None:
-        # Every attempt crashed. Emit a short silence so the queue survives;
-        # the segment-level Whisper QC will flag the gap for a manual re-render.
-        print(f"[render]   ALL {GEN_TRIES} attempts crashed for: {text[:60]!r} "
-              f"— inserting silence", flush=True)
+        # Every attempt crashed. Substituting silence here is how 21 episodes
+        # shipped as pauses with no speech: a per-chunk failure is almost never
+        # isolated (a broken backend fails every chunk), so failing the whole
+        # episode loudly is correct. Set SENAL_ALLOW_SILENCE=1 to override for
+        # a genuinely one-off bad chunk.
+        msg = (f"ALL {GEN_TRIES} generation attempts crashed for: {text[:80]!r}. "
+               f"Refusing to substitute silence.")
+        if not os.environ.get("SENAL_ALLOW_SILENCE"):
+            raise RenderCrashed(msg)
+        print(f"[render]   {msg} — SENAL_ALLOW_SILENCE set, inserting silence",
+              flush=True)
         best_wav = torch.zeros(1, int(model.sr * 0.4))
     else:
         # Runaway-loop guard: if even the best take is far longer than the text
@@ -288,6 +385,7 @@ def render_episode(script_path, voicebank, _depth=0):
                 chunks = sentences
             else:
                 chunks = chunk_sentences(sentences)
+            chunks = merge_short_chunks(chunks)
             for ci, chunk in enumerate(chunks):
                 key = chunk_key(voice, tlang, chunk)
                 cpath = os.path.join(chunks_dir, key + ".wav")

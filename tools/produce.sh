@@ -8,7 +8,11 @@ export PROJ="$(cd "$(dirname "$0")/.." && pwd)"
 # launchd gives a minimal PATH (/usr/bin:/bin) — add Homebrew so ffmpeg,
 # ffprobe, whisper-cli and gh are found by the render/scan/publish steps.
 export PATH="/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
-PY="$PROJ/.venv/bin/python"
+# torch/torchaudio 2.6.0 (.venv) crashes on MPS with
+# "Output channels > 65536 not supported at the MPS device" — .venv28 is the
+# rebuilt venv (torch/torchaudio 2.8.0) plus the s3gen resampler patch in
+# render_episode.py that actually fixes the crash.
+PY="$PROJ/.venv28/bin/python"
 LOG="$PROJ/audio-work/produce.log"
 mkdir -p "$PROJ/audio-work"
 
@@ -36,6 +40,13 @@ for script in "$PROJ/scripts"/ep*.json; do
     # Publish gate: never ship an episode that still contains static.
     if ! "$PY" "$PROJ/tools/scan_static.py" "$PROJ/audio-work/out/ep${ep}.mp3" >> "$LOG" 2>&1; then
       echo "[produce] STATIC DETECTED in ep$ep — NOT publishing; left in audio-work/out for review" | tee -a "$LOG"
+      exit 1
+    fi
+    # Silence gate: scan_static catches noise, this catches the opposite —
+    # an episode that "rendered" but is mostly 0.4s gaps because generation
+    # crashed. This is what shipped 21 silent episodes.
+    if ! "$PY" "$PROJ/tools/check_duration.py" "$script" "$PROJ/audio-work/out/ep${ep}.mp3" >> "$LOG" 2>&1; then
+      echo "[produce] DURATION/SILENCE GATE FAILED for ep$ep — NOT publishing" | tee -a "$LOG"
       exit 1
     fi
     echo "[produce $(date '+%F %T')] publishing ep$ep" | tee -a "$LOG"
