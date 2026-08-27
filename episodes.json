@@ -205,6 +205,15 @@
       "duration_s": 1565.879637,
       "bytes": 12527637,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-021/ep021.mp3"
+    },
+    {
+      "id": "022",
+      "title": "El hermano de Julio",
+      "description": "A friendly ministry analyst just happens to drop by doña Marta's stall, and lunch turns into a polite duel where nobody says a single true thing. Afterward, Julio has something to confess.",
+      "pubDate": "2026-08-27T15:10:32",
+      "duration_s": 1609.431837,
+      "bytes": 12876219,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-022/ep022.mp3"
     }
   ]
 }

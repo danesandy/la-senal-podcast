@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>El hermano de Julio</title>
+      <description>A friendly ministry analyst just happens to drop by doña Marta's stall, and lunch turns into a polite duel where nobody says a single true thing. Afterward, Julio has something to confess.</description>
+      <guid isPermaLink="false">la-senal-ep022</guid>
+      <pubDate>Thu, 27 Aug 2026 15:10:32 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-022/ep022.mp3" length="12876219" type="audio/mpeg"/>
+      <itunes:duration>00:26:49</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Demasiado cerca</title>
       <description>The triangulation math is verified again and again, and the answer refuses to change: the source is inside the solar system, maybe closer than the Moon. Julio finally believes Camila — which is exactly why he wants out.</description>
       <guid isPermaLink="false">la-senal-ep021</guid>
