@@ -187,6 +187,15 @@
       "duration_s": 1585.060635,
       "bytes": 12681242,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-019/ep019.mp3"
+    },
+    {
+      "id": "020",
+      "title": "La triangulación",
+      "description": "Three antennas, one 3:47, and a dog named Rayo: the night the volunteer network listens together. Plus: how three friends shouting in a plaza explain how your phone knows where you are.",
+      "pubDate": "2026-08-27T11:04:57",
+      "duration_s": 1673.468957,
+      "bytes": 13388426,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-020/ep020.mp3"
     }
   ]
 }
