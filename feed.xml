@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>La decisión de Andrés</title>
+      <description>At dawn on the observatory roof, Andrés finally tells Camila about Caracas: the lab he lost, the team that scattered, and the antenna his father built on their roof. Then he gives her his answer.</description>
+      <guid isPermaLink="false">la-senal-ep024</guid>
+      <pubDate>Thu, 27 Aug 2026 18:54:23 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-024/ep024.mp3" length="12150646" type="audio/mpeg"/>
+      <itunes:duration>00:25:18</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>La nota de voz</title>
       <description>Tía Chela sends the longest voice note in Maracaibo history: three minutes of neighborhood saga with a bomb buried at minute two. Suddenly Andrés's work permit is not just paperwork anymore.</description>
       <guid isPermaLink="false">la-senal-ep023</guid>

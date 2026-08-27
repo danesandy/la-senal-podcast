@@ -223,6 +223,15 @@
       "duration_s": 1512.976054,
       "bytes": 12104452,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-023/ep023.mp3"
+    },
+    {
+      "id": "024",
+      "title": "La decisión de Andrés",
+      "description": "At dawn on the observatory roof, Andrés finally tells Camila about Caracas: the lab he lost, the team that scattered, and the antenna his father built on their roof. Then he gives her his answer.",
+      "pubDate": "2026-08-27T18:54:23",
+      "duration_s": 1518.739342,
+      "bytes": 12150646,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-024/ep024.mp3"
     }
   ]
 }
