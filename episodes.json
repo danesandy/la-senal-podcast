@@ -295,6 +295,15 @@
       "duration_s": 2229.008662,
       "bytes": 17832789,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-031/ep031.mp3"
+    },
+    {
+      "id": "032",
+      "title": "La senadora",
+      "description": "Senator Ochoa arrives at the observatory unannounced, armed with poetry, perfect manners, and an offer that sounds too good. Andrés notices the one question she never asks.",
+      "pubDate": "2026-08-28T15:37:15",
+      "duration_s": 2076.093288,
+      "bytes": 16609423,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-032/ep032.mp3"
     }
   ]
 }
