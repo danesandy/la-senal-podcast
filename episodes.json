@@ -250,6 +250,15 @@
       "duration_s": 1578.932041,
       "bytes": 12632131,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-026/ep026.mp3"
+    },
+    {
+      "id": "027",
+      "title": "La víspera",
+      "description": "The night before the predicted signal. Everything that can be checked is checked twice, clouds gather over the llanos, and each member of the team faces the longest wait of their lives in their own quiet way.",
+      "pubDate": "2026-08-28T01:11:56",
+      "duration_s": 1493.643129,
+      "bytes": 11949805,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-027/ep027.mp3"
     }
   ]
 }
