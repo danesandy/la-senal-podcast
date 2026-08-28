@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>¿Y ahora qué?</title>
+      <description>The morning after: the data confirms a sky signal and a ground answer, and the team must choose between three dangerous options. The vote never finishes — four men get out of a grey SUV, and Sarmiento's phone call is three words long.</description>
+      <guid isPermaLink="false">la-senal-ep029</guid>
+      <pubDate>Fri, 28 Aug 2026 05:52:02 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-029/ep029.mp3" length="11993276" type="audio/mpeg"/>
+      <itunes:duration>00:24:59</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>3:52</title>
       <description>The night the whole network listens. At 3:52 the signal returns, louder than ever and everywhere at once — and then, from the llanos, don Ramiro's voice says the words that change everything.</description>
       <guid isPermaLink="false">la-senal-ep028</guid>
