@@ -277,6 +277,15 @@
       "duration_s": 1499.063923,
       "bytes": 11993276,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-029/ep029.mp3"
+    },
+    {
+      "id": "030",
+      "title": "Prueba y promesa",
+      "description": "Day 30 is test day: El Flaco quizzes his 'audience' with five passages retelling the month's story, each faster than the last, fifteen questions in all. Score yourself with the sheet in the show notes — your result shapes Month 2.",
+      "pubDate": "2026-08-28T07:31:59",
+      "duration_s": 1368.629955,
+      "bytes": 10949633,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-030/ep030.mp3"
     }
   ]
 }
