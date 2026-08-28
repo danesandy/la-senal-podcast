@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>3:52</title>
+      <description>The night the whole network listens. At 3:52 the signal returns, louder than ever and everywhere at once — and then, from the llanos, don Ramiro's voice says the words that change everything.</description>
+      <guid isPermaLink="false">la-senal-ep028</guid>
+      <pubDate>Fri, 28 Aug 2026 03:45:24 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-028/ep028.mp3" length="12644237" type="audio/mpeg"/>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>La víspera</title>
       <description>The night before the predicted signal. Everything that can be checked is checked twice, clouds gather over the llanos, and each member of the team faces the longest wait of their lives in their own quiet way.</description>
       <guid isPermaLink="false">la-senal-ep027</guid>

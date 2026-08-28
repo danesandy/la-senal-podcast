@@ -259,6 +259,15 @@
       "duration_s": 1493.643129,
       "bytes": 11949805,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-027/ep027.mp3"
+    },
+    {
+      "id": "028",
+      "title": "3:52",
+      "description": "The night the whole network listens. At 3:52 the signal returns, louder than ever and everywhere at once — and then, from the llanos, don Ramiro's voice says the words that change everything.",
+      "pubDate": "2026-08-28T03:45:24",
+      "duration_s": 1580.43805,
+      "bytes": 12644237,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-028/ep028.mp3"
     }
   ]
 }
