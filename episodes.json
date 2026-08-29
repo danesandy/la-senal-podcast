@@ -322,6 +322,15 @@
       "duration_s": 1873.719433,
       "bytes": 14990462,
       "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-034/ep034.mp3"
+    },
+    {
+      "id": "035",
+      "title": "La filtración",
+      "description": "A journalist calls Camila knowing things only the team should know, and trust fractures along the shortest of lists — until a voice note from Maracaibo reveals where the leak really came from.",
+      "pubDate": "2026-08-29T03:38:10",
+      "duration_s": 1828.176667,
+      "bytes": 14626000,
+      "url": "https://github.com/danesandy/la-senal-podcast/releases/download/ep-035/ep035.mp3"
     }
   ]
 }

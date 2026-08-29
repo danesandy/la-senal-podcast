@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>La filtración</title>
+      <description>A journalist calls Camila knowing things only the team should know, and trust fractures along the shortest of lists — until a voice note from Maracaibo reveals where the leak really came from.</description>
+      <guid isPermaLink="false">la-senal-ep035</guid>
+      <pubDate>Sat, 29 Aug 2026 03:38:10 GMT</pubDate>
+      <enclosure url="https://github.com/danesandy/la-senal-podcast/releases/download/ep-035/ep035.mp3" length="14626000" type="audio/mpeg"/>
+      <itunes:duration>00:30:28</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Números primos</title>
       <description>After a sleepless night, Andrés sees what the signal's timing has been doing all along, and doña Marta's oranges explain it to everyone. A countdown begins: eleven days.</description>
       <guid isPermaLink="false">la-senal-ep034</guid>
